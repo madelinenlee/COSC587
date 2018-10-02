@@ -23,7 +23,7 @@ if __name__ == "__main__":
 		players = body.find_all("p")
 
 		for player in players:
-			time.sleep(2)
+			time.sleep(2) # Just for shits
 
 			# Clean player name
 			s = player.text
