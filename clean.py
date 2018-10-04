@@ -19,7 +19,10 @@ def cleanProFootballReference(df):
 
 	# Switch game_location = "@" to a flag for 'away' column
 	df["away"] = np.where(df["game_location"] == "@", 1, 0)
-	df = df.drop("game_location", axis=1)	
+	df = df.drop("game_location", axis=1)
+
+	# Replace '*' with 1 in game_started column
+	df["gs"] = np.where(df["gs"] == "*", 1, 0)
 
 	return df
 
