@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 
 
@@ -15,6 +16,10 @@ def cleanProFootballReference(df):
 	df = df.drop(["def_int", "def_int_yds", "game_result", "punt",
 		          "punt_blocked", "punt_yds", "sacks", "safety_md",
 		          "tackles_assists", "tackles_solo",], axis=1)
+
+	# Switch game_location = "@" to a flag for 'away' column
+	df["away"] = np.where(df["game_location"] == "@", 1, 0)
+	df = df.drop("game_location", axis=1)	
 
 	return df
 
