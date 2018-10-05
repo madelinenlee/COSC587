@@ -7,7 +7,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 
 
-if __name__ = "__main__":
+if __name__ == "__main__":
 
 	# Need a driver to produce html from javascript
 	driver = webdriver.Chrome(executable_path="C:\\Program Files\\chromedriver\\chromedriver")
