@@ -205,12 +205,15 @@ if __name__ == '__main__':
         _teamB = row.Opponent
         print(f'[{i}] {_year}-S{_week}: {_teamA} vs. {_teamB}')
 
-        new_rows = get_weather_data(_year, _week, _teamA, _teamB)
-        if new_rows is None:
-            new_rows = get_weather_data(_year, _week, _teamB, _teamA)
+        try:
+            new_rows = get_weather_data(_year, _week, _teamA, _teamB)
+            if new_rows is None:
+                new_rows = get_weather_data(_year, _week, _teamB, _teamA)
 
-        if new_rows is not None:
-            data.append(new_rows)
+            if new_rows is not None:
+                data.append(new_rows)
+        except TimeoutError:
+            pass
 
         if i % 1000 == 0:
             df = pd.DataFrame(data, columns=COLUMNS)
