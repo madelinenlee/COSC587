@@ -85,6 +85,7 @@ COLUMNS = [
     'q4_precipitation_prob'
 ]
 
+
 def get_content_divs(html):
     result = []
     start = "<div class='span3'>"
@@ -197,28 +198,39 @@ if __name__ == '__main__':
     data = []
 
     i = 0
+    redundant = 0
+    done_entries = []
     for row in df.itertuples():
         i += 1
         _year = row.Season
         _week = row.Week
         _teamA = row.Team
         _teamB = row.Opponent
-        print(f'[{i}] {_year}-S{_week}: {_teamA} vs. {_teamB}')
+        key = f'{_year}-S{_week}: {_teamA} vs. {_teamB}'
 
-        try:
-            new_rows = get_weather_data(_year, _week, _teamA, _teamB)
-            if new_rows is None:
-                new_rows = get_weather_data(_year, _week, _teamB, _teamA)
+        if key in done_entries:
+            redundant += 1
+            continue
+        else:
+            done_entries.append(key)
+            print(key)
 
-            if new_rows is not None:
-                data.append(new_rows)
-        except TimeoutError:
-            pass
+            try:
+                new_rows = get_weather_data(_year, _week, _teamA, _teamB)
+                if new_rows is None:
+                    new_rows = get_weather_data(_year, _week, _teamB, _teamA)
 
-        if i % 1000 == 0:
-            df = pd.DataFrame(data, columns=COLUMNS)
-            df.to_csv('data/weather.csv')
+                if new_rows is not None:
+                    data.append(new_rows)
+            except TimeoutError:
+                pass
 
+            if i % 1000 == 0:
+                df = pd.DataFrame(data, columns=COLUMNS)
+                df.to_csv('data/weather.csv')
+
+    print('redundant: ' + str(redundant))
+    print('total: ' + str(i))
     print('saving file')
     df = pd.DataFrame(data, columns=COLUMNS)
     df.to_csv('data/weather.csv')
