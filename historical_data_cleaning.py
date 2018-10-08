@@ -41,16 +41,6 @@ if __name__ == '__main__':
     #realize this changes the way cleaning score should be measured for position
     #omit position from being checked in noisy data - as long as not null,
     #position data is OK
-    
-    #convert catch percentage attribute from string to float
-    #can't get this to work :/ 
-    '''def clean_catch_pct(data_frame):
-        percent_data = my_data['catch_pct'].replace(r'%',r'0').astype(float)/100.0
-        for i in range(63371, data_frame.shape[0]):
-            if '%' in data_frame.at[i, 'catch_pct']:
-                strip_percent = str(data_frame.loc[i, 'catch_pct']).strip('%')
-            data_frame.at[i, 'catch_pct'] = str(float(strip_percent)/100)'''
-
 
     #replace all numeric attributes with null values to zero
     def clean_hist_int_nulls(data_frame):
@@ -69,7 +59,7 @@ if __name__ == '__main__':
             
         return(data_frame)
         
-    #run cleaning process
+    #run cleaning process, write new dataframe to csv 
     def hist_clean_process(data_frame): 
         print('running initial cleaning score...')
         clean_hist_score(data_frame)
@@ -88,9 +78,12 @@ if __name__ == '__main__':
         print('re-running cleaning score... ')
         clean_hist_score(final_data)
         
-        return(final_data)
+        #write to csv in same directory
+        final_data.to_csv('clean_historical_data.csv', sep = ',')
+        
+        #return(final_data)
     
-
-    hist_clean_process(historical_data)
+    #test
+    #hist_clean_process(historical_data)
     
     
