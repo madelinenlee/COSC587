@@ -6,20 +6,6 @@ Created on Thu Oct  4 12:34:09 2018
 @author: madeline
 """
 
-#check redundant data
-    #percentage of redundant data 
-#how to check for noise?
-    #negative values, not in team list, 
-#position data (how to separate, if to)
-    #keep in list in data frame
-#do teams match up
-#missing values (N/A)
-
-#fantasy prediction
-    
-#fill null with zeroes
-#run again
-
 
 import numpy as np
 import pandas as pd
@@ -99,7 +85,7 @@ if __name__ == '__main__':
     def non_negative_hist_score(data_frame):
         #print('find number of negative values per proper numeric attribute')
         
-        #list of object attributes, attributes where negative values are OK, determined by experts (us)
+        #list of object attributes, attributes where negative values are OK, determined by researchers
         non_pos = ['team','opp','player','game_date','position','catch_pct',\
                    'rush_yds','rush_yds_per_att','pass_yds','pass_yds_per_att',\
                    'pass_adj_yds_per_att','kick_ret_yds','kick_ret_yds_per_ret',\
@@ -151,5 +137,6 @@ if __name__ == '__main__':
         print('percentage: ' + str(clean_percent_score))
         print('note: a lower percentage is better')
         return (clean_percent_score)
-
-    clean_hist_score(historical_data)
+    
+    #test
+    #clean_hist_score(historical_data)
