@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2017,2017-12-23,15,24.266,GNB,,MIN,L 0-16,,0.0,0,0
+2,2017,2017-12-31,16,24.274,GNB,@,DET,L 11-35,,1.0,2,0
+3,2018,2018-09-09,1,25.161,GNB,,CHI,W 24-23,,0.0,2,0
+4,2018,2018-09-16,2,25.168,GNB,,MIN,T 29-29,,0.5,0,1
+5,2018,2018-09-23,3,25.175,GNB,@,WAS,L 17-31,,0.0,0,2

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1989,1989-09-10,1,25.029,TAM,@,GNB,W 23-21
+2,1989,1989-09-17,2,25.036,TAM,,SFO,L 16-20
+3,1989,1989-10-08,5,25.057,TAM,,CHI,W 42-35
+4,1989,1989-10-15,6,25.064,TAM,,DET,L 16-17
+5,1989,1989-10-22,7,25.071,TAM,@,WAS,L 28-32

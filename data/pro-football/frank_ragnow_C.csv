@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2018,2018-09-10,1,22.116,DET,,NYJ,L 17-48,*
+2,2018,2018-09-16,2,22.122,DET,@,SFO,L 27-30,*
+3,2018,2018-09-23,3,22.129,DET,,NWE,W 26-10,*

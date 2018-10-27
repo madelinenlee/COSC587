@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2004,2004-12-05,12,23.082,SDG,,DEN,W 20-17,,,,,
+2,2004,2004-12-12,13,23.089,SDG,,TAM,W 31-24,,,,,
+3,2004,2004-12-19,14,23.096,SDG,@,CLE,W 21-0,,,,,
+4,2004,2004-12-26,15,23.103,SDG,@,IND,L 31-34,,,,,
+5,2004,2005-01-02,16,23.110,SDG,,KAN,W 24-17,,2,35,17.50,0

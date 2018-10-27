@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2016,2016-09-25,3,24.008,TAM,,LAR,L 32-37,,0.0,0,0
+2,2016,2016-10-02,4,24.015,TAM,,DEN,L 7-27,,0.0,1,2
+3,2016,2016-10-10,5,24.023,TAM,@,CAR,W 17-14,*,0.0,0,2
+4,2016,2016-11-03,8,24.047,TAM,,ATL,L 28-43,,0.0,0,0
+5,2017,2017-12-31,16,25.105,TAM,,NOR,W 31-24,,0.0,0,0

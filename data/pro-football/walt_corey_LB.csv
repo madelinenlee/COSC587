@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1960,1960-09-25,3,22.139,DTX,,LAC,W 17-0,2,13,0
+2,1960,1960-11-06,8,22.181,DTX,@,BUF,W 45-28,1,7,0
+3,1964,1964-09-27,2,26.141,KAN,@,OAK,W 21-9,1,17,0

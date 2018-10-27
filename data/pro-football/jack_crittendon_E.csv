@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1954,1954-09-26,1,24.048,CRD,,NYG,L 10-41,2,21,10.50,0
+2,1954,1954-10-03,2,24.055,CRD,,PHI,L 16-35,1,8,8.00,0
+3,1954,1954-10-10,3,24.062,CRD,@,CLE,L 7-31,1,15,15.00,0
+4,1954,1954-11-21,9,24.104,CRD,,WAS,W 38-16,1,4,4.00,0

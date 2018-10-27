@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2007,2007-12-06,13,25.135,WAS,,CHI,W 24-16,
+2,2007,2007-12-16,14,25.145,WAS,@,NYG,W 22-10,
+3,2007,2007-12-23,15,25.152,WAS,@,MIN,W 32-21,
+4,2007,2007-12-30,16,25.159,WAS,,DAL,W 27-6,

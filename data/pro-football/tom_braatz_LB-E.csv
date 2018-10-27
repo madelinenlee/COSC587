@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,def_int,def_int_yds,def_int_td
+1,1957,1957-11-17,8,24.189,WAS,,CLE,T 30-30,1,37,37.00,0,,,
+2,1957,1957-12-01,10,24.203,WAS,@,CHI,W 14-3,1,15,15.00,0,,,
+3,1960,1960-09-30,2,27.141,DAL,,PHI,L 25-27,0,0,,0,1,4,0

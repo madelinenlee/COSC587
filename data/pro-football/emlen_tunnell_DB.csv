@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1960,1960-09-25,1,35.180,GNB,,CHI,L 14-17,1,22,0
+2,1960,1960-10-09,3,35.194,GNB,,BAL,W 35-21,1,0,0
+3,1960,1960-11-24,9,35.240,GNB,@,DET,L 10-23,1,0,0

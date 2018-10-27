@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2011,2011-12-04,12,23.225,IND,@,NWE,L 24-31,,0.0,0,2
+2,2011,2011-12-11,13,23.232,IND,@,BAL,L 10-24,,0.0,1,0
+3,2011,2011-12-18,14,23.239,IND,,TEN,W 27-13,,0.0,0,2
+4,2011,2012-01-01,16,23.253,IND,@,JAX,L 13-19,,0.0,0,0

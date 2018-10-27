@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1993,1993-09-06,1,22.281,DAL,@,WAS,L 16-35
+2,1993,1993-09-12,2,22.287,DAL,,BUF,L 10-13
+3,1993,1993-09-19,3,22.294,DAL,@,PHO,W 17-10
+4,1993,1993-11-07,8,22.343,DAL,,NYG,W 31-9
+5,1993,1993-11-14,9,22.350,DAL,,PHO,W 20-15

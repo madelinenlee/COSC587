@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1993,1993-11-07,8,23.198,CIN,,PIT,L 16-24,3,5,1.67,0,1,1,16,16.00,0,100.0%,16.00,4,78,19.50,0

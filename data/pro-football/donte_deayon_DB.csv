@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2017,2017-10-15,6,23.260,NYG,@,DEN,W 23-10,,0.0,1,0
+2,2017,2017-10-22,7,23.267,NYG,,SEA,L 7-24,,0.0,3,0
+3,2017,2017-11-19,10,23.295,NYG,,KAN,W 12-9,,0.0,0,1
+4,2017,2017-11-23,11,23.299,NYG,@,WAS,L 10-20,,0.0,2,0
+5,2018,2018-09-16,2,24.231,NYG,@,DAL,L 13-20,,0.0,0,0
+6,2018,2018-09-23,3,24.238,NYG,@,HOU,W 27-22,,0.0,3,1

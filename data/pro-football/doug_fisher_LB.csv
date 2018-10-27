@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1970,1970-10-25,6,23.229,PIT,@,OAK,L 14-31
+2,1970,1970-11-02,7,23.237,PIT,,CIN,W 21-10
+3,1970,1970-11-08,8,23.243,PIT,,NYJ,W 21-17
+4,1970,1970-11-15,9,23.250,PIT,,KAN,L 14-31

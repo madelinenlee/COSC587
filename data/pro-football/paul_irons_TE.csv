@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2005,2005-12-18,14,21.360,CLE,@,OAK,W 9-7,,,0,0,,0,0.0%,
+2,2005,2006-01-01,16,22.009,CLE,,BAL,W 20-16,*,2,2,16,8.00,0,100.0%,8.00

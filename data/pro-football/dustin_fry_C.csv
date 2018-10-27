@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2007,2007-12-09,13,24.067,STL,@,CIN,L 10-19,
+2,2007,2007-12-16,14,24.074,STL,,GNB,L 14-33,
+3,2007,2007-12-20,15,24.078,STL,,PIT,L 24-41,
+4,2007,2007-12-30,16,24.088,STL,@,ARI,L 19-48,

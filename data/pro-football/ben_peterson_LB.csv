@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,1999,1999-10-17,6,22.203,CIN,,PIT,L 3-17,
+2,1999,1999-10-24,7,22.210,CIN,@,IND,L 10-31,
+3,1999,1999-10-31,8,22.217,CIN,,JAX,L 10-41,

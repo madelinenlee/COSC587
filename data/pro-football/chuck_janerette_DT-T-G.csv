@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1963,1963-10-13,5,24.316,NYJ,@,SDG,L 20-24,1,6,0
+2,1965,1965-10-17,6,26.320,DEN,,HOU,W 28-17,1,0,0

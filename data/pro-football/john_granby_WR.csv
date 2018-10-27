@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1992,1992-11-08,9,23.363,DEN,,NYJ,W 27-16
+2,1992,1992-11-15,10,24.004,DEN,,NYG,W 27-13
+3,1992,1992-11-22,11,24.011,DEN,@,RAI,L 0-24
+4,1992,1992-11-30,12,24.019,DEN,@,SEA,L 13-16

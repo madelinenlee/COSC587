@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2013,2013-09-08,1,24.318,DET,,MIN,W 34-24,*,3,3,30,10.00,0,100.0%,10.00
+2,2013,2013-09-15,2,24.325,DET,@,ARI,L 21-25,,,,,,,0.0%,
+3,2013,2013-10-06,5,24.346,DET,@,GNB,L 9-22,,5,2,16,8.00,0,40.0%,3.20
+4,2013,2013-10-13,6,24.353,DET,@,CLE,W 31-17,*,3,0,0,,0,0.0%,0.00

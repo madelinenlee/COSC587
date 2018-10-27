@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1970,1970-11-29,11,23.258,NOR,@,CIN,L 6-26,1,49,49.00,0
+2,1970,1970-12-06,12,23.265,NOR,@,RAM,L 16-34,,,,
+3,1970,1970-12-13,13,23.272,NOR,,SFO,L 27-38,,,,
+4,1970,1970-12-20,14,23.279,NOR,,CHI,L 3-24,,,,

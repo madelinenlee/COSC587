@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1970,1970-11-29,11,24.272,MIN,@,NYJ,L 10-20
+2,1970,1970-12-05,12,24.278,MIN,,CHI,W 16-13

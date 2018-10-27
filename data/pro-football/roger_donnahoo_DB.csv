@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1960,1960-09-11,1,23.037,NYT,,BUF,W 27-3,1,39,0
+2,1960,1960-09-17,2,23.043,NYT,,BOS,L 24-28,1,30,0
+3,1960,1960-11-04,9,23.091,NYT,,LAC,L 7-21,1,19,0
+4,1960,1960-12-11,13,23.128,NYT,@,OAK,W 31-28,1,1,0
+5,1960,1960-12-18,14,23.135,NYT,@,LAC,L 43-50,1,0,0

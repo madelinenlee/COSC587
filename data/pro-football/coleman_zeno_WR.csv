@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1971,1971-11-07,8,24.354,NYG,,SDG,W 35-17,4,90,22.50,0,2,10,5.00,0
+2,1971,1971-11-14,9,24.361,NYG,@,ATL,W 21-17,1,7,7.00,0,0,0,,0

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1953,1953-09-27,1,24.208,CHI,@,BAL,L 9-13,0,0,,0,1,12,12.00,0
+2,1953,1953-11-08,7,24.250,CHI,,GNB,T 21-21,0,0,,0,2,21,10.50,0
+3,1954,1954-11-21,9,25.263,CHI,@,BAL,W 28-13,3,8,2.67,0,0,0,,0

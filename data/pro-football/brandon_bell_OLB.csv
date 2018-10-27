@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2017,2017-12-17,14,22.342,CIN,@,MIN,L 7-34,,0.0,0,0
+2,2017,2017-12-24,15,22.349,CIN,,DET,W 26-17,,0.0,0,1
+3,2017,2017-12-31,16,22.356,CIN,@,BAL,W 31-27,,0.0,4,2

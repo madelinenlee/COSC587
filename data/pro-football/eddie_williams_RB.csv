@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2011,2011-09-18,2,24.027,SEA,@,PIT,L 0-24,,0,0,,0,1,1,17,17.00,0,100.0%,17.00
+2,2011,2011-09-25,3,24.034,SEA,,ARI,W 13-10,,2,2,1.00,0,0,0,0,,0,0.0%,
+3,2011,2011-10-02,4,24.041,SEA,,ATL,L 28-30,,,,,,,,,,,0.0%,
+4,2011,2011-12-18,14,24.118,CLE,@,ARI,L 17-20,,,,,,,,,,,0.0%,
+5,2011,2011-12-24,15,24.124,CLE,@,BAL,L 14-20,,,,,,,,,,,0.0%,
+6,2011,2012-01-01,16,24.132,CLE,,PIT,L 9-13,,,,,,,,,,,0.0%,

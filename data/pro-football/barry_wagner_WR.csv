@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,1992,1992-12-20,15,25.026,CHI,@,DET,L 3-16,1,1,16,16.00,0,100.0%,16.00

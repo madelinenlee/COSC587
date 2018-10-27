@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,all_td,scoring
+1,1986,1986-09-29,4,22.361,STL,,DAL,L 7-31,0,0,,0,2,61,30.50,0,0,0
+2,1986,1986-10-05,5,23.002,STL,,NYG,L 6-13,0,0,,0,4,100,25.00,0,0,0
+3,1986,1986-10-12,6,23.009,STL,@,TAM,W 30-19,4,54,13.50,1,0,0,,0,1,6
+4,1986,1986-10-19,7,23.016,STL,@,WAS,L 21-28,1,5,5.00,0,0,0,,0,0,0

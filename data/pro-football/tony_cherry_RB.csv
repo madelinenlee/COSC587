@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,all_td,scoring
+1,1986,1986-09-07,1,23.211,SFO,@,TAM,W 31-7,0,0,,0,0,0,,0,,
+2,1986,1986-09-14,2,23.218,SFO,@,RAM,L 13-16,0,0,,0,0,0,,0,,
+3,1986,1986-09-21,3,23.225,SFO,,NOR,W 26-17,3,17,5.67,0,0,0,,0,0,0
+4,1986,1986-09-28,4,23.232,SFO,@,MIA,W 31-16,8,25,3.13,0,0,0,,0,0,0
+5,1986,1986-10-05,5,23.239,SFO,,IND,W 35-14,0,0,,0,2,29,14.50,0,0,0
+6,1987,1987-10-05,3,24.239,SFO,@,NYG,W 41-21,13,65,5.00,1,0,0,,0,1,6

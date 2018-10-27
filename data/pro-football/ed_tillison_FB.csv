@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1992,1992-09-13,2,23.214,DET,,MIN,W 31-17,0,0,,0,0,0,,0
+2,1992,1992-09-20,3,23.221,DET,@,WAS,L 10-13,0,0,,0,0,0,,0
+3,1992,1992-12-06,13,23.298,DET,@,GNB,L 10-38,0,0,,0,1,27,27.00,0
+4,1992,1992-12-13,14,23.305,DET,,CLE,W 24-14,0,0,,0,0,0,,0
+5,1992,1992-12-20,15,23.312,DET,,CHI,W 16-3,3,12,4.00,0,0,0,,0
+6,1992,1992-12-28,16,23.320,DET,@,SFO,L 6-24,1,10,10.00,0,0,0,,0

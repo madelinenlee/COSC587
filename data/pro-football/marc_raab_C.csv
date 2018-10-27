@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1993,1993-12-26,15,24.334,WAS,@,DAL,L 3-38
+2,1993,1993-12-31,16,24.339,WAS,,MIN,L 9-14
+3,1998,1998-12-13,14,29.321,SDG,@,SEA,L 17-38

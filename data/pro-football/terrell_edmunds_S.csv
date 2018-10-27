@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists,def_int,def_int_yds,def_int_td
+1,2018,2018-09-09,1,21.232,PIT,@,CLE,T 21-21,*,0.0,0,0,0,0,0
+2,2018,2018-09-16,2,21.239,PIT,,KAN,L 37-42,,0.0,3,0,0,0,0
+3,2018,2018-09-24,3,21.247,PIT,@,TAM,W 30-27,*,0.0,1,0,1,35,0

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,all_td,scoring
+1,1970,1970-12-06,12,23.343,BOS,@,MIA,L 20-37,2,28,14.00,1,1,6
+2,1970,1970-12-13,13,23.350,BOS,,MIN,L 14-35,,,,,,
+3,1970,1970-12-20,14,23.357,BOS,@,CIN,L 7-45,1,11,11.00,0,0,0

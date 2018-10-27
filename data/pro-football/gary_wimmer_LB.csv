@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1983,1983-10-23,8,22.228,SEA,,PIT,L 21-27
+2,1983,1983-10-30,9,22.235,SEA,@,RAI,W 34-21
+3,1983,1983-11-06,10,22.242,SEA,,DEN,W 27-19

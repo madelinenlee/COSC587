@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,sacks
+1,1985,1985-09-15,2,25.278,PHI,,RAM,L 6-17,
+2,1985,1985-09-22,3,25.285,PHI,@,WAS,W 19-6,1.0
+3,1985,1985-10-06,5,25.299,PHI,@,NOR,L 21-23,

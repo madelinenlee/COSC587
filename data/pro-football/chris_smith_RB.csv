@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1986,1986-09-07,1,23.098,KAN,,CIN,W 24-14,,,,,,,,
+2,1987,1987-10-04,3,24.125,KAN,@,RAI,L 17-35,8,39,4.88,0,0,0,,0
+3,1987,1987-10-11,4,24.132,KAN,@,MIA,L 0-42,5,19,3.80,0,2,21,10.50,0
+4,1987,1987-10-18,5,24.139,KAN,,DEN,L 17-26,13,56,4.31,0,0,0,,0

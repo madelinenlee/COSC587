@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1985,1985-12-15,15,22.056,NOR,,SFO,L 19-31
+2,1985,1985-12-22,16,22.063,NOR,,ATL,L 10-16
+3,1987,1987-10-04,3,23.349,DEN,,HOU,L 10-40
+4,1987,1987-10-12,4,23.357,DEN,,RAI,W 30-14
+5,1987,1987-10-18,5,23.363,DEN,@,KAN,W 26-17

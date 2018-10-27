@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,all_td,scoring
+1,2005,2005-11-24,11,25.144,DEN,@,DAL,W 24-21,,0,0,,0,0,0,,0,0,0,,0,0,,,0,0
+2,2005,2005-12-04,12,25.154,DEN,@,KAN,L 27-31,,1,7,7.00,1,0,0,,0,0,0,,0,,,,1,6
+3,2005,2005-12-24,15,25.174,DEN,,OAK,W 22-3,,0,0,,0,0,0,,0,0,0,,0,,,,0,0
+4,2005,2005-12-31,16,25.181,DEN,@,SDG,W 23-7,,10,41,4.10,0,2,8,25.00,7,0,0,39.6,0,0,0.88,0.88,0,0

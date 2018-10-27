@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2009,2009-12-06,12,23.242,KAN,,DEN,L 13-44,,2,-5,-2.50,0
+2,2009,2009-12-20,14,23.256,KAN,,CLE,L 34-41,,1,1,1.00,0
+3,2009,2009-12-27,15,23.263,KAN,@,CIN,L 10-17,,,,,
+4,2009,2010-01-03,16,23.270,KAN,@,DEN,W 44-24,,3,10,3.33,0

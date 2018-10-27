@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1988,1988-10-30,9,23.032,TAM,,MIA,L 14-17
+2,1988,1988-11-06,10,23.039,TAM,@,CHI,L 10-28
+3,1988,1988-11-13,11,23.046,TAM,@,DET,W 23-20
+4,1988,1988-11-20,12,23.053,TAM,,CHI,L 15-27

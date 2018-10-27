@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1993,1993-10-17,6,26.106,NWE,,HOU,L 14-28
+2,1993,1993-10-24,7,26.113,NWE,@,SEA,L 9-10
+3,1993,1993-11-28,11,26.148,NWE,,NYJ,L 0-6
+4,1993,1993-12-05,12,26.155,NWE,@,PIT,L 14-17

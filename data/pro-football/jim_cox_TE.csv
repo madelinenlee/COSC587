@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1968,1968-09-21,2,21.275,MIA,,OAK,L 21-47,4,54,13.50,0,0,0,,0
+2,1968,1968-09-28,3,21.282,MIA,,KAN,L 3-48,1,23,23.00,0,0,0,,0
+3,1968,1968-11-03,8,21.318,MIA,@,SDG,L 28-34,1,8,8.00,0,0,0,,0
+4,1968,1968-11-24,11,21.339,MIA,@,BOS,W 34-10,3,45,15.00,0,0,0,,0
+5,1968,1968-12-01,12,21.346,MIA,@,NYJ,L 17-35,1,7,7.00,0,0,0,,0
+6,1968,1968-12-08,13,21.353,MIA,,BOS,W 38-7,1,10,10.00,0,0,41,,0

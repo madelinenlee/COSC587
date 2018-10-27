@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2003,2003-10-13,5,23.321,STL,,ATL,W 36-0,,,,,
+2,2003,2003-10-19,6,23.327,STL,,GNB,W 34-24,,2,36,18.00,0
+3,2003,2003-10-26,7,23.334,STL,@,PIT,W 33-21,,4,73,18.25,0
+4,2003,2003-11-02,8,23.341,STL,@,SFO,L 10-30,,,,,

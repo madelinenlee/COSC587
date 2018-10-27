@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1952,1952-10-18,4,22.318,DTX,,GNB,L 14-24,1,32,32.00,0
+2,1952,1952-11-09,7,22.340,DTX,,RAM,L 6-27,3,37,12.33,0
+3,1952,1952-11-23,9,22.354,DTX,@,GNB,L 14-42,1,8,8.00,0
+4,1952,1952-12-13,12,23.008,DTX,@,DET,L 6-41,1,15,15.00,0

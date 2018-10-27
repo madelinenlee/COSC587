@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring,sacks,tackles_solo,tackles_assists
+1,2010,2010-12-05,12,25.200,CIN,,NOR,L 30-34,,1,2,50.0,3,3,100.0,0,10,0.0,0,1
+2,2010,2010-12-12,13,25.207,CIN,@,PIT,L 7-23,,1,1,100.0,,,,0,1,0.0,0,0
+3,2010,2010-12-19,14,25.214,CIN,,CLE,W 19-17,,1,1,100.0,4,4,100.0,0,13,0.0,0,0
+4,2010,2010-12-26,15,25.221,CIN,,SDG,W 34-20,,4,5,80.0,,,,0,4,0.0,0,0
+5,2010,2011-01-02,16,25.228,CIN,@,BAL,L 7-13,,1,1,100.0,,1,0.0,0,1,0.0,0,0

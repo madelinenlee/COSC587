@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1983,1983-09-11,2,23.067,RAM,,NOR,W 30-27,0,0,,0
+2,1983,1983-09-18,3,23.074,RAM,@,GNB,L 24-27,1,0,0.00,0
+3,1983,1983-09-25,4,23.081,RAM,@,NYJ,L 24-27,0,0,,0

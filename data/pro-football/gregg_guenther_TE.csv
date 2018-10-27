@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2005,2005-10-23,7,23.267,TEN,@,ARI,L 10-20,,,,,,,0.0%,
+2,2005,2005-10-30,8,23.274,TEN,,OAK,L 25-34,,1,1,5,5.00,0,100.0%,5.00
+3,2005,2005-11-06,9,23.281,TEN,@,CLE,L 14-20,,1,0,0,,0,0.0%,0.00
+4,2005,2005-12-11,13,23.316,TEN,,HOU,W 13-10,,1,1,8,8.00,0,100.0%,8.00
+5,2005,2005-12-18,14,23.323,TEN,,SEA,L 24-28,,,0,0,,0,0.0%,

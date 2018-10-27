@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1975,1975-11-23,10,23.116,BUF,,NWE,W 45-31,1,18,18.00,0
+2,1975,1975-12-20,14,23.143,BUF,,MIN,L 13-35,3,62,20.67,0

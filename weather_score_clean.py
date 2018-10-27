@@ -7,7 +7,6 @@
 import numpy as np
 import pandas as pd
 import random
-from weatherbit.api import Api
 from pprint import  pprint
 
 
@@ -113,7 +112,7 @@ if __name__ == "__main__":
                         'CHI', 'DET', 'CAR', 'NO', 'SF', 'LAR', 'NYG',
                         'BAL', 'TEN', 'GB', 'MIN', 'TB', 'ATL', 'ARI', 'MIA',
                         'CIN', 'HOU', 'PHI', 'SEA', 'NE', 'KC', 'OAK']
-    df = read_file_to_pandas("weather.csv")
+    df = read_file_to_pandas("data\\weather.csv")
     df = replace_blank_na_with_nan(df)
     main()
 

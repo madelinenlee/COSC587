@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1987,1987-10-04,3,22.059,NYJ,,DAL,L 24-38,,0,2,0.00,0,0,1,0.0,0,0,0.00,-22.50,1,4,4.00,0

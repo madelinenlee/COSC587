@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1973,1973-11-25,11,22.109,NYJ,,ATL,L 20-28
+2,1973,1973-12-02,12,22.116,NYJ,,BAL,W 20-17
+3,1973,1973-12-09,13,22.123,NYJ,@,PHI,L 23-24
+4,1973,1973-12-16,14,22.130,NYJ,,BUF,L 14-34

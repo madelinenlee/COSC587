@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1960,1960-10-16,4,25.028,PHI,,DET,W 28-10,2,33,0
+2,1960,1960-11-06,6,25.049,PHI,,PIT,W 34-7,1,1,0

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1987,1987-11-16,9,23.250,CHI,@,DEN,L 29-31
+2,1987,1987-11-22,10,23.256,CHI,,DET,W 30-10
+3,1987,1987-11-29,11,23.263,CHI,,GNB,W 23-10

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2017,2017-09-10,1,25.021,NYJ,@,BUF,L 12-21,,0.0,1,0
+2,2017,2017-09-17,2,25.028,NYJ,@,OAK,L 20-45,,0.0,2,0
+3,2017,2017-09-24,3,25.035,NYJ,,MIA,W 20-6,,0.0,0,0
+4,2017,2017-10-01,4,25.042,NYJ,,JAX,W 23-20,,0.0,1,1

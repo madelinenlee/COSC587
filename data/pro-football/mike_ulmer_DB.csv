@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1980,1980-09-07,1,25.254,CHI,@,GNB,L 6-12,,,,,,,,
+2,1980,1980-09-14,2,25.261,CHI,,NOR,W 22-3,1,-2,-2.00,0,0,0,,0
+3,1980,1980-09-21,3,25.268,CHI,,MIN,L 14-34,,,,,,,,
+4,1987,1987-10-18,5,32.294,PHI,@,GNB,L 10-16,1,8,8.00,0,2,10,5.00,0

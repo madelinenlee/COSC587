@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2011,2011-10-02,4,22.224,JAX,,NOR,L 10-23,
+2,2011,2011-10-09,5,22.231,JAX,,CIN,L 20-30,
+3,2011,2011-10-16,6,22.238,JAX,@,PIT,L 13-17,

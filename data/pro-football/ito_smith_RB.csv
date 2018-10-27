@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2018,2018-09-06,1,22.360,ATL,@,PHI,L 12-18,,0,0,,0,0,0,0,,0,0.0%,
+2,2018,2018-09-16,2,23.005,ATL,,CAR,W 31-24,,9,46,5.11,0,1,1,8,8.00,0,100.0%,8.00
+3,2018,2018-09-23,3,23.012,ATL,,NOR,L 37-43,,2,-6,-3.00,0,4,3,41,13.67,0,75.0%,10.25

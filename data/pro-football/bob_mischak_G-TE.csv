@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1958,1958-10-12,3,25.352,NYG,@,WAS,W 21-14,1,27,27.00,0
+2,1963,1963-09-15,2,30.325,OAK,,BUF,W 35-17,1,10,10.00,0
+3,1963,1963-09-28,4,30.338,OAK,@,NYJ,L 7-10,1,15,15.00,0

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2017,2017-10-15,6,23.126,SFO,@,WAS,L 24-26,,0,0,0,,0,0.0%,
+2,2017,2017-10-22,7,23.133,SFO,,DAL,L 10-40,,2,1,5,5.00,0,50.0%,2.50
+3,2017,2017-10-29,8,23.140,SFO,@,PHI,L 10-33,,1,1,10,10.00,0,100.0%,10.00
+4,2017,2017-11-05,9,23.147,SFO,,ARI,L 10-20,,0,0,0,,0,0.0%,

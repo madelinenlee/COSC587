@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2014,2014-11-30,12,23.360,ARI,@,ATL,L 18-29,,0.0,0,1
+2,2014,2014-12-07,13,24.002,ARI,,KAN,W 17-14,,,,
+3,2014,2014-12-11,14,24.006,ARI,@,STL,W 12-6,,,,
+4,2014,2014-12-21,15,24.016,ARI,,SEA,L 6-35,,0.0,1,0
+5,2014,2014-12-28,16,24.023,ARI,@,SFO,L 17-20,,0.0,6,3

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2001,2001-09-23,2,25.295,MIN,@,CHI,L 10-17,,,,,
+2,2001,2001-11-19,9,25.352,MIN,,NYG,W 28-16,,,,,
+3,2001,2001-12-30,15,26.028,MIN,@,GNB,L 13-24,,1,11,11.00,0
+4,2001,2002-01-07,16,26.036,MIN,@,BAL,L 3-19,,,,,

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,def_int,def_int_yds,def_int_td
+1,1960,1960-11-13,8,25.156,RAM,@,DET,L 10-12,0,0,,0,1,62,0
+2,1964,1964-09-27,3,29.109,PIT,,DAL,W 23-17,1,0,0.00,0,0,0,0
+3,1967,1967-11-26,11,32.169,PIT,,MIN,L 27-41,0,0,,0,1,0,0

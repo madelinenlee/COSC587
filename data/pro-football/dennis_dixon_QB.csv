@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td,all_td,scoring
+1,2008,2008-12-28,16,23.352,PIT,,CLE,W 31-0,,1,1,100.00,3,0,0,79.2,0,0,3.00,3.00,2,-3,-1.50,0,0,0
+2,2009,2009-11-29,11,24.322,PIT,@,BAL,L 17-20,*,12,26,46.15,145,1,1,60.6,0,0,5.58,4.62,3,27,9.00,1,1,6
+3,2010,2010-09-12,1,25.244,PIT,,ATL,W 15-9,*,18,26,69.23,236,0,1,81.6,3,25,9.08,7.35,2,4,2.00,0,0,0
+4,2010,2010-09-19,2,25.251,PIT,@,TEN,W 19-11,*,4,6,66.67,18,0,0,70.1,2,16,3.00,3.00,3,28,9.33,0,0,0

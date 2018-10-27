@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2014,2014-09-14,2,23.009,CHI,@,SFO,W 28-20,,,,
+2,2014,2014-09-22,3,23.017,CHI,@,NYJ,W 27-19,,0.0,1,0
+3,2014,2014-09-28,4,23.023,CHI,,GNB,L 17-38,,,,
+4,2014,2014-11-09,9,23.065,CHI,@,GNB,L 14-55,,0.0,1,0
+5,2014,2014-11-16,10,23.072,CHI,,MIN,W 21-13,,0.0,0,1

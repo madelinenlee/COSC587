@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,all_td,scoring
+1,1982,1982-09-12,1,23.183,NYG,,ATL,L 14-16,0,0,,0,0,0,,0,0,
+2,1982,1982-09-20,2,23.191,NYG,,GNB,L 19-27,8,20,2.50,1,0,0,,0,1,6
+3,1982,1982-11-21,3,23.253,NYG,,WAS,L 17-27,11,54,4.91,1,1,13,13.00,0,1,6
+4,1982,1982-11-25,4,23.257,NYG,@,DET,W 13-6,3,6,2.00,0,0,0,,0,0,0
+5,1982,1982-12-11,6,23.273,NYG,,PHI,W 23-7,0,0,,0,0,0,,0,0,
+6,1982,1983-01-02,9,23.295,NYG,@,PHI,W 26-24,0,0,,0,0,0,,0,0,

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1960,1960-10-09,5,27.309,NYT,@,HOU,L 21-27,0,0,,0,1,8,8.00,0
+2,1960,1960-11-04,9,27.335,NYT,,LAC,L 7-21,0,5,,0,,,,
+3,1962,1962-10-28,8,29.327,SDG,@,NYT,L 3-23,0,0,,0,1,15,15.00,0

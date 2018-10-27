@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1972,1972-10-22,6,23.004,CLE,@,HOU,W 23-17
+2,1972,1972-11-19,10,23.032,CLE,,PIT,W 26-24
+3,1972,1972-11-26,11,23.039,CLE,,BUF,W 27-10

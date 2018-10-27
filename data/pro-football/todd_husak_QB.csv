@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2000,2000-12-24,16,22.171,WAS,,ARI,W 20-3,,2,2,100.00,-2,0,0,79.2,0,0,-1.00,-1.00,1,-1,-1.00,0

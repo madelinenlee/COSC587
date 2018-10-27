@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1950,1950-10-01,3,28.176,RAM,@,SFO,W 35-14,1,6,6.00,0
+2,1950,1950-10-15,5,28.190,RAM,@,DET,W 30-28,1,4,4.00,0

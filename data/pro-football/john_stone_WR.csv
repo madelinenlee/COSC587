@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2003,2003-12-28,16,24.174,OAK,@,SDG,L 14-21,,,,,,,0.0%,,,,,
+2,2004,2004-11-21,10,25.137,OAK,,SDG,L 17-23,,,,,,,0.0%,,,,,
+3,2004,2004-11-28,11,25.144,OAK,@,DEN,W 25-24,,,,,,,0.0%,,,,,
+4,2004,2004-12-05,12,25.151,OAK,,KAN,L 27-34,,2,1,18,18.00,0,50.0%,9.00,0,0,,0
+5,2004,2004-12-12,13,25.158,OAK,@,ATL,L 10-35,,3,2,62,31.00,0,66.7%,20.67,1,20,20.00,0

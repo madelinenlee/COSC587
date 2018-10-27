@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1965,1965-09-19,2,23.199,SDG,@,OAK,W 17-6,1,0,0
+2,1965,1965-12-04,12,23.275,SDG,,NYJ,W 38-7,1,6,0
+3,1966,1966-10-23,7,24.233,SDG,@,BOS,L 17-35,1,7,0

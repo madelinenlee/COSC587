@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2007,2007-11-11,9,23.184,OAK,,CHI,L 6-17,
+2,2007,2007-12-30,16,23.233,OAK,,SDG,L 17-30,
+3,2009,2009-09-14,1,25.126,OAK,,SDG,L 20-24,
+4,2009,2009-09-20,2,25.132,OAK,@,KAN,W 13-10,
+5,2009,2009-09-27,3,25.139,OAK,,DEN,L 3-23,

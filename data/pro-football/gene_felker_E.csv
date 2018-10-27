@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1952,1952-10-05,2,23.215,DTX,,SFO,L 14-37,2,29,14.50,1
+2,1952,1952-10-18,4,23.228,DTX,,GNB,L 14-24,2,15,7.50,0
+3,1952,1952-11-02,6,23.243,DTX,@,RAM,L 20-42,1,11,11.00,0

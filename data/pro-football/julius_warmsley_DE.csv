@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2016,2016-09-11,1,26.118,MIA,@,SEA,L 10-12,,0.0,1,1
+2,2016,2016-09-18,2,26.125,MIA,@,NWE,L 24-31,,0.0,1,1
+3,2016,2016-09-25,3,26.132,MIA,,CLE,W 30-24,,0.0,2,0
+4,2016,2016-09-29,4,26.136,MIA,@,CIN,L 7-22,,0.0,0,1
+5,2016,2016-10-09,5,26.146,MIA,,TEN,L 17-30,,0.0,0,1

@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1992,1992-12-27,16,24.096,DAL,,CHI,W 27-14,1,13,0
+2,1995,1995-10-08,6,27.016,DAL,,GNB,W 34-24,1,15,0

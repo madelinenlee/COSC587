@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2007,2007-12-24,15,23.108,DEN,@,SDG,L 3-23,,,,
+2,2007,2007-12-30,16,23.114,DEN,,MIN,W 22-19,,,,
+3,2008,2008-11-06,9,24.060,DEN,@,CLE,W 34-30,,0.0,0,0
+4,2008,2008-11-16,10,24.070,DEN,@,ATL,W 24-20,,,,
+5,2008,2008-11-23,11,24.077,DEN,,OAK,L 10-31,*,0.0,5,0

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1970,1970-09-20,1,22.177,HOU,@,PIT,W 19-7
+2,1970,1970-09-27,2,22.184,HOU,,MIA,L 10-20
+3,1970,1970-11-01,7,22.219,HOU,@,STL,L 0-44
+4,1970,1970-11-08,8,22.226,HOU,@,KAN,L 9-24
+5,1970,1970-11-15,9,22.233,HOU,,SFO,L 20-30

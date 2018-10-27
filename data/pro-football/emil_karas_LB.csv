@@ -1,0 +1,8 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,def_int,def_int_yds,def_int_td
+1,1961,1961-09-17,2,27.278,SDG,,OAK,W 44-0,0,0,,0,1,11,0
+2,1961,1961-09-24,3,27.285,SDG,,HOU,W 34-24,0,0,,0,1,0,0
+3,1961,1961-11-12,10,27.334,SDG,@,DEN,W 19-16,1,5,5.00,0,1,10,0
+4,1962,1962-09-07,1,28.268,SDG,@,DEN,L 21-30,0,0,,0,1,8,0
+5,1962,1962-09-16,2,28.277,SDG,,NYT,W 40-14,0,0,,0,1,0,0
+6,1963,1963-12-01,11,29.353,SDG,,HOU,W 27-0,0,0,,0,1,30,0
+7,1963,1963-12-15,13,30.002,SDG,@,HOU,W 20-14,0,0,,0,1,0,0

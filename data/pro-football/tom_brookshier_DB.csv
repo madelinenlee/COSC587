@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1960,1960-10-09,3,28.298,PHI,,STL,W 31-27,1,14,0
+2,1961,1961-09-17,1,29.275,PHI,,CLE,W 27-20,1,20,0
+3,1961,1961-10-08,4,29.296,PHI,,PIT,W 21-16,1,0,0

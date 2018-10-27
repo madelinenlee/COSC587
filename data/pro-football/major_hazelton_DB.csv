@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1968,1968-12-01,12,24.083,CHI,@,NOR,W 23-17,1,1,1.00,0
+2,1970,1970-11-15,9,26.067,NOR,@,MIA,L 10-21,,,,
+3,1970,1970-11-22,10,26.074,NOR,,DEN,L 6-31,,,,
+4,1970,1970-11-29,11,26.081,NOR,@,CIN,L 6-26,,,,

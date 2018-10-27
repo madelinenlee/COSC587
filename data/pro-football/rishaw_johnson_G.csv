@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2013,2013-10-06,5,24.225,KAN,@,TEN,W 26-17,
+2,2013,2013-11-24,11,24.274,KAN,,SDG,L 38-41,
+3,2013,2013-12-29,16,24.309,KAN,@,SDG,L 24-27,*

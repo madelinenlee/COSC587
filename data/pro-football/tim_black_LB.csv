@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1977,1977-10-23,6,22.293,STL,,NOR,W 49-31
+2,1977,1977-10-31,7,22.301,STL,,NYG,W 28-0
+3,1977,1977-11-06,8,22.307,STL,@,MIN,W 27-7
+4,1977,1977-11-14,9,22.315,STL,@,DAL,W 24-17

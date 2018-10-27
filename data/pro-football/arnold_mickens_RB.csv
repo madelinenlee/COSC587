@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1996,1996-10-27,8,24.015,IND,@,WAS,L 16-31
+2,1996,1996-11-03,9,24.022,IND,,SDG,L 19-26
+3,1996,1996-11-10,10,24.029,IND,@,MIA,L 13-37

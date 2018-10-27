@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1999,1999-09-12,1,23.238,CIN,@,TEN,L 35-36,,1,1,100.00,4,0,0,83.3,0,0,4.00,4.00,0,0,,0
+2,1999,1999-11-07,9,23.294,CIN,@,SEA,L 20-37,,2,3,66.67,15,0,0,78.5,0,0,5.00,5.00,0,0,,0
+3,1999,1999-12-12,14,23.329,CIN,,CLE,W 44-28,,1,1,100.00,4,0,0,83.3,0,0,4.00,4.00,2,-4,-2.00,0
+4,2002,2002-12-30,16,26.347,STL,,SFO,W 31-20,*,2,5,40.00,7,0,0,47.9,2,16,1.40,1.40,0,0,,0

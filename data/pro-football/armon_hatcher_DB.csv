@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2000,2000-11-26,12,24.134,SDG,,KAN,W 17-16,
+2,2000,2000-12-10,14,24.148,SDG,@,BAL,L 3-24,
+3,2000,2000-12-17,15,24.155,SDG,@,CAR,L 22-30,
+4,2000,2000-12-24,16,24.162,SDG,,PIT,L 21-34,

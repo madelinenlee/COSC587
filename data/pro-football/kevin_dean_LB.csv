@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1987,1987-09-13,1,22.220,SFO,@,PIT,L 17-30
+2,1987,1987-09-20,2,22.227,SFO,@,CIN,W 27-26
+3,1987,1987-10-18,5,22.255,SFO,,STL,W 34-28
+4,1987,1987-10-25,6,22.262,SFO,@,NOR,W 24-22

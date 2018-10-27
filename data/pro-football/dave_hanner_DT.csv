@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1961,1961-10-08,4,31.139,GNB,,BAL,W 45-7,1,1,0
+2,1962,1962-12-09,13,32.201,GNB,@,SFO,W 31-21,1,0,0
+3,1963,1963-10-20,6,33.151,GNB,@,STL,W 30-7,1,0,0

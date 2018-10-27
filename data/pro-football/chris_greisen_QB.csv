@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1999,1999-10-31,7,23.121,ARI,,NWE,L 3-27,,1,6,16.67,4,0,0,39.6,0,0,0.67,0.67,0,0,,0
+2,1999,1999-11-07,8,23.128,ARI,@,NYJ,L 7-12,,,,,,,,,,,,,,,,
+3,2000,2000-11-26,12,24.147,ARI,,NYG,L 7-31,,2,3,66.67,19,0,0,84.0,1,9,6.33,6.33,0,0,,0
+4,2000,2000-12-10,14,24.161,ARI,@,JAX,L 10-44,,4,7,57.14,46,1,0,116.7,2,15,6.57,9.43,1,1,1.00,0
+5,2000,2000-12-17,15,24.168,ARI,,BAL,L 7-13,,,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1997,1997-11-30,13,23.097,CIN,@,PHI,L 42-44
+2,1997,1997-12-04,14,23.101,CIN,,TEN,W 41-14
+3,1997,1997-12-14,15,23.111,CIN,,DAL,W 31-24
+4,1997,1997-12-21,16,23.118,MIN,,IND,W 39-28

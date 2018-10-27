@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,all_td,scoring
+1,1967,1967-12-09,13,22.324,BOS,,BUF,L 16-44,1,7,7.00,0,1,25,25.00,1,6,117,19.50,0,2,43,21.50,0,1,6
+2,1967,1967-12-17,14,22.332,BOS,@,MIA,L 32-41,0,0,,0,0,0,,0,5,115,23.00,0,3,11,3.67,0,0,0
+3,1968,1968-09-08,1,23.233,BOS,@,BUF,W 16-7,0,0,,0,0,0,,0,0,0,,0,2,12,6.00,0,0,0

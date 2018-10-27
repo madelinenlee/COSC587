@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1980,1980-10-05,5,24.152,STL,@,NOR,W 40-7,,0,0,,0,0,0,,0,0,,,1,-3,-3.00,0
+2,1980,1980-10-12,6,24.159,STL,,RAM,L 13-21,,1,4,25.00,5,0,0,39.6,0,0,1.25,1.25,1,3,3.00,0
+3,1980,1980-11-30,13,24.208,STL,@,NYG,W 23-7,,,,,,,,,,,,,,,,
+4,1980,1980-12-14,15,24.222,STL,@,PHI,L 3-17,,4,15,26.67,44,0,1,11.8,0,0,2.93,-0.07,3,0,0.00,0
+5,1980,1980-12-21,16,24.229,STL,,WAS,L 7-31,*,0,9,0.00,0,0,0,39.6,0,0,0.00,0.00,1,2,2.00,0

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2007,2007-12-09,13,23.117,DEN,,KAN,W 41-7,
+2,2007,2007-12-13,14,23.121,DEN,@,HOU,L 13-31,
+3,2007,2007-12-24,15,23.132,DEN,@,SDG,L 3-23,
+4,2007,2007-12-30,16,23.138,DEN,,MIN,W 22-19,

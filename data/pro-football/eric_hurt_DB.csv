@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1980,1980-09-14,2,23.095,DAL,@,DEN,L 20-41,2,29,14.50,0
+2,1980,1980-09-21,3,23.102,DAL,,TAM,W 28-17,2,42,21.00,0
+3,1980,1980-09-28,4,23.109,DAL,@,GNB,W 28-7,,,,
+4,1980,1980-10-05,5,23.116,DAL,,NYG,W 24-3,,,,

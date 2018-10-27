@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2012,2012-12-02,12,23.023,BUF,,JAX,W 34-18,
+2,2012,2012-12-09,13,23.030,BUF,,STL,L 12-15,*
+3,2012,2012-12-16,14,23.037,BUF,,SEA,L 17-50,*
+4,2012,2012-12-23,15,23.044,BUF,@,MIA,L 10-24,
+5,2012,2012-12-30,16,23.051,BUF,,NYJ,W 28-9,

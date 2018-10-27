@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2017,2017-10-01,4,24.066,PHI,@,LAC,W 26-24,,0.0,0,0
+2,2017,2017-10-08,5,24.073,PHI,,ARI,W 34-7,,0.0,0,0
+3,2017,2017-10-12,6,24.077,PHI,@,CAR,W 28-23,,0.5,0,2
+4,2017,2017-12-31,16,24.157,KAN,@,DEN,W 27-24,*,0.0,1,0

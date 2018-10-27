@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1988,1988-11-20,12,23.185,KAN,,SEA,W 27-24
+2,1988,1988-11-27,13,23.192,KAN,@,PIT,L 10-16
+3,1988,1988-12-04,14,23.199,KAN,,NYJ,W 38-34
+4,1988,1988-12-11,15,23.206,KAN,@,NYG,L 12-28
+5,1988,1988-12-18,16,23.213,KAN,@,SDG,L 13-24

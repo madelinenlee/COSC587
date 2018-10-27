@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2004,2004-12-05,12,24.281,TAM,,ATL,W 27-0,,1,25,25.00,0,0,0,0,,0,0.0%,,1,17,17.00,0
+2,2004,2004-12-12,13,24.288,TAM,@,SDG,L 24-31,,0,0,,0,2,2,10,5.00,0,100.0%,5.00,5,106,21.20,0
+3,2004,2004-12-19,14,24.295,TAM,,NOR,L 17-21,,1,1,1.00,0,0,0,0,,0,0.0%,,2,44,22.00,0
+4,2004,2004-12-26,15,24.302,TAM,,CAR,L 20-37,,,,,,,,,,,0.0%,,,,,

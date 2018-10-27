@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2004,2004-12-12,13,26.013,BUF,,CLE,W 37-7,,1,1,10,10.00,0,100.0%,10.00
+2,2004,2004-12-19,14,26.020,BUF,@,CIN,W 33-17,,,,,,,0.0%,
+3,2004,2004-12-26,15,26.027,BUF,@,SFO,W 41-7,,2,1,5,5.00,0,50.0%,2.50
+4,2004,2005-01-02,16,26.034,BUF,,PIT,L 24-29,,1,1,10,10.00,0,100.0%,10.00

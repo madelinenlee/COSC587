@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2010,2010-09-26,3,25.274,NWE,,BUF,W 38-30,,0.0,1,0
+2,2010,2010-10-17,5,25.295,NWE,,BAL,W 23-20,,,,
+3,2010,2010-10-24,6,25.302,NWE,@,SDG,W 23-20,,,,
+4,2010,2010-10-31,7,25.309,NWE,,MIN,W 28-18,,,,
+5,2010,2010-11-07,8,25.316,NWE,@,CLE,L 14-34,,0.0,0,1
+6,2010,2010-11-14,9,25.323,NWE,@,PIT,W 39-26,,0.5,1,1

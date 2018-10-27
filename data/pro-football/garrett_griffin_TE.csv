@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2017,2017-12-03,12,23.274,NOR,,CAR,W 31-21,,0,0,0,,0,0.0%,,0,0,,0
+2,2017,2017-12-17,14,23.288,NOR,,NYJ,W 31-19,,0,0,0,,0,0.0%,,1,11,11.00,0
+3,2017,2017-12-31,16,23.302,NOR,@,TAM,L 24-31,,1,1,4,4.00,0,100.0%,4.00,1,12,12.00,0

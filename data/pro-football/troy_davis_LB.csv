@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,sacks,tackles_solo,tackles_assists
+1,2013,2013-10-27,8,22.294,NYJ,@,CIN,L 9-49,,1,7,7.00,0,0.0,2,0
+2,2013,2013-11-03,9,22.301,NYJ,,NOR,W 26-20,,0,0,,0,0.0,0,1
+3,2013,2013-11-17,10,22.315,NYJ,@,BUF,L 14-37,,0,0,,0,0.0,0,1
+4,2013,2013-11-24,11,22.322,NYJ,@,BAL,L 3-19,,0,0,,0,0.0,1,0

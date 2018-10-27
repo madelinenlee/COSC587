@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2001,2001-11-11,8,23.196,MIN,@,PHI,L 17-48,
+2,2001,2001-11-19,9,23.204,MIN,,NYG,W 28-16,
+3,2001,2001-11-25,10,23.210,MIN,,CHI,L 6-13,

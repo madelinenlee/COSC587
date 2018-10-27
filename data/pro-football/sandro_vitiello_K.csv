@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring
+1,1980,1980-11-16,11,22.269,CIN,,BUF,L 0-14,,,,,,,,
+2,1980,1980-11-23,12,22.276,CIN,@,CLE,L 7-31,1,1,100.0,,2,0.0,0,1

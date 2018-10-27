@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2005,2005-12-18,14,24.042,NYJ,@,MIA,L 20-24,
+2,2005,2005-12-26,15,24.050,NYJ,,NWE,L 21-31,
+3,2005,2006-01-01,16,24.056,NYJ,,BUF,W 30-26,
+4,2008,2008-11-09,9,27.003,MIA,,SEA,W 21-19,

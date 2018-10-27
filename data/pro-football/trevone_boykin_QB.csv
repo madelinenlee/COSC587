@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2016,2016-09-18,2,23.027,SEA,@,LAR,L 3-9,,0,0,,0,0,0,,0,0,,,0,0,,0
+2,2016,2016-09-25,3,23.034,SEA,,SFO,W 37-18,,7,9,77.78,65,1,1,94.2,0,0,7.22,4.44,2,-2,-1.00,0
+3,2016,2016-11-20,10,23.090,SEA,,PHI,W 26-15,,0,0,,0,0,0,,0,0,,,1,-5,-5.00,0
+4,2016,2016-12-04,12,23.104,SEA,,CAR,W 40-7,,2,3,66.67,38,0,0,109.7,0,0,12.67,12.67,1,1,1.00,0
+5,2016,2016-12-11,13,23.111,SEA,@,GNB,L 10-38,,0,0,,0,0,0,,0,0,,,0,0,,0
+6,2016,2017-01-01,16,23.132,SEA,@,SFO,W 25-23,,4,6,66.67,42,0,0,86.8,1,5,7.00,7.00,4,7,1.75,0

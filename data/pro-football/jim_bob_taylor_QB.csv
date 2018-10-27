@@ -1,0 +1,9 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att
+1,1983,1983-09-11,2,24.002,BAL,,DEN,L 10-17,,1,2,50.00,20,0,1,45.8,0,0,10.00,-12.50
+2,1983,1983-11-06,10,24.058,BAL,@,NYJ,W 17-14,,0,0,,0,0,0,,0,,,
+3,1983,1983-11-13,11,24.065,BAL,,PIT,L 13-24,,0,0,,0,0,0,,0,,,
+4,1983,1983-11-20,12,24.072,BAL,@,MIA,L 0-37,,0,0,,0,0,0,,0,,,
+5,1983,1983-11-27,13,24.079,BAL,@,CLE,L 23-41,,0,0,,0,0,0,,0,,,
+6,1983,1983-12-04,14,24.086,BAL,,NYJ,L 6-10,,0,0,,0,0,0,,0,,,
+7,1983,1983-12-11,15,24.093,BAL,@,DEN,L 19-21,,0,0,,0,0,0,,0,,,
+8,1983,1983-12-18,16,24.100,BAL,,HOU,W 20-10,,0,0,,0,0,0,,0,,,

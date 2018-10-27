@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2002,2002-12-01,12,24.093,CHI,@,GNB,L 20-30,
+2,2002,2002-12-09,13,24.101,CHI,@,MIA,L 9-27,
+3,2002,2002-12-15,14,24.107,CHI,,NYJ,W 20-13,
+4,2002,2002-12-29,16,24.121,CHI,,TAM,L 0-15,

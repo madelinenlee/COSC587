@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1952,1952-12-07,11,25.267,WAS,@,NYG,W 27-17,4,10,2.50,0,1,5,5.00,0

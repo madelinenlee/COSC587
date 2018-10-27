@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1991,1991-09-15,3,23.226,DEN,,SEA,W 16-10,0,0,,0
+2,1991,1991-09-22,4,23.233,DEN,,SDG,W 27-19,1,13,13.00,0
+3,1991,1991-12-01,13,23.303,DEN,,NWE,W 20-3,0,0,,0
+4,1991,1991-12-08,14,23.310,DEN,@,CLE,W 17-7,0,0,,0

@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1951,1951-10-28,5,27.049,SFO,,RAM,W 44-17,0,0,,0,1,12,12.00,0
+2,1952,1952-10-26,5,28.047,SFO,,DTX,W 48-21,1,7,7.00,0,0,0,,0

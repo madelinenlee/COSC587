@@ -1,0 +1,8 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,def_int,def_int_yds,def_int_td
+1,1960,1960-09-25,1,25.021,CHI,@,GNB,W 17-14,0,0,,0,0,0,,0,1,44,0
+2,1960,1960-10-09,3,25.035,CHI,,RAM,W 34-27,1,17,17.00,0,2,24,12.00,0,0,0,0
+3,1960,1960-10-23,5,25.049,CHI,@,RAM,T 24-24,0,0,,0,2,10,5.00,0,0,0,0
+4,1960,1960-10-30,6,25.056,CHI,@,SFO,L 7-25,0,0,,0,1,31,31.00,0,0,0,0
+5,1960,1960-11-13,7,25.070,CHI,,BAL,L 20-24,0,0,,0,1,2,2.00,0,1,8,0
+6,1960,1960-11-20,8,25.077,CHI,,DET,W 28-7,0,,,0,2,12,6.00,0,0,0,0
+7,1960,1960-12-18,12,25.105,CHI,@,DET,L 0-36,0,0,,0,2,4,2.00,0,0,0,0

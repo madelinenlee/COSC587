@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2016,2016-12-25,15,24.196,DEN,@,KAN,L 10-33,,1,1,13,13.00,0,100.0%,13.00
+2,2016,2017-01-01,16,24.203,DEN,,OAK,W 24-6,,0,0,0,,0,0.0%,
+3,2017,2017-10-08,5,25.118,IND,,SFO,W 26-23,,0,0,0,,0,0.0%,

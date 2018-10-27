@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2014,2014-09-07,1,23.364,DAL,,SFO,L 17-28,,,,
+2,2014,2014-09-21,3,24.013,DAL,@,STL,W 34-31,,0.0,2,0
+3,2014,2014-09-28,4,24.020,DAL,,NOR,W 38-17,,,,
+4,2015,2015-09-27,3,25.019,DAL,,ATL,L 28-39,,0.0,0,0
+5,2015,2015-10-04,4,25.026,DAL,@,NOR,L 20-26,,0.0,0,0

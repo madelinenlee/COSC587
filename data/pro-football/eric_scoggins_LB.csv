@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1982,1982-09-12,1,23.232,SFO,,RAI,L 17-23
+2,1982,1982-09-19,2,23.239,SFO,@,DEN,L 21-24
+3,1982,1982-11-21,3,23.302,SFO,@,STL,W 31-20

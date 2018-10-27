@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2007,2007-10-28,8,23.286,CHI,,DET,L 7-16,
+2,2007,2007-11-11,9,23.300,CHI,@,OAK,W 17-6,
+3,2007,2007-11-25,11,23.314,CHI,,DEN,W 37-34,
+4,2007,2007-12-06,13,23.325,CHI,@,WAS,L 16-24,

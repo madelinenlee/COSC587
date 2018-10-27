@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2004,2005-01-02,16,23.049,DAL,@,NYG,L 24-28,*
+2,2005,2005-10-23,7,23.343,DAL,@,SEA,L 10-13,
+3,2005,2005-10-30,8,23.350,DAL,,ARI,W 34-13,
+4,2005,2005-11-14,9,24.000,DAL,@,PHI,W 21-20,
+5,2005,2005-11-24,11,24.010,DAL,,DEN,L 21-24,

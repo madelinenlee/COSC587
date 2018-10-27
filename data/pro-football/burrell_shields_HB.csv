@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1954,1954-11-20,9,25.075,PIT,,SFO,L 3-31,7,28,4.00,0,1,22,22.00,0
+2,1955,1955-10-16,4,26.040,BAL,@,CHI,L 10-38,7,36,5.14,0,2,8,4.00,0
+3,1955,1955-10-23,5,26.047,BAL,,WAS,L 13-14,0,0,,0,1,19,19.00,0
+4,1955,1955-11-13,8,26.068,BAL,@,NYG,L 7-17,1,-4,-4.00,0,0,0,,0
+5,1955,1955-11-27,10,26.082,BAL,,SFO,W 26-14,2,2,1.00,0,0,0,,0

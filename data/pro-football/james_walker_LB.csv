@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1983,1983-09-04,1,24.269,KAN,,SEA,W 17-13
+2,1983,1983-09-12,2,24.277,KAN,,SDG,L 14-17
+3,1983,1983-09-18,3,24.283,KAN,@,WAS,L 12-27
+4,1983,1983-09-25,4,24.290,KAN,@,MIA,L 6-14

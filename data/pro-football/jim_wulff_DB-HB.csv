@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,def_int,def_int_yds,def_int_td
+1,1961,1961-09-17,1,25.179,WAS,@,SFO,L 3-35,0,0,,0,1,0,0
+2,1961,1961-09-24,2,25.186,WAS,@,PHI,L 7-14,0,0,,0,1,0,0
+3,1961,1961-11-05,8,25.228,WAS,@,NYG,L 0-53,0,0,,0,1,11,0
+4,1961,1961-12-17,14,25.270,WAS,,DAL,W 34-24,1,6,6.00,0,0,0,0

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring
+1,1967,1967-09-17,1,23.244,DAL,@,CLE,W 21-14,3,3,100.0,,1,0.0,0,3
+2,1967,1967-09-24,2,23.251,DAL,,NYG,W 38-24,5,5,100.0,1,1,100.0,0,8
+3,1967,1967-10-01,3,23.258,DAL,,RAM,L 13-35,1,2,50.0,,2,0.0,0,1

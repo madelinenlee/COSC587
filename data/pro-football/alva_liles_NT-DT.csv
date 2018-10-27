@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1980,1980-10-05,5,24.213,OAK,,KAN,L 17-31
+2,1980,1980-10-12,6,24.220,OAK,,SDG,W 38-24
+3,1980,1980-11-09,10,24.248,DET,@,MIN,L 0-34

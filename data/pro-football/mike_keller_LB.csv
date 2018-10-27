@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1972,1972-09-17,1,22.279,DAL,,PHI,W 28-6
+2,1972,1972-09-24,2,22.286,DAL,@,NYG,W 23-14
+3,1972,1972-10-01,3,22.293,DAL,@,GNB,L 13-16
+4,1972,1972-10-08,4,22.300,DAL,,PIT,W 17-13
+5,1972,1972-10-15,5,22.307,DAL,@,BAL,W 21-0

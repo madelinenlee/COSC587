@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1989,1989-10-22,7,23.287,NOR,@,RAM,W 40-21,0,0,,0
+2,1989,1989-10-29,8,23.294,NOR,,ATL,W 20-13,1,15,15.00,0
+3,1989,1989-11-12,10,23.308,NOR,@,NWE,W 28-24,0,0,,0
+4,1989,1989-11-19,11,23.315,NOR,@,ATL,W 26-17,0,0,,0
+5,1989,1989-11-26,12,23.322,NOR,,RAM,L 17-20,1,19,19.00,0
+6,1989,1989-12-24,16,23.350,ATL,,DET,L 24-31,,,,

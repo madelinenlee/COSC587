@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1981,1981-11-22,12,23.297,NYJ,,MIA,W 16-15
+2,1981,1981-11-29,13,23.304,NYJ,,BAL,W 25-0
+3,1981,1981-12-06,14,23.311,NYJ,@,SEA,L 23-27
+4,1981,1981-12-12,15,23.317,NYJ,@,CLE,W 14-13
+5,1981,1981-12-20,16,23.325,NYJ,,GNB,W 28-3

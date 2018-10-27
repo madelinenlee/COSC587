@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,all_td,scoring
+1,2017,2017-12-03,12,22.312,TAM,@,GNB,L 20-26,,1,4,4.00,0,0,0,0,,0,0.0%,,0,0
+2,2017,2017-12-24,15,22.333,TAM,@,CAR,L 19-22,,0,0,,0,1,1,18,18.00,1,100.0%,18.00,1,6
+3,2017,2017-12-31,16,22.340,TAM,,NOR,W 31-24,*,2,4,2.00,0,0,0,0,,0,0.0%,,0,0

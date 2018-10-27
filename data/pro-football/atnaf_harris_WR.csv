@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2002,2002-12-29,16,23.305,HOU,,TEN,L 3-13,*,2,1,8,8.00,0,50.0%,4.00

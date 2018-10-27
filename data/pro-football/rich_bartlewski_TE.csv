@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1990,1990-12-10,13,23.117,RAI,@,DET,W 38-31
+2,1990,1990-12-16,14,23.123,RAI,,CIN,W 24-7
+3,1990,1990-12-22,15,23.129,RAI,@,MIN,W 28-24
+4,1990,1990-12-30,16,23.137,RAI,,SDG,W 17-12
+5,1991,1991-10-27,8,24.073,ATL,,RAM,W 31-14

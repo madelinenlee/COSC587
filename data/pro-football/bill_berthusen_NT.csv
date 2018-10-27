@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,sacks
+1,1987,1987-10-04,3,23.100,CIN,,SDG,L 9-10,1.0
+2,1987,1987-10-11,4,23.107,CIN,@,SEA,W 17-10,1.0
+3,1987,1987-10-18,5,23.114,CIN,,CLE,L 0-34,0.5
+4,1987,1987-12-19,14,23.176,NYG,,GNB,W 20-10,

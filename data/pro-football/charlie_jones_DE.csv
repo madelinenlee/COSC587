@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1955,1955-10-09,3,26.258,WAS,,CRD,L 10-24,1,12,12.00,0
+2,1955,1955-10-16,4,26.265,WAS,,CLE,L 14-24,1,10,10.00,0
+3,1955,1955-11-20,9,26.300,WAS,@,CRD,W 31-0,1,15,15.00,0
+4,1955,1955-12-04,11,26.314,WAS,,NYG,L 20-27,1,21,21.00,0

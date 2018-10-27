@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1988,1988-09-04,1,22.147,DAL,@,PIT,L 21-24
+2,1988,1988-09-12,2,22.155,DAL,@,PHO,W 17-14
+3,1988,1988-09-18,3,22.161,DAL,,NYG,L 10-12
+4,1988,1988-09-25,4,22.168,DAL,,ATL,W 26-20
+5,1988,1988-10-03,5,22.176,DAL,@,NOR,L 17-20

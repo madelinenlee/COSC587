@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1985,1985-09-08,1,22.194,SDG,@,BUF,W 14-9
+2,1985,1985-09-15,2,22.201,SDG,,SEA,L 35-49
+3,1986,1986-10-26,8,23.242,SDG,@,PHI,L 7-23

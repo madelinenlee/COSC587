@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2017,2017-11-12,9,23.192,BUF,,NOR,L 10-47,,7,10,70.00,79,1,0,126.7,0,0,7.90,9.90,0,0,,0
+2,2017,2017-11-19,10,23.199,BUF,@,LAC,L 24-54,*,6,14,42.86,66,0,5,17.9,0,0,4.71,-11.36,2,4,2.00,0
+3,2017,2017-12-03,12,23.213,BUF,,NWE,L 3-23,,6,15,40.00,50,0,0,49.3,1,5,3.33,3.33,1,9,9.00,0
+4,2017,2017-12-10,13,23.220,BUF,,IND,W 13-7,*,5,10,50.00,57,1,0,100.8,0,0,5.70,7.70,4,10,2.50,0
+5,2018,2018-09-09,1,24.128,BUF,@,BAL,L 3-47,*,5,18,27.78,24,0,2,0.0,3,12,1.33,-3.67,1,1,1.00,0

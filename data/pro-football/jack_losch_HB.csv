@@ -1,0 +1,8 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att
+1,1956,1956-10-21,4,22.069,GNB,,RAM,W 42-17,2,5,2.50,0,1,8,8.00,0,1,1,100.00,63,1,0,158.3,0,0,63.00,83.00
+2,1956,1956-11-04,6,22.083,GNB,,CLE,L 7-24,0,0,,0,1,0,0.00,0,0,0,,0,0,,,,,,
+3,1956,1956-11-11,7,22.090,GNB,@,CHI,L 14-38,2,-1,-0.50,0,1,16,16.00,0,0,0,,0,0,,,,,,
+4,1956,1956-11-18,8,22.097,GNB,,SFO,L 16-17,13,45,3.46,0,1,5,5.00,0,0,0,,0,0,,,,,,
+5,1956,1956-11-22,9,22.101,GNB,@,DET,W 24-20,0,0,,0,1,43,43.00,0,0,0,,0,0,,,,,,
+6,1956,1956-12-02,10,22.111,GNB,@,CRD,W 24-21,1,-11,-11.00,0,1,11,11.00,0,0,0,,0,0,,,,,,
+7,1956,1956-12-08,11,22.117,GNB,@,SFO,L 20-38,1,5,5.00,0,1,2,2.00,0,0,0,,0,0,,,,,,

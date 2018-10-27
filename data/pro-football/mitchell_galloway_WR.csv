@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1997,1997-09-21,4,22.348,BUF,,IND,W 37-35,4,100,25.00,0,2,15,7.50,0
+2,1997,1997-12-14,15,23.067,BUF,,JAX,L 14-20,2,30,15.00,0,0,0,,0
+3,1997,1997-12-20,16,23.073,BUF,@,GNB,L 21-31,0,0,,0,0,0,,0

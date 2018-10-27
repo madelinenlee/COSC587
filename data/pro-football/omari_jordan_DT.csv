@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks
+1,2004,2004-09-13,1,26.151,CAR,,GNB,L 14-24,,
+2,2004,2004-10-10,4,26.178,CAR,@,DEN,L 17-20,,1.0
+3,2004,2004-11-07,8,26.206,CAR,,OAK,L 24-27,,
+4,2004,2004-12-26,15,26.255,CAR,@,TAM,W 37-20,,

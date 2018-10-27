@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1990,1990-10-29,8,22.259,PIT,,RAM,W 41-10
+2,1990,1990-11-04,9,22.265,PIT,,ATL,W 21-9
+3,1990,1990-11-18,10,22.279,PIT,@,CIN,L 3-27
+4,1990,1990-11-25,11,22.286,PIT,@,NYJ,W 24-7

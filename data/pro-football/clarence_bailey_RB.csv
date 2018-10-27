@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1987,1987-10-04,3,24.211,MIA,@,SEA,L 20-24,10,55,5.50,0
+2,1987,1987-10-11,4,24.218,MIA,,KAN,W 42-0,0,0,,0
+3,1987,1987-10-18,5,24.225,MIA,@,NYJ,L 31-37,0,0,,0

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1981,1981-09-06,1,24.122,PHI,@,NYG,W 24-10
+2,1981,1981-09-13,2,24.129,PHI,,NWE,W 13-3
+3,1981,1981-09-17,3,24.133,PHI,@,BUF,W 20-14

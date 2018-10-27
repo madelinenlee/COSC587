@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1984,1984-11-04,10,23.260,KAN,@,SEA,L 0-45,1,2,2.00,0
+2,1984,1984-12-02,14,23.288,KAN,,DEN,W 16-13,1,1,1.00,0
+3,1984,1984-12-09,15,23.295,KAN,,SEA,W 34-7,5,-3,-0.60,0
+4,1984,1984-12-16,16,23.302,KAN,@,SDG,W 42-21,8,12,1.50,0

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2014,2014-10-02,5,23.220,GNB,,MIN,W 42-10,,0.0,0,0
+2,2014,2014-10-12,6,23.230,GNB,@,MIA,W 27-24,,,,
+3,2014,2014-10-19,7,23.237,GNB,,CAR,W 38-17,,0.0,1,1
+4,2014,2014-10-26,8,23.244,GNB,@,NOR,L 23-44,,,,
+5,2014,2014-11-23,11,23.272,GNB,@,MIN,W 24-21,,,,

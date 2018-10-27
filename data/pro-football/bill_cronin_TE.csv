@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,all_td,scoring
+1,1966,1966-11-06,8,22.351,MIA,,BUF,L 0-29,1,9,9.00,0,0,0
+2,1966,1966-11-13,9,22.358,MIA,@,KAN,L 16-34,1,2,2.00,0,0,0
+3,1966,1966-11-27,11,23.007,MIA,,BOS,L 14-20,3,43,14.33,0,0,0
+4,1966,1966-12-04,12,23.014,MIA,@,DEN,L 7-17,1,25,25.00,0,0,0
+5,1966,1966-12-18,14,23.028,MIA,,HOU,W 29-28,1,4,4.00,1,1,6

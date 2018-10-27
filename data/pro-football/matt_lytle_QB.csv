@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2000,2000-10-22,8,25.048,SEA,@,OAK,L 3-31,,,,,,,,,,,,,,,,
+2,2000,2000-11-05,10,25.062,SEA,,SDG,W 17-15,,,,,,,,,,,,,,,,
+3,2001,2001-11-04,8,26.061,CAR,@,MIA,L 6-23,,2,4,50.00,7,0,0,56.2,2,13,1.75,1.75,0,0,,0
+4,2001,2001-11-11,9,26.068,CAR,@,STL,L 14-48,*,15,25,60.00,126,1,2,53.1,1,11,5.04,2.24,2,8,4.00,0
+5,2001,2001-12-02,12,26.089,CAR,@,NOR,L 23-27,,0,1,0.00,0,0,1,0.0,0,0,0.00,-45.00,0,0,,0

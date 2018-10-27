@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1988,1988-09-18,3,24.148,GNB,@,MIA,L 17-24
+2,1988,1988-09-25,4,24.155,GNB,,CHI,L 6-24
+3,1988,1988-10-02,5,24.162,GNB,@,TAM,L 24-27
+4,1988,1988-10-09,6,24.169,GNB,,NWE,W 45-3
+5,1988,1988-10-30,9,24.190,GNB,@,BUF,L 0-28

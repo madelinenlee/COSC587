@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1992,1992-09-20,3,24.169,DEN,@,PHI,L 0-30,,0,1,0.00,0,0,0,39.6,1,14,0.00,0.00,0,0,,0
+2,1992,1992-12-06,13,24.246,DEN,,DAL,L 27-31,,7,13,53.85,104,0,0,80.3,2,14,8.00,8.00,4,24,6.00,0
+3,1992,1992-12-12,14,24.252,DEN,@,BUF,L 17-27,,10,20,50.00,128,0,3,30.8,3,22,6.40,-0.35,4,15,3.75,0

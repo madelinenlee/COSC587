@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,sacks,tackles_solo,tackles_assists
+1,2012,2012-10-14,6,25.011,BUF,@,ARI,W 19-16,,,,,,,,
+2,2013,2013-09-29,4,25.361,BUF,,BAL,W 23-20,,,,,,,,
+3,2013,2013-10-03,5,26.000,BUF,@,CLE,L 24-37,,,,,,,,
+4,2013,2013-10-13,6,26.010,BUF,,CIN,L 24-27,,1,7,7.00,0,0.0,0,0
+5,2013,2013-10-20,7,26.017,BUF,@,MIA,W 23-21,,0,0,,0,0.0,1,0
+6,2013,2013-10-27,8,26.024,BUF,@,NOR,L 17-35,,,,,,,,

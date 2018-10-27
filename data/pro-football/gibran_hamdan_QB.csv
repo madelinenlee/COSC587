@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att
+1,2003,2003-12-27,16,22.322,WAS,,PHI,L 7-31,,1,2,50.00,7,0,0,58.3,1,2,3.50,3.50

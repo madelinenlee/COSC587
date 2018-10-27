@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1989,1989-11-26,12,25.087,WAS,,CHI,W 38-14
+2,1989,1989-12-03,13,25.094,WAS,@,PHO,W 29-10
+3,1989,1989-12-10,14,25.101,WAS,,SDG,W 26-21
+4,1989,1989-12-17,15,25.108,WAS,@,ATL,W 31-30
+5,1989,1989-12-23,16,25.114,WAS,@,SEA,W 29-0

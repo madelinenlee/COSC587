@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1996,1996-12-22,16,25.126,SDG,,DEN,W 16-10,,,,,,,,
+2,1997,1997-08-31,1,26.013,ARI,@,CIN,L 21-24,0,0,,0,3,69,23.00,0
+3,1997,1997-09-07,2,26.020,ARI,,DAL,W 25-22,3,1,0.33,0,1,27,27.00,0
+4,1997,1997-09-14,3,26.027,ARI,@,WAS,L 13-19,5,25,5.00,0,2,40,20.00,0
+5,1997,1997-10-05,5,26.048,ARI,,MIN,L 19-20,3,0,0.00,0,0,0,,0
+6,1997,1997-10-12,6,26.055,ARI,,NYG,L 13-27,,,,,,,,

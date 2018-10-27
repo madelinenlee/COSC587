@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1991,1991-09-01,1,27.136,MIA,@,BUF,L 31-35,2,17,8.50,0,0,0,,0
+2,1991,1991-09-22,4,27.157,MIA,,GNB,W 16-13,0,0,,0,0,0,,0
+3,1991,1991-09-29,5,27.164,MIA,@,NYJ,L 23-41,0,0,,0,1,13,13.00,0
+4,1991,1991-10-06,6,27.171,MIA,@,NWE,W 20-10,0,0,,0,0,0,,0
+5,1991,1991-10-13,7,27.178,MIA,@,KAN,L 7-42,0,0,,0,0,0,,0
+6,1991,1991-10-20,8,27.185,MIA,,HOU,L 13-17,0,0,,0,0,0,,0

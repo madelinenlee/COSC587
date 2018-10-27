@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1975,1975-10-05,3,26.027,GNB,,MIA,L 7-31
+2,1975,1975-10-26,6,26.048,GNB,,PIT,L 13-16
+3,1975,1975-11-02,7,26.055,GNB,,MIN,L 17-28
+4,1975,1975-11-09,8,26.062,GNB,@,CHI,L 14-27

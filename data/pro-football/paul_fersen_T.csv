@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1973,1973-12-02,12,23.289,NOR,@,GNB,L 10-30
+2,1973,1973-12-09,13,23.296,NOR,,SFO,W 16-10
+3,1973,1973-12-16,14,23.303,NOR,@,ATL,L 10-14
+4,1974,1974-09-15,1,24.211,NOR,,SFO,L 13-17

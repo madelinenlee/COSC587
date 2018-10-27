@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2003,2003-11-02,8,23.263,WAS,@,DAL,L 14-21,,3,3,13,4.33,0,100.0%,4.33,1,9,9.00,0

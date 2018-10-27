@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1988,1988-09-04,1,22.077,BUF,,MIN,W 13-10
+2,1988,1988-09-11,2,22.084,BUF,,MIA,W 9-6
+3,1988,1988-09-18,3,22.091,BUF,@,NWE,W 16-14
+4,1988,1988-09-25,4,22.098,BUF,,PIT,W 36-28

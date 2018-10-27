@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2017,2017-09-10,1,23.143,CAR,@,SFO,W 23-3,,0.0,0,0
+2,2017,2017-09-17,2,23.150,CAR,,BUF,W 9-3,,0.0,0,0
+3,2017,2017-09-24,3,23.157,CAR,,NOR,L 13-34,,0.0,0,0
+4,2017,2017-10-01,4,23.164,CAR,@,NWE,W 33-30,,0.0,4,0

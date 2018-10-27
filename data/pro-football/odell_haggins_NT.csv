@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1991,1991-09-08,2,24.193,BUF,,PIT,W 52-34
+2,1991,1991-09-15,3,24.200,BUF,@,NYJ,W 23-20
+3,1991,1991-09-22,4,24.207,BUF,@,TAM,W 17-10
+4,1991,1991-09-29,5,24.214,BUF,,CHI,W 35-20
+5,1991,1991-10-07,6,24.222,BUF,@,KAN,L 6-33

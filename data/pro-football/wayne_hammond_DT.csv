@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1976,1976-11-07,9,23.282,DEN,,TAM,W 48-13
+2,1976,1976-11-14,10,23.289,DEN,@,SDG,W 17-0
+3,1976,1976-11-28,12,23.303,DEN,@,NWE,L 14-38
+4,1976,1976-12-05,13,23.310,DEN,,KAN,W 17-16
+5,1976,1976-12-12,14,23.317,DEN,@,CHI,W 28-14

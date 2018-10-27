@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1971,1971-12-12,13,24.098,PIT,@,CIN,W 21-13,,3,11,27.27,18,0,1,1.7,0,0,1.64,-2.45,1,-6,-6.00,0

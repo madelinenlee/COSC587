@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1989,1989-10-29,8,23.060,KAN,@,PIT,L 17-23
+2,1989,1989-11-05,9,23.067,KAN,,SEA,W 20-10
+3,1989,1989-11-12,10,23.074,KAN,,DEN,L 13-16

@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1984,1984-09-02,1,22.129,IND,,NYJ,L 14-23,0,0,,0
+2,1984,1984-09-09,2,22.136,IND,@,HOU,W 35-21,1,2,2.00,0
+3,1984,1984-09-16,3,22.143,IND,,STL,L 33-34,0,0,,0
+4,1984,1984-09-23,4,22.150,IND,@,MIA,L 7-44,0,0,,0
+5,1984,1984-09-30,5,22.157,IND,,BUF,W 31-17,0,0,,0
+6,1984,1984-10-07,6,22.164,IND,,WAS,L 7-35,0,0,,0

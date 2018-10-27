@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2000,2000-11-19,12,23.256,ATL,@,SFO,L 6-16,
+2,2000,2000-12-17,15,23.284,ATL,@,NOR,L 7-23,
+3,2000,2000-12-24,16,23.291,ATL,,KAN,W 29-13,

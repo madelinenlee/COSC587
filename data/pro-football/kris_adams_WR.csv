@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2012,2012-09-09,1,25.005,IND,@,CHI,L 21-41,,4,2,26,13.00,0,50.0%,6.50
+2,2012,2012-09-16,2,25.012,IND,,MIN,W 23-20,,3,0,0,,0,0.0%,0.00
+3,2012,2012-09-23,3,25.019,IND,,JAX,L 17-22,,1,0,0,,0,0.0%,0.00

@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2010,2010-10-25,6,22.126,DAL,,NYG,L 35-41,,,,
+2,2010,2010-10-31,7,22.132,DAL,,JAX,L 17-35,,,,
+3,2010,2010-12-12,13,22.174,DAL,,PHI,L 27-30,,,,
+4,2010,2010-12-19,14,22.181,DAL,,WAS,W 33-30,,0.0,3,0
+5,2010,2010-12-25,15,22.187,DAL,@,ARI,L 26-27,,0.0,0,0
+6,2010,2011-01-02,16,22.195,DAL,@,PHI,W 14-13,,,,

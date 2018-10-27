@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1986,1986-09-14,2,23.287,DAL,@,DET,W 31-7
+2,1986,1986-09-21,3,23.294,DAL,,ATL,L 35-37
+3,1986,1986-09-29,4,23.302,DAL,@,STL,W 31-7
+4,1986,1986-10-19,7,23.322,GNB,@,CLE,W 17-14
+5,1987,1987-10-18,5,24.321,MIN,@,TAM,L 10-20

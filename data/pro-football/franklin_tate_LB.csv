@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1975,1975-11-30,11,23.016,SDG,@,DEN,L 10-13
+2,1975,1975-12-07,12,23.023,SDG,@,KAN,W 28-20
+3,1975,1975-12-15,13,23.031,SDG,,NYJ,W 24-16
+4,1975,1975-12-21,14,23.037,SDG,@,CIN,L 17-47

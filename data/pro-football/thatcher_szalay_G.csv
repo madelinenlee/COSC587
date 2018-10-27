@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2005,2005-12-11,13,26.327,BAL,@,DEN,L 10-12,
+2,2005,2005-12-19,14,26.335,BAL,,GNB,W 48-3,
+3,2005,2005-12-25,15,26.341,BAL,,MIN,W 30-23,
+4,2005,2006-01-01,16,26.348,BAL,@,CLE,L 16-20,

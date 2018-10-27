@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1986,1986-09-21,3,23.276,PHI,,DEN,L 7-33
+2,1986,1986-09-28,4,23.283,PHI,,RAM,W 34-20
+3,1987,1987-10-04,3,24.289,MIA,@,SEA,L 20-24
+4,1987,1987-10-11,4,24.296,MIA,,KAN,W 42-0
+5,1987,1987-10-18,5,24.303,MIA,@,NYJ,L 31-37

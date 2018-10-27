@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2017,2017-12-03,12,24.032,TAM,@,GNB,L 20-26,
+2,2017,2017-12-10,13,24.039,TAM,,DET,L 21-24,
+3,2017,2017-12-18,14,24.047,TAM,,ATL,L 21-24,

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,1991,1991-09-22,4,23.093,SEA,@,KAN,L 13-20,2,56,28.00,0
+2,1991,1991-09-29,5,23.100,SEA,,IND,W 31-3,5,199,39.80,0
+3,1991,1991-10-06,6,23.107,SEA,@,CIN,W 13-7,7,219,31.29,0

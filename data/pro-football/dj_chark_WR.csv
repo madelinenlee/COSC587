@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2018,2018-09-09,1,21.351,JAX,@,NYG,W 20-15,,0,0,0,,0,0.0%,,0,0,,0
+2,2018,2018-09-16,2,21.358,JAX,,NWE,W 31-20,,4,1,13,13.00,0,25.0%,3.25,1,4,4.00,0
+3,2018,2018-09-23,3,22.000,JAX,,TEN,L 6-9,,1,0,0,,0,0.0%,0.00,0,0,,0

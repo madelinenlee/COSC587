@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1992,1992-09-06,1,23.020,PHI,,NOR,W 15-13,0,0,,0
+2,1992,1992-09-13,2,23.027,PHI,@,PHO,W 31-14,0,0,,0
+3,1992,1992-09-20,3,23.034,PHI,,DEN,W 30-0,0,0,,0
+4,1992,1992-10-05,4,23.049,PHI,,DAL,W 31-7,0,0,,0
+5,1992,1992-10-11,5,23.055,PHI,@,KAN,L 17-24,1,11,11.00,0

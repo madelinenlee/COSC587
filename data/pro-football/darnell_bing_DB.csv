@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2008,2008-12-28,16,24.109,DET,@,GNB,L 21-31,,0.0,0,1
+2,2009,2009-09-13,1,25.003,DET,@,NOR,L 27-45,,0.0,0,0
+3,2009,2009-09-20,2,25.010,DET,,MIN,L 13-27,,,,
+4,2009,2009-09-27,3,25.017,DET,,WAS,W 19-14,,0.0,0,0
+5,2009,2009-10-04,4,25.024,DET,@,CHI,L 24-48,,,,

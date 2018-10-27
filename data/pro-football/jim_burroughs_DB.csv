@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,all_td,scoring,def_int,def_int_yds,def_int_td
+1,1982,1982-12-12,6,24.325,BAL,@,MIN,L 10-13,1,6,1,94,1
+2,1983,1983-11-06,10,25.289,BAL,@,NYJ,W 17-14,0,0,1,0,0
+3,1983,1983-12-18,16,25.331,BAL,,HOU,W 20-10,0,0,1,8,0
+4,1984,1984-09-16,3,26.239,IND,,STL,L 33-34,0,0,2,9,0
+5,1984,1984-09-30,5,26.253,IND,,BUF,W 31-17,0,0,1,0,0

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1967,1967-09-24,2,24.066,NYG,@,DAL,L 24-38,4,105,26.25,0,1,0,0.00,0
+2,1967,1967-10-01,3,24.073,NYG,@,WAS,L 34-38,1,25,25.00,0,0,0,,0
+3,1967,1967-10-08,4,24.080,NYG,,NOR,W 27-21,4,99,24.75,0,1,7,7.00,0
+4,1967,1967-10-15,5,24.087,NYG,@,PIT,W 27-24,4,74,18.50,0,1,0,0.00,0
+5,1967,1967-10-22,6,24.094,NYG,,GNB,L 21-48,1,12,12.00,0,0,0,,0

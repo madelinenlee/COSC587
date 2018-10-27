@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1967,1967-10-08,4,23.107,ATL,,PHI,L 7-38,2,7,3.50,0,1,11,11.00,0,0,0,,0
+2,1967,1967-12-10,13,23.170,ATL,,SFO,L 28-34,0,0,,0,0,0,,0,1,12,12.00,0

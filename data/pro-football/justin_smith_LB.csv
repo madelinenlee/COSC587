@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2003,2003-10-12,5,24.129,TAM,@,WAS,W 35-13,
+2,2003,2003-11-24,11,24.172,TAM,,NYG,W 19-13,
+3,2003,2003-12-14,14,24.192,STL,,SEA,W 27-22,
+4,2003,2003-12-21,15,24.199,STL,,CIN,W 27-10,
+5,2003,2003-12-28,16,24.206,STL,@,DET,L 20-30,

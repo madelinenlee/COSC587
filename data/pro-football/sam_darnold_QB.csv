@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2018,2018-09-10,1,21.097,NYJ,@,DET,W 48-17,*,16,21,76.19,198,2,1,116.8,2,18,9.43,9.19,6,-1,-0.17,0
+2,2018,2018-09-16,2,21.103,NYJ,,MIA,L 12-20,*,25,41,60.98,334,1,2,74.6,3,14,8.15,6.44,2,1,0.50,0
+3,2018,2018-09-20,3,21.107,NYJ,@,CLE,L 17-21,*,15,31,48.39,169,0,2,38.2,2,8,5.45,2.55,0,0,,0

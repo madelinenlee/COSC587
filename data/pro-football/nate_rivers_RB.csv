@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1980,1980-11-23,12,25.084,NYG,@,SFO,L 0-12
+2,1980,1980-11-30,13,25.091,NYG,,STL,L 7-23
+3,1980,1980-12-07,14,25.098,NYG,@,SEA,W 27-21

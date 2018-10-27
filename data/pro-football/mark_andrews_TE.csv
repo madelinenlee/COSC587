@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,all_td,scoring
+1,2018,2018-09-09,1,22.003,BAL,,BUF,W 47-3,,4,3,31,10.33,0,75.0%,7.75,0,0
+2,2018,2018-09-13,2,22.007,BAL,@,CIN,L 23-34,*,4,3,17,5.67,1,75.0%,4.25,1,6
+3,2018,2018-09-23,3,22.017,BAL,,DEN,W 27-14,,3,2,59,29.50,0,66.7%,19.67,0,0

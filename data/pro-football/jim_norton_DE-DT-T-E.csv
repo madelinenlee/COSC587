@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1967,1967-12-10,13,25.022,ATL,,SFO,L 28-34,1,0,0
+2,1970,1970-09-19,1,27.305,NYG,,CHI,L 16-24,,,
+3,1970,1970-09-27,2,27.313,NYG,@,DAL,L 10-28,,,
+4,1970,1970-10-04,3,27.320,NYG,@,NOR,L 10-14,,,
+5,1970,1970-10-11,4,27.327,NYG,,PHI,W 30-23,,,

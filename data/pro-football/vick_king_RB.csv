@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2004,2004-12-05,12,24.305,MIA,,BUF,L 32-42,,3,8,2.67,0,2,1,8,8.00,0,50.0%,4.00
+2,2004,2004-12-26,15,24.326,MIA,,CLE,W 10-7,,1,1,1.00,0,0,0,0,,0,0.0%,

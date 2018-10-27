@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2011,2011-09-11,1,23.298,SDG,,MIN,W 24-17,
+2,2011,2011-10-31,7,23.348,SDG,@,KAN,L 20-23,
+3,2011,2011-11-06,8,23.354,SDG,,GNB,L 38-45,
+4,2011,2011-12-24,15,24.037,SDG,@,DET,L 10-38,
+5,2011,2012-01-01,16,24.045,SDG,@,OAK,W 38-26,

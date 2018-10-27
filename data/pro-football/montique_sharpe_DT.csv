@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks
+1,2003,2003-10-20,7,23.224,KAN,@,OAK,W 17-10,,
+2,2003,2003-12-07,13,23.272,KAN,@,DEN,L 27-45,,
+3,2003,2003-12-14,14,23.279,KAN,,DET,W 45-17,,
+4,2003,2003-12-20,15,23.285,KAN,@,MIN,L 20-45,,1.0
+5,2003,2003-12-28,16,23.293,KAN,,CHI,W 31-3,,

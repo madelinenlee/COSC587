@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1986,1986-09-07,1,22.333,MIN,,DET,L 10-13
+2,1986,1986-09-14,2,22.340,MIN,@,TAM,W 23-10
+3,1986,1986-09-21,3,22.347,MIN,,PIT,W 31-7
+4,1986,1986-09-28,4,22.354,MIN,,GNB,W 42-7
+5,1986,1986-10-05,5,22.361,MIN,@,CHI,L 0-23

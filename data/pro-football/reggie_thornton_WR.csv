@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,1991,1991-09-08,2,23.347,IND,@,MIA,L 6-17,,0,0,,0,,
+2,1991,1991-09-15,3,23.354,IND,@,RAI,L 0-16,,0,0,,0,,
+3,1991,1991-09-22,4,23.361,IND,,DET,L 24-33,,1,38,38.00,0,,
+4,1991,1991-09-29,5,24.003,IND,@,SEA,L 3-31,,0,0,,0,,
+5,1991,1991-10-20,8,24.024,IND,,NYJ,L 6-17,,0,0,,0,,
+6,1993,1993-09-05,1,25.344,CIN,@,CLE,L 14-27,,,,,,0.0%,

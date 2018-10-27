@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1998,1998-10-04,5,25.027,ARI,,OAK,L 20-23
+2,1998,1998-10-11,6,25.034,ARI,,CHI,W 20-7
+3,1998,1998-10-18,7,25.041,ARI,@,NYG,L 7-34

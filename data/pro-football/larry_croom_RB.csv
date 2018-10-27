@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2004,2004-10-10,5,22.347,ARI,@,SFO,L 28-31,,0,0,,0,2,1,8,8.00,0,50.0%,4.00,3,60,20.00,0
+2,2004,2004-10-24,6,22.361,ARI,,SEA,W 25-17,,1,2,2.00,0,0,0,0,,0,0.0%,,4,89,22.25,0
+3,2004,2004-10-31,7,23.002,ARI,@,BUF,L 14-38,,0,0,,0,0,0,0,,0,0.0%,,4,69,17.25,0
+4,2004,2004-11-07,8,23.009,ARI,@,MIA,W 24-23,,0,0,,0,0,0,0,,0,0.0%,,5,96,19.20,0
+5,2004,2004-11-28,11,23.030,ARI,,NYJ,L 3-13,,10,25,2.50,0,3,1,8,8.00,0,33.3%,2.67,0,0,,0
+6,2004,2004-12-05,12,23.037,ARI,@,DET,L 12-26,*,18,49,2.72,0,0,0,0,,0,0.0%,,0,0,,0

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2013,2013-10-27,8,24.025,DAL,@,DET,L 30-31,,0.0,1,1
+2,2013,2013-11-03,9,24.032,DAL,,MIN,W 27-23,,,,
+3,2013,2013-11-10,10,24.039,DAL,@,NOR,L 17-49,,,,
+4,2014,2014-11-27,12,25.056,DAL,,PHI,L 10-33,,,,

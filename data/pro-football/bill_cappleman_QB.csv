@@ -1,0 +1,9 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1970,1970-12-13,13,23.276,MIN,@,BOS,W 35-14,,4,7,57.14,49,0,0,78.9,0,0,7.00,7.00,0,0,,0
+2,1973,1973-11-04,8,26.237,DET,,SFO,W 30-20,,,,,,,,,,,,,,,,
+3,1973,1973-11-11,9,26.244,DET,@,MIN,L 7-28,,,,,,,,,,,,,,,,
+4,1973,1973-11-18,10,26.251,DET,@,CHI,W 30-7,,,,,,,,,,,,,,,,
+5,1973,1973-11-22,11,26.255,DET,,WAS,L 0-20,,,,,,,,,,,,,,,,
+6,1973,1973-12-02,12,26.265,DET,@,STL,W 20-16,,,,,,,,,,,,,,,,
+7,1973,1973-12-09,13,26.272,DET,,CHI,W 40-7,,3,7,42.86,20,0,0,50.3,0,0,2.86,2.86,0,0,,0
+8,1973,1973-12-15,14,26.278,DET,@,MIA,L 7-34,,2,4,50.00,13,0,1,17.7,0,0,3.25,-8.00,1,-2,-2.00,0

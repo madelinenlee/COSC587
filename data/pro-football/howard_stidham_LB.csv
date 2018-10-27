@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1977,1977-11-20,10,22.338,SFO,,RAM,L 10-23
+2,1977,1977-11-27,11,22.345,SFO,,NOR,W 20-17
+3,1977,1977-12-04,12,22.352,SFO,@,MIN,L 27-28
+4,1977,1977-12-18,14,23.001,SFO,@,GNB,L 14-16

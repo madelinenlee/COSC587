@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2018,2018-09-09,1,21.117,SEA,@,DEN,L 24-27,,0.0,1,0
+2,2018,2018-09-17,2,21.125,SEA,@,CHI,L 17-24,,0.0,2,0
+3,2018,2018-09-23,3,21.131,SEA,,DAL,W 24-13,,0.0,1,0

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2018,2018-09-09,1,26.143,HOU,@,NWE,L 20-27,,2,2,11,5.50,0,100.0%,5.50
+2,2018,2018-09-16,2,26.150,HOU,@,TEN,L 17-20,,2,2,21,10.50,0,100.0%,10.50
+3,2018,2018-09-23,3,26.157,HOU,,NYG,L 22-27,,1,1,18,18.00,0,100.0%,18.00

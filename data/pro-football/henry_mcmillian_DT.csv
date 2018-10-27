@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1995,1995-11-19,11,24.033,SEA,@,WAS,W 27-20
+2,1996,1996-09-22,4,24.341,SEA,@,TAM,W 17-13
+3,1996,1996-10-06,6,24.355,SEA,@,MIA,W 22-15
+4,1996,1996-10-27,8,25.010,SEA,,SDG,W 32-13

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,all_td,scoring,def_int,def_int_yds,def_int_td
+1,1964,1964-11-01,8,22.143,WAS,@,PHI,W 21-10,0,0,,0,0,0,1,0,0
+2,1964,1964-12-13,14,22.185,WAS,@,BAL,L 17-45,0,0,,0,0,0,1,36,0
+3,1965,1965-10-10,4,23.121,WAS,,STL,L 16-37,2,30,15.00,0,0,0,0,0,0
+4,1965,1965-12-19,14,23.191,WAS,,PIT,W 35-14,0,0,,0,1,6,1,63,1

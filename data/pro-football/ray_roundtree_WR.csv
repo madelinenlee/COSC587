@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1988,1988-09-04,1,22.138,DET,,ATL,W 31-17
+2,1988,1988-09-18,3,22.152,DET,,NOR,L 14-22
+3,1988,1988-09-25,4,22.159,DET,,NYJ,L 10-17
+4,1988,1988-10-02,5,22.166,DET,@,SFO,L 13-20

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2014,2014-10-26,7,25.178,CLE,,OAK,W 23-13,*
+2,2014,2014-11-02,8,25.185,CLE,,TAM,W 22-17,*
+3,2014,2014-11-06,9,25.189,CLE,@,CIN,W 24-3,*

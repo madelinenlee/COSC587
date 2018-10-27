@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,def_int,def_int_yds,def_int_td
+1,1965,1965-09-19,2,23.183,BOS,@,HOU,L 10-31,0,0,,0,1,0,0
+2,1965,1965-12-18,14,23.273,BOS,,HOU,W 42-14,0,0,,0,1,0,0
+3,1966,1966-09-18,2,24.182,BOS,@,DEN,W 24-10,0,0,,0,1,0,0
+4,1966,1966-11-06,8,24.231,BOS,,DEN,L 10-17,1,5,5.00,0,0,0,0

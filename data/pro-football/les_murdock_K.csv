@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring
+1,1967,1967-09-17,1,26.103,NYG,@,STL,W 37-20,4,5,80.0,1,2,50.0,0,7
+2,1967,1967-09-24,2,26.110,NYG,@,DAL,L 24-38,3,3,100.0,1,2,50.0,0,6
+3,1967,1967-10-01,3,26.117,NYG,@,WAS,L 34-38,4,4,100.0,2,3,66.7,0,10
+4,1967,1967-10-08,4,26.124,NYG,,NOR,W 27-21,2,3,66.7,,2,0.0,0,2

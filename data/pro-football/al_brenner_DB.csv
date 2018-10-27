@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1969,1969-09-21,1,21.312,NYG,,MIN,W 24-23,1,21,21.00,0,0,0,,0
+2,1969,1969-10-19,5,21.340,NYG,@,WAS,L 14-20,1,18,18.00,0,1,3,3.00,0
+3,1969,1969-10-27,6,21.348,NYG,@,DAL,L 3-25,0,0,,0,1,3,3.00,0
+4,1970,1970-09-19,1,22.310,NYG,,CHI,L 16-24,0,0,,0,1,5,5.00,0

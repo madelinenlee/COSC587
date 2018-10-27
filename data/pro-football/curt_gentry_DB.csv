@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1966,1966-12-18,14,25.132,CHI,,MIN,W 41-28,1,0,0
+2,1967,1967-11-05,8,26.089,CHI,@,DET,W 27-13,1,17,0
+3,1967,1967-11-19,10,26.103,CHI,,STL,W 30-3,3,8,0
+4,1968,1968-09-22,2,27.045,CHI,@,DET,L 0-42,1,7,0

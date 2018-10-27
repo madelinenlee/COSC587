@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2000,2000-11-19,11,24.355,MIN,,CAR,W 31-17,
+2,2000,2000-11-23,12,24.359,MIN,@,DAL,W 27-15,
+3,2002,2002-09-15,2,26.289,MIN,,BUF,L 39-45,
+4,2002,2002-09-22,3,26.296,MIN,,CAR,L 14-21,
+5,2002,2002-09-29,4,26.303,MIN,@,SEA,L 23-48,

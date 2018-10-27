@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1952,1952-10-04,2,21.318,PHI,,NYG,L 7-31,1,52,52.00,0
+2,1952,1952-10-12,3,21.326,PHI,,PIT,W 26-21,0,0,,0
+3,1955,1955-10-09,3,24.322,PHI,@,CLE,L 17-21,1,6,6.00,0

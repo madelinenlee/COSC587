@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1963,1963-10-27,7,23.272,NYG,@,CLE,W 33-6,1,12,0
+2,1963,1963-11-03,8,23.279,NYG,@,STL,W 38-21,0,26,0

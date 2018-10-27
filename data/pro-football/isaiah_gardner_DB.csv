@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2008,2008-10-05,5,23.263,JAX,,PIT,L 21-26,
+2,2008,2008-10-12,6,23.270,JAX,@,DEN,W 24-17,
+3,2008,2008-12-14,14,23.333,JAX,,GNB,W 20-16,
+4,2008,2008-12-18,15,23.337,JAX,,IND,L 24-31,

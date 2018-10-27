@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1998,1998-10-11,6,23.278,PHI,,WAS,W 17-12
+2,1998,1998-10-18,7,23.285,PHI,@,SDG,L 10-13
+3,1998,1998-12-13,14,23.341,PHI,,ARI,L 17-20
+4,1998,1998-12-27,16,23.355,PHI,,NYG,L 10-20

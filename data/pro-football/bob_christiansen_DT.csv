@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1972,1972-09-24,2,23.139,BUF,,SFO,W 27-20
+2,1972,1972-10-08,4,23.153,BUF,,NWE,W 38-14
+3,1972,1972-10-15,5,23.160,BUF,@,OAK,L 16-28
+4,1972,1972-10-22,6,23.167,BUF,@,MIA,L 23-24

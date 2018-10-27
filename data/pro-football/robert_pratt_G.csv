@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1975,1975-09-21,1,24.119,BAL,@,CHI,W 35-7,0,0,,0,1,22,22.00,0
+2,1975,1975-09-28,2,24.126,BAL,,OAK,L 20-31,0,0,,0,1,14,14.00,0
+3,1975,1975-10-19,5,24.147,BAL,@,NWE,L 10-21,0,0,,0,2,28,14.00,0
+4,1976,1976-09-12,1,25.110,BAL,@,NWE,W 27-13,0,0,,0,1,21,21.00,0
+5,1984,1984-09-23,4,33.121,SEA,,CHI,W 38-9,1,30,30.00,0,0,0,,0

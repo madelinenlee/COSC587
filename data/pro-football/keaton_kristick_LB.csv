@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2010,2010-10-10,5,22.168,SFO,,PHI,L 24-27,,0.0,0,1
+2,2010,2010-10-17,6,22.175,SFO,,OAK,W 17-9,,,,
+3,2010,2010-11-29,11,22.218,SFO,@,ARI,W 27-6,,,,
+4,2010,2010-12-12,13,22.231,SFO,,SEA,W 40-21,,0.0,4,0
+5,2010,2010-12-16,14,22.235,SFO,@,SDG,L 7-34,,0.0,2,0
+6,2010,2010-12-26,15,22.245,SFO,@,STL,L 17-25,,,,

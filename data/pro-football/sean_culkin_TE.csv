@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2017,2017-09-11,1,24.092,LAC,@,DEN,L 21-24,
+2,2018,2018-09-09,1,25.090,LAC,,KAN,L 28-38,*
+3,2018,2018-09-16,2,25.097,LAC,@,BUF,W 31-20,
+4,2018,2018-09-23,3,25.104,LAC,@,LAR,L 23-35,*

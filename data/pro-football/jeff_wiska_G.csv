@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1986,1986-10-19,7,27.002,CLE,,GNB,L 14-17
+2,1987,1987-10-04,3,27.352,MIA,@,SEA,L 20-24
+3,1987,1987-10-11,4,27.359,MIA,,KAN,W 42-0
+4,1987,1987-10-18,5,28.001,MIA,@,NYJ,L 31-37

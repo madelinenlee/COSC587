@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2015,2015-12-13,13,23.013,PIT,@,CIN,W 33-20,
+2,2015,2015-12-20,14,23.020,PIT,,DEN,W 34-27,
+3,2015,2015-12-27,15,23.027,PIT,@,BAL,L 17-20,

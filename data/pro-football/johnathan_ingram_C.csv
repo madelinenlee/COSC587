@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2005,2005-09-11,1,24.356,KAN,,NYJ,W 27-7,
+2,2005,2005-09-18,2,24.363,KAN,@,OAK,W 23-17,
+3,2005,2005-09-26,3,25.006,KAN,@,DEN,L 10-30,
+4,2005,2005-10-02,4,25.012,KAN,,PHI,L 31-37,

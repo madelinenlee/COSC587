@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1960,1960-10-02,2,31.124,BAL,,CHI,W 42-7,1,1,0
+2,1960,1960-10-30,6,31.152,BAL,@,DAL,W 45-7,1,2,0
+3,1960,1960-11-06,7,31.159,BAL,,GNB,W 38-24,2,8,0
+4,1960,1960-12-11,11,31.194,BAL,@,RAM,L 3-10,1,2,0
+5,1960,1960-12-18,12,31.201,BAL,@,SFO,L 10-34,1,19,0

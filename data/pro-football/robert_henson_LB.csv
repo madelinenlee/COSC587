@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2009,2009-11-08,8,23.285,WAS,@,ATL,L 17-31,,,,
+2,2009,2009-12-06,12,23.313,WAS,,NOR,L 30-33,,,,
+3,2009,2009-12-13,13,23.320,WAS,@,OAK,W 34-13,,0.0,0,0
+4,2009,2009-12-21,14,23.328,WAS,,NYG,L 12-45,,,,
+5,2009,2009-12-27,15,23.334,WAS,,DAL,L 0-17,,0.0,1,0
+6,2009,2010-01-03,16,23.341,WAS,@,SDG,L 20-23,,0.0,0,0

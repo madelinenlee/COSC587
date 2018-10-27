@@ -1,0 +1,8 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1973,1973-10-14,5,23.148,BUF,,BAL,W 31-13,1,8,8.00,0,0,0,,0,0,0,,0,0,0,,0
+2,1973,1973-10-21,6,23.155,BUF,@,MIA,L 6-27,1,12,12.00,0,1,7,7.00,0,0,0,,0,0,0,,0
+3,1973,1973-12-16,14,23.211,BUF,@,NYJ,W 34-14,0,0,,0,0,0,,0,1,0,0.00,0,0,0,,0
+4,1974,1974-10-06,4,24.140,GNB,,BUF,L 7-27,0,0,,0,0,0,,0,1,22,22.00,0,0,0,,0
+5,1974,1974-11-10,9,24.175,CHI,@,GNB,L 3-20,0,0,,0,0,0,,0,1,20,20.00,0,0,0,,0
+6,1974,1974-11-24,11,24.189,CHI,@,DET,L 17-34,0,0,,0,0,0,,0,0,0,,0,2,14,7.00,0
+7,1974,1974-12-08,13,24.203,CHI,@,SDG,L 21-28,0,0,,0,0,0,,0,0,0,,0,2,8,4.00,0

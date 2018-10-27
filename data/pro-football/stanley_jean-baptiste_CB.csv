@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2014,2014-09-28,4,24.169,NOR,@,DAL,L 17-38,
+2,2014,2014-10-05,5,24.176,NOR,,TAM,W 37-31,
+3,2014,2014-10-19,6,24.190,NOR,@,DET,L 23-24,
+4,2014,2014-11-16,10,24.218,NOR,,CIN,L 10-27,
+5,2017,2017-12-31,16,27.263,BAL,,CIN,L 27-31,

@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2011,2011-09-18,2,21.323,WAS,,ARI,W 22-21,,0.0,2,0
+2,2011,2011-09-26,3,21.331,WAS,@,DAL,L 16-18,,,,
+3,2011,2011-12-11,13,22.042,WAS,,NWE,L 27-34,,,,
+4,2011,2011-12-18,14,22.049,WAS,@,NYG,W 23-10,,,,
+5,2011,2011-12-24,15,22.055,WAS,,MIN,L 26-33,,,,
+6,2011,2012-01-01,16,22.063,WAS,@,PHI,L 10-34,,0.0,0,0

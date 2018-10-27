@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1951,1951-09-30,1,27.268,CRD,,PHI,L 14-17,0,0,,0,1,-7,-7.00,0
+2,1951,1951-11-18,8,27.317,CRD,@,SFO,W 27-21,1,8,8.00,0,0,0,,0
+3,1951,1951-12-16,12,27.345,CRD,@,CHI,W 24-14,1,5,5.00,0,0,0,,0

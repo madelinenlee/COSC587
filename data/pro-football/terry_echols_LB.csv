@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1984,1984-09-06,2,22.240,PIT,@,NYJ,W 23-17
+2,1984,1984-09-16,3,22.250,PIT,,RAM,W 24-14
+3,1984,1984-10-01,5,22.265,PIT,,CIN,W 38-17
+4,1984,1984-10-07,6,22.271,PIT,,MIA,L 7-31

@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,1999,1999-12-19,15,22.142,PHI,,NWE,W 24-9,,1,1,14,14.00,0,100.0%,14.00

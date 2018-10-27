@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,1999,2000-01-02,16,24.104,MIA,@,WAS,L 10-21,,3,2,18,9.00,0,66.7%,6.00

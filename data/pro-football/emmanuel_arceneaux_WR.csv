@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2011,2011-12-18,14,24.092,MIN,,NOR,L 20-42,,2,1,10,10.00,0,50.0%,5.00
+2,2011,2011-12-24,15,24.098,MIN,@,WAS,W 33-26,,,,,,,0.0%,
+3,2011,2012-01-01,16,24.106,MIN,,CHI,L 13-17,,,,,,,0.0%,

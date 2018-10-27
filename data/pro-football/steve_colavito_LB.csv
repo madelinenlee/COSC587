@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1975,1975-11-30,11,24.113,PHI,,SFO,W 27-17
+2,1975,1975-12-07,12,24.120,PHI,,CIN,L 0-31
+3,1975,1975-12-14,13,24.127,PHI,@,DEN,L 10-25
+4,1975,1975-12-21,14,24.134,PHI,@,WAS,W 26-3

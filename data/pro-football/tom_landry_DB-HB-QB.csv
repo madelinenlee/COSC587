@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1952,1952-11-30,10,28.080,NYG,@,PIT,L 7-63,,4,25,16.00,108,1,4,18.8,0,0,4.32,-2.08,4,20,5.00,0
+2,1952,1952-12-07,11,28.087,NYG,,WAS,L 17-27,*,7,22,31.82,64,0,3,1.5,0,0,2.91,-3.23,3,20,6.67,1

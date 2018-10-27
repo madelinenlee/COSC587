@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1966,1966-09-25,3,24.276,DET,,ATL,W 28-10,2,4,2.00,0,0,0,,0
+2,1966,1966-10-16,6,24.297,DET,@,BAL,L 14-45,3,4,1.33,0,0,0,,0
+3,1966,1966-10-23,7,24.304,DET,@,SFO,L 24-27,1,1,1.00,0,0,0,,0
+4,1966,1966-10-30,8,24.311,DET,,GNB,L 7-31,0,0,,0,1,8,8.00,0
+5,1966,1966-11-06,9,24.318,DET,@,CHI,T 10-10,10,42,4.20,0,2,5,2.50,0

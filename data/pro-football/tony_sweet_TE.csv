@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1987,1987-10-04,3,23.295,NYJ,,DAL,L 24-38,0,0,,0
+2,1987,1987-10-11,4,23.302,NYJ,@,IND,L 0-6,1,17,17.00,0
+3,1987,1987-10-18,5,23.309,NYJ,,MIA,W 37-31,2,28,14.00,0

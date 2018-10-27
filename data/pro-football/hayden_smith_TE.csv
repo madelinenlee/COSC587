@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2012,2012-10-28,8,27.201,NYJ,,MIA,L 9-30,,,,,,,0.0%,
+2,2012,2012-12-09,13,27.243,NYJ,@,JAX,W 17-10,,,,,,,0.0%,
+3,2012,2012-12-17,14,27.251,NYJ,@,TEN,L 10-14,,,,,,,0.0%,
+4,2012,2012-12-23,15,27.257,NYJ,,SDG,L 17-27,,1,1,16,16.00,0,100.0%,16.00
+5,2012,2012-12-30,16,27.264,NYJ,@,BUF,L 9-28,,,,,,,0.0%,

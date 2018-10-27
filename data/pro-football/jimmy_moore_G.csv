@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1981,1981-09-06,1,24.221,BAL,@,NWE,W 29-28
+2,1981,1981-09-27,4,24.242,BAL,,MIA,L 28-31
+3,1981,1981-11-22,12,24.298,BAL,,STL,L 24-35
+4,1981,1981-11-29,13,24.305,BAL,@,NYJ,L 0-25

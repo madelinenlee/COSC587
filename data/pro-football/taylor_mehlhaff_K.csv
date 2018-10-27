@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring
+1,2008,2008-10-12,6,23.048,NOR,,OAK,W 34-3,,4,4,100.0,2,3,66.7,0,10
+2,2008,2008-10-19,7,23.055,NOR,@,CAR,L 7-30,,1,1,100.0,,,,0,1
+3,2008,2008-10-26,8,23.062,NOR,,SDG,W 37-32,,4,5,80.0,1,1,100.0,0,7

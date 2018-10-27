@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1997,1997-11-24,12,23.290,OAK,@,DEN,L 3-31
+2,1997,1997-11-30,13,23.296,OAK,,MIA,L 16-34
+3,1997,1997-12-14,15,23.310,OAK,,SEA,L 21-22
+4,1997,1997-12-21,16,23.317,OAK,,JAX,L 9-20

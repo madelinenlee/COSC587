@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1968,1968-10-06,4,29.012,SFO,@,RAM,L 10-24,1,8,8.00,0
+2,1968,1968-10-13,5,29.019,SFO,,BAL,L 14-42,1,13,13.00,0

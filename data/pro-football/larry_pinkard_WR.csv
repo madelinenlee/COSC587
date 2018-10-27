@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2017,2017-11-19,10,25.267,JAX,@,CLE,W 19-7,,0,0,0,,0,0.0%,
+2,2017,2017-11-26,11,25.274,JAX,@,ARI,L 24-27,,0,0,0,,0,0.0%,
+3,2017,2017-12-03,12,25.281,JAX,,IND,W 30-10,,0,0,0,,0,0.0%,
+4,2017,2017-12-10,13,25.288,JAX,,SEA,W 30-24,,1,1,5,5.00,0,100.0%,5.00

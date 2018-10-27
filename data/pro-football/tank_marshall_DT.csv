@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1977,1977-11-06,8,22.304,NYJ,,MIA,L 10-14
+2,1977,1977-11-13,9,22.311,NYJ,,SEA,L 0-17
+3,1977,1977-11-20,10,22.318,NYJ,@,BAL,L 12-33
+4,1977,1977-12-11,13,22.339,NYJ,,BUF,L 10-14
+5,1977,1977-12-18,14,22.346,NYJ,@,PHI,L 0-27

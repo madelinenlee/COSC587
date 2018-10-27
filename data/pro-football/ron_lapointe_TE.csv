@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1980,1980-11-09,10,23.255,BAL,,CLE,L 27-28,,,,
+2,1980,1980-11-16,11,23.262,BAL,@,DET,W 10-9,1,18,18.00,0

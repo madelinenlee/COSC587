@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1964,1964-09-19,2,22.212,HOU,,OAK,W 42-28,1,11,0
+2,1964,1964-11-15,10,22.269,HOU,@,OAK,L 10-20,1,0,0

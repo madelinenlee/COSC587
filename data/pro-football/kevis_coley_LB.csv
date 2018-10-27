@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2008,2008-11-09,9,26.139,HOU,,BAL,L 13-41,
+2,2008,2008-12-21,15,26.181,HOU,@,OAK,L 16-27,
+3,2008,2008-12-28,16,26.188,HOU,,CHI,W 31-24,

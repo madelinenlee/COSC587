@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att
+1,2004,2004-12-05,12,24.087,ARI,@,DET,L 12-26,*,18,40,45.00,168,1,4,25.8,1,8,4.20,0.20
+2,2005,2005-10-02,4,25.023,ARI,,SFO,W 31-14,,0,0,,0,0,0,,0,0,,
+3,2005,2005-12-18,14,25.100,ARI,@,HOU,L 19-30,,14,24,58.33,174,1,1,77.4,4,27,7.25,6.21

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1991,1991-10-06,6,23.227,DAL,@,GNB,W 20-17
+2,1991,1991-11-10,10,23.262,DAL,@,HOU,L 23-26
+3,1991,1991-11-17,11,23.269,DAL,@,NYG,L 9-22

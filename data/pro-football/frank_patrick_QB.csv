@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1970,1970-12-13,13,23.277,GNB,@,CHI,L 17-35,,6,14,42.86,59,0,1,25.6,0,0,4.21,1.00,2,5,2.50,0
+2,1971,1971-09-26,2,24.199,GNB,,DEN,W 34-13,,1,5,20.00,39,0,1,20.0,0,0,7.80,-1.20,0,0,,0
+3,1972,1972-09-17,1,25.190,GNB,@,CLE,W 26-10,,,,,,,,,,,,,,,,
+4,1972,1972-09-24,2,25.197,GNB,,OAK,L 14-20,,1,4,25.00,9,0,0,39.6,0,0,2.25,2.25,0,0,,0

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2002,2002-11-28,12,27.324,DET,,NWE,L 12-20,,,,,,0,,,,,0.0%,,,,,
+2,2002,2002-12-08,13,27.334,DET,@,ARI,L 20-23,,1,1,1.00,0,0,0,0,,0,0.0%,,1,55,55.00,0
+3,2002,2002-12-15,14,27.341,DET,,TAM,L 20-23,,8,50,6.25,0,0,0,0,,0,0.0%,,0,0,,0
+4,2002,2002-12-22,15,27.348,DET,@,ATL,L 15-36,,2,5,2.50,0,0,0,0,,0,0.0%,,0,0,,0
+5,2002,2002-12-29,16,27.355,DET,,MIN,L 36-38,,1,1,1.00,0,3,1,4,4.00,0,33.3%,1.33,0,0,,0

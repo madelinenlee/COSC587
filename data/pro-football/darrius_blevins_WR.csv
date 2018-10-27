@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2000,2000-11-26,12,24.219,STL,,NOR,L 24-31,,,,,
+2,2000,2000-12-03,13,24.226,STL,@,CAR,L 3-16,,,,,
+3,2000,2000-12-10,14,24.233,STL,,MIN,W 40-29,,2,36,18.00,0
+4,2000,2000-12-18,15,24.241,STL,@,TAM,L 35-38,,4,73,18.25,0
+5,2000,2000-12-24,16,24.247,STL,@,NOR,W 26-21,,3,64,21.33,0

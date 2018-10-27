@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,all_td,scoring
+1,1977,1977-10-02,3,24.292,CLE,,PIT,L 14-28,,,,,,,,,,,,,,,,,,,,,,
+2,1977,1977-11-27,11,24.348,CLE,,RAM,L 0-9,,3,8,37.50,23,0,1,6.2,0,0,2.88,-2.75,0,0,,0,0,0,,0,0,0
+3,1977,1977-12-11,13,24.362,CLE,,HOU,L 15-19,,16,27,59.26,188,1,2,62.0,0,0,6.96,4.37,2,-3,-1.50,0,0,0,,0,0,0
+4,1977,1977-12-18,14,25.004,CLE,@,SEA,L 19-20,*,6,15,40.00,105,0,4,25.0,0,0,7.00,-5.00,1,1,1.00,0,1,4,4.00,1,1,6

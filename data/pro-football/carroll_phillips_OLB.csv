@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2017,2017-12-03,12,25.092,JAX,,IND,W 30-10,
+2,2017,2017-12-10,13,25.099,JAX,,SEA,W 30-24,
+3,2017,2017-12-17,14,25.106,JAX,,HOU,W 45-7,
+4,2017,2017-12-31,16,25.120,JAX,@,TEN,L 10-15,

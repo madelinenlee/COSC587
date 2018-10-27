@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2006,2006-12-10,13,23.199,NYJ,,BUF,L 13-31,
+2,2006,2006-12-17,14,23.206,NYJ,@,MIN,W 26-13,
+3,2006,2006-12-31,16,23.220,NYJ,,OAK,W 23-3,

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1960,1960-11-27,9,26.015,SFO,@,BAL,W 30-22,1,0,0
+2,1960,1960-12-10,11,26.028,SFO,,GNB,L 0-13,1,0,0
+3,1962,1962-09-30,3,27.322,SFO,,MIN,W 21-7,1,0,0
+4,1962,1962-10-14,5,27.336,SFO,@,CHI,W 34-27,1,0,0

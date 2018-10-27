@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1981,1981-09-05,1,24.210,MIN,@,TAM,L 13-21,0,0,,0,1,17,17.00,0,0,0,,0
+2,1981,1981-09-14,2,24.219,MIN,,OAK,L 10-36,1,7,7.00,0,1,6,6.00,0,0,0,,0
+3,1981,1981-10-11,6,24.246,MIN,@,SDG,W 33-31,0,0,,0,0,0,,0,,,,
+4,1981,1981-10-25,8,24.260,MIN,@,STL,L 17-30,0,0,,0,0,0,,0,,,,
+5,1982,1982-11-21,3,25.287,MIN,@,GNB,L 7-26,0,0,,0,0,0,,0,2,21,10.50,0
+6,1987,1987-10-18,5,30.253,MIN,@,TAM,L 10-20,5,8,1.60,0,3,20,6.67,0,1,4,4.00,0

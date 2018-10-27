@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring
+1,1996,1996-09-02,1,27.065,CHI,,DAL,W 22-6,1,1,100.0,3,4,75.0,0,10
+2,1996,1996-09-08,2,27.071,CHI,@,WAS,L 3-10,,,,1,2,50.0,0,3
+3,1996,1996-09-15,3,27.078,CHI,,MIN,L 14-20,2,2,100.0,,1,0.0,0,2
+4,1996,1996-12-21,16,27.175,STL,,NOR,W 14-13,2,2,100.0,,,,0,2

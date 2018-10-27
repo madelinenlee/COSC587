@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2015,2015-09-28,3,22.323,GNB,,KAN,W 38-28,,2,17,8.50,0
+2,2015,2015-10-04,4,22.329,GNB,@,SFO,W 17-3,,0,0,,0
+3,2015,2015-10-11,5,22.336,GNB,,STL,W 24-10,,0,0,,0
+4,2015,2015-11-01,7,22.357,GNB,@,DEN,L 10-29,,2,2,1.00,0
+5,2015,2015-11-08,8,22.364,GNB,@,CAR,L 29-37,,0,0,,0
+6,2015,2015-11-15,9,23.006,GNB,,DET,L 16-18,,0,0,,0

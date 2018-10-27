@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2014,2014-11-23,11,23.179,CHI,,TAM,W 21-13,
+2,2014,2014-11-27,12,23.183,CHI,@,DET,L 17-34,
+3,2014,2014-12-04,13,23.190,CHI,,DAL,L 28-41,
+4,2014,2014-12-21,15,23.207,CHI,,DET,L 14-20,
+5,2014,2014-12-28,16,23.214,CHI,@,MIN,L 9-13,

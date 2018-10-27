@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,1996,1996-09-29,4,25.039,PIT,,HOU,W 30-16,1,-16,-16.00,0,6,203,33.83,0
+2,1996,1996-10-07,5,25.047,PIT,@,KAN,W 17-7,0,0,,0,2,85,42.50,0
+3,1996,1996-10-13,6,25.053,PIT,,CIN,W 20-10,0,0,,0,4,171,42.75,0
+4,1996,1996-10-20,7,25.060,PIT,@,HOU,L 13-23,0,0,,0,5,216,43.20,0

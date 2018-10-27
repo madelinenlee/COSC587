@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,all_td,scoring
+1,1987,1987-10-04,3,23.059,MIA,@,SEA,L 20-24,0,0,,0,,
+2,1987,1987-10-11,4,23.066,MIA,,KAN,W 42-0,1,8,8.00,0,0,0
+3,1987,1987-10-18,5,23.073,MIA,@,NYJ,L 31-37,1,5,5.00,1,1,6

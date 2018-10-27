@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1988,1988-10-23,8,22.087,HOU,@,CIN,L 21-44
+2,1988,1988-10-30,9,22.094,HOU,,WAS,W 41-17
+3,1988,1988-12-04,14,22.129,HOU,,PIT,L 34-37
+4,1988,1988-12-11,15,22.136,HOU,,CIN,W 41-6
+5,1990,1990-09-09,1,24.043,HOU,@,ATL,L 27-47

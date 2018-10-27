@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1993,1993-12-12,13,23.162,DET,@,PHO,W 21-14
+2,1993,1993-12-19,14,23.169,DET,,SFO,L 17-55
+3,1993,1993-12-26,15,23.176,DET,@,CHI,W 20-14
+4,1993,1994-01-02,16,23.183,DET,,GNB,W 30-20

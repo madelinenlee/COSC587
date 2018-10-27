@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1960,1960-09-30,2,31.360,DAL,,PHI,L 25-27,1,0,0
+2,1960,1960-11-20,9,32.045,DAL,,SFO,L 14-26,1,14,0

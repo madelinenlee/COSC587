@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2015,2015-11-01,7,23.301,TAM,@,ATL,W 23-20,,0.0,1,0
+2,2015,2015-11-08,8,23.308,TAM,,NYG,L 18-32,,0.0,0,0
+3,2015,2015-11-15,9,23.315,TAM,,DAL,W 10-6,,0.0,0,0
+4,2015,2015-11-29,11,23.329,TAM,@,IND,L 12-25,,0.0,0,0
+5,2015,2015-12-06,12,23.336,TAM,,ATL,W 23-19,,0.0,1,0
+6,2016,2017-01-01,16,24.363,CHI,@,MIN,L 10-38,,0.0,0,0

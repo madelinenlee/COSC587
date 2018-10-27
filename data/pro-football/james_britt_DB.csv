@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1984,1984-11-05,10,24.054,ATL,@,WAS,L 14-27,1,10,0
+2,1985,1985-09-08,1,24.361,ATL,,DET,L 27-28,1,8,0
+3,1987,1987-12-06,12,27.085,ATL,@,DAL,W 21-10,1,4,0
+4,1987,1987-12-27,15,27.106,ATL,,DET,L 13-30,0,-5,0

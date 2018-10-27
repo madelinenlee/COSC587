@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1971,1971-09-19,1,21.321,PHI,@,CIN,L 14-37
+2,1971,1971-09-26,2,21.328,PHI,,DAL,L 7-42
+3,1971,1971-10-03,3,21.335,PHI,,SFO,L 3-31

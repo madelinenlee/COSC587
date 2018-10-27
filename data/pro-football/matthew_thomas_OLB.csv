@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2018,2018-09-09,1,23.050,PIT,@,CLE,T 21-21,
+2,2018,2018-09-16,2,23.057,PIT,,KAN,L 37-42,
+3,2018,2018-09-24,3,23.065,PIT,@,TAM,W 30-27,

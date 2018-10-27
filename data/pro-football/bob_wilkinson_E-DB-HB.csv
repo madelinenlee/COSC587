@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1951,1951-11-18,8,24.041,NYG,,CLE,L 0-10,0,0,,0,2,19,9.50,0
+2,1951,1951-12-16,12,24.069,NYG,@,NYY,W 27-17,0,0,,0,1,69,69.00,1
+3,1952,1952-10-12,3,25.004,NYG,@,CLE,W 17-9,6,1,0.17,0,1,70,70.00,1
+4,1952,1952-10-26,5,25.018,NYG,,PHI,L 10-14,7,11,1.57,0,3,46,15.33,0
+5,1952,1952-12-14,12,25.067,NYG,,CLE,W 37-34,2,-2,-1.00,0,1,22,22.00,1

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1989,1989-09-10,1,23.087,NYJ,,NWE,L 24-27,2,36,18.00,0
+2,1989,1989-09-17,2,23.094,NYJ,@,CLE,L 24-38,1,10,10.00,0
+3,1989,1989-09-24,3,23.101,NYJ,@,MIA,W 40-33,1,21,21.00,0
+4,1989,1989-10-08,5,23.115,IND,,BUF,W 37-14,,,,

@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists,def_int,def_int_yds,def_int_td
+1,2011,2011-12-24,15,23.232,CAR,,TAM,W 48-16,*,0.0,5,2,1,20,0
+2,2011,2012-01-01,16,23.240,CAR,@,NOR,L 17-45,,0.0,1,1,0,0,0

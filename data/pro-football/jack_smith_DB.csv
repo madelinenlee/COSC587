@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1971,1971-11-21,10,23.352,PHI,@,STL,W 37-20
+2,1971,1971-11-28,11,23.359,PHI,,WAS,L 13-20
+3,1971,1971-12-05,12,24.001,PHI,@,DET,W 23-20
+4,1971,1971-12-12,13,24.008,PHI,,STL,W 19-7
+5,1971,1971-12-19,14,24.015,PHI,@,NYG,W 41-28

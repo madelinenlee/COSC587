@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2011,2011-10-16,6,22.341,IND,@,CIN,L 17-27,
+2,2011,2011-11-13,10,23.004,IND,,JAX,L 3-17,
+3,2012,2012-11-25,11,24.016,TEN,@,JAX,L 19-24,

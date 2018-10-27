@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1987,1987-10-04,3,24.266,CLE,@,NWE,W 20-10,0,0,,0
+2,1987,1987-10-11,4,24.273,CLE,,HOU,L 10-15,1,9,9.00,0

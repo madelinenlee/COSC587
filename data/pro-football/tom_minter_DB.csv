@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1962,1962-09-21,3,23.065,DEN,@,BOS,L 16-41,4,114,28.50,0,0,0,,0
+2,1962,1962-09-30,4,23.074,DEN,@,NYT,W 32-10,2,52,26.00,0,0,0,,0
+3,1962,1962-10-05,5,23.079,DEN,,OAK,W 44-7,1,21,21.00,0,0,0,,0
+4,1962,1962-10-14,6,23.088,DEN,@,OAK,W 23-6,0,0,,0,2,1,0.50,0
+5,1962,1962-10-28,8,23.102,DEN,,BUF,L 38-45,1,18,18.00,0,0,0,,0
+6,1962,1962-11-04,9,23.109,DEN,@,SDG,W 23-20,2,22,11.00,0,0,0,,0

@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2010,2010-12-12,13,22.332,DET,,GNB,W 7-3,,0.0,1,2
+2,2010,2010-12-19,14,22.339,DET,@,TAM,W 23-20,,,,
+3,2010,2010-12-26,15,22.346,DET,@,MIA,W 34-27,,0.0,0,0
+4,2010,2011-01-02,16,22.353,DET,,MIN,W 20-13,,0.0,2,1
+5,2012,2012-12-23,15,24.344,CLE,@,DEN,L 12-34,,,,
+6,2012,2012-12-30,16,24.351,CLE,@,PIT,L 10-24,,,,

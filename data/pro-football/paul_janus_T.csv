@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1998,1998-09-06,1,23.173,CAR,,ATL,L 14-19
+2,1998,1998-09-13,2,23.180,CAR,@,NOR,L 14-19
+3,1998,1998-09-27,3,23.194,CAR,,GNB,L 30-37
+4,1998,1998-10-04,4,23.201,CAR,@,ATL,L 23-51
+5,1998,1998-10-11,5,23.208,CAR,@,DAL,L 20-27

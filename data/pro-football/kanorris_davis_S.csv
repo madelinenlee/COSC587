@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2013,2013-09-29,4,23.251,NWE,@,ATL,W 30-23,,,,
+2,2013,2013-10-06,5,23.258,NWE,@,CIN,L 6-13,,0.0,0,1
+3,2013,2013-12-29,16,23.342,NWE,,BUF,W 34-20,,,,

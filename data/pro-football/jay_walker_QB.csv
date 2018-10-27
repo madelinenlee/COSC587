@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att
+1,1996,1996-12-01,13,24.312,MIN,,ARI,W 41-17,,2,2,100.00,31,0,0,118.7,0,0,15.50,15.50

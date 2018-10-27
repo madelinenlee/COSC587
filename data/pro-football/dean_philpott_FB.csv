@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1958,1958-10-04,2,22.327,CRD,,WAS,W 37-10,5,16,3.20,0,1,9,9.00,0
+2,1958,1958-11-09,7,22.363,CRD,@,WAS,L 31-45,1,-1,-1.00,0,0,0,,0
+3,1958,1958-11-16,8,23.005,CRD,@,PHI,L 21-49,6,29,4.83,0,3,21,7.00,0

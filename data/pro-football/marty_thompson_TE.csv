@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,1993,1993-09-05,1,23.270,DET,,ATL,W 30-13,,0,0,,0,0.0%,
+2,1993,1993-09-12,2,23.277,DET,@,NWE,W 19-16,1,1,15,15.00,0,100.0%,15.00
+3,1993,1993-09-19,3,23.284,DET,@,NOR,L 3-14,,0,0,,0,0.0%,
+4,1993,1993-09-26,4,23.291,DET,,PHO,W 26-20,,0,0,,0,0.0%,
+5,1993,1993-10-03,5,23.298,DET,@,TAM,L 10-27,,0,0,,0,0.0%,
+6,1993,1993-12-05,12,23.361,DET,,MIN,L 0-13,,0,0,,0,0.0%,

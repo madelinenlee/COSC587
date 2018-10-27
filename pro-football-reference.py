@@ -51,7 +51,7 @@ if __name__ == "__main__":
 				r = requests.get(game_url)
 				game_page = BeautifulSoup(r.content, "html5lib")
 
-				with open("data\\pro-football\\game_data\\%s_%s.csv" % (clean_name, pos), "w+") as ofile:
+				with open("data\\pro-football\\%s_%s.csv" % (clean_name, pos), "w+") as ofile:
 					csv_ofile = csv.writer(ofile, lineterminator="\n")
 
 					# Get player stats per game

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,all_td,scoring
+1,2008,2008-09-14,2,22.276,SEA,,SFO,L 30-33,*,5,2,9,4.50,0,40.0%,1.80,3,46,15.33,0,0,0
+2,2008,2008-09-21,3,22.283,SEA,,STL,W 37-13,,2,2,29,14.50,1,100.0%,14.50,4,20,5.00,0,1,6
+3,2008,2008-10-05,4,22.297,SEA,@,NYG,L 6-44,,1,1,10,10.00,0,100.0%,10.00,0,0,,0,0,0
+4,2008,2008-10-12,5,22.304,SEA,,GNB,L 17-27,,0,0,0,,0,0.0%,,0,0,,0,0,0

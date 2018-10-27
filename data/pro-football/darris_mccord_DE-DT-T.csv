@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1961,1961-10-22,6,28.291,DET,,BAL,L 14-17,1,11,0
+2,1963,1963-11-24,11,30.324,DET,@,MIN,L 31-34,1,5,0
+3,1967,1967-10-08,4,34.277,DET,,GNB,L 17-27,1,15,0

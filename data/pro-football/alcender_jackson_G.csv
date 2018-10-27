@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2000,2000-12-10,14,23.206,DAL,,WAS,W 32-13,
+2,2000,2000-12-17,15,23.213,DAL,,NYG,L 13-17,
+3,2000,2000-12-25,16,23.221,DAL,@,TEN,L 0-31,
+4,2002,2002-12-15,14,25.211,GNB,@,SFO,W 20-14,
+5,2002,2002-12-22,15,25.218,GNB,,BUF,W 10-0,

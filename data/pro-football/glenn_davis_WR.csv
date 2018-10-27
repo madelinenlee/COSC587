@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1960,1960-11-20,8,26.069,DET,@,CHI,L 7-28,1,17,17.00,0
+2,1961,1961-10-01,3,27.019,DET,,SFO,L 0-49,1,18,18.00,0
+3,1961,1961-10-29,7,27.047,DET,@,RAM,W 28-10,4,54,13.50,0
+4,1961,1961-11-05,8,27.054,DET,@,SFO,T 20-20,4,43,10.75,0

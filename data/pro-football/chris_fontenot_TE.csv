@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,1998,1998-11-29,12,24.141,PHI,@,GNB,L 16-24,1,,,,,0.0%,
+2,1998,1998-12-03,13,24.145,PHI,,STL,W 17-14,3,2,16,8.00,0,66.7%,5.33
+3,1998,1998-12-13,14,24.155,PHI,,ARI,L 17-20,4,4,47,11.75,0,100.0%,11.75
+4,1998,1998-12-20,15,24.162,PHI,@,DAL,L 9-13,4,2,27,13.50,0,50.0%,6.75
+5,1998,1998-12-27,16,24.169,PHI,,NYG,L 10-20,,,,,,0.0%,

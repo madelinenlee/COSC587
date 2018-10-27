@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2007,2007-10-07,5,23.166,IND,,TAM,W 33-14,
+2,2007,2007-11-04,8,23.194,IND,,NWE,L 20-24,
+3,2007,2007-11-11,9,23.201,IND,@,SDG,L 21-23,

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,all_td,scoring,def_int,def_int_yds,def_int_td
+1,1964,1964-09-27,3,23.196,HOU,@,DEN,W 38-17,0,0,,0,1,6,1,17,1
+2,1964,1964-11-01,8,23.231,HOU,@,BUF,L 10-24,2,18,9.00,0,0,0,0,0,0
+3,1966,1966-10-16,6,25.215,HOU,,NYJ,W 24-0,0,0,,0,0,0,1,0,0

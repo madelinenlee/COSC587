@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2018,2018-09-10,1,24.049,NYJ,@,DET,W 48-17,,6,15,2.50,0,1,1,6,6.00,0,100.0%,6.00
+2,2018,2018-09-16,2,24.055,NYJ,,MIA,L 12-20,,0,0,,0,0,0,0,,0,0.0%,
+3,2018,2018-09-20,3,24.059,NYJ,@,CLE,L 17-21,,0,0,,0,0,0,0,,0,0.0%,

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,def_int,def_int_yds,def_int_td
+1,1960,1960-10-16,5,31.164,HOU,,DTX,W 20-10,0,0,,0,2,5,0
+2,1960,1960-11-13,9,31.192,HOU,@,LAC,L 21-24,0,0,,0,1,0,0
+3,1960,1960-11-25,11,31.204,HOU,@,BOS,W 24-10,0,0,,0,1,0,0
+4,1961,1961-11-05,8,32.184,HOU,@,DEN,W 55-14,0,0,,0,1,23,0
+5,1961,1961-11-26,11,32.205,HOU,,DEN,W 45-14,1,14,14.00,0,0,0,0

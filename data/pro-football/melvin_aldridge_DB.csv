@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1993,1994-01-02,16,23.164,HOU,,NYJ,W 24-0
+2,1995,1995-09-03,1,25.043,ARI,@,WAS,L 7-27
+3,1995,1995-09-10,2,25.050,ARI,,PHI,L 19-31

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1995,1995-09-03,1,23.084,CAR,@,ATL,L 20-23
+2,1995,1995-09-17,3,23.098,CAR,,STL,L 10-31
+3,1995,1995-10-01,4,23.112,CAR,,TAM,L 13-20
+4,1995,1995-11-12,10,23.154,CAR,@,STL,L 17-28

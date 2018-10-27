@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1987,1987-10-04,3,22.276,BUF,,IND,L 6-47
+2,1987,1987-10-11,4,22.283,BUF,@,NWE,L 7-14
+3,1987,1987-10-18,5,22.290,BUF,,NYG,W 6-3

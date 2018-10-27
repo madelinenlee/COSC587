@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1989,1989-09-10,1,23.255,RAM,@,ATL,W 31-21
+2,1989,1989-09-17,2,23.262,RAM,,IND,W 31-17
+3,1989,1989-12-17,15,23.353,RAM,,NYJ,W 38-14
+4,1989,1989-12-24,16,23.360,RAM,@,NWE,W 24-20

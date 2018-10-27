@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2005,2005-11-13,9,24.006,GNB,@,ATL,W 33-25,,,0,0,,0,0.0%,,0,0,,0
+2,2007,2007-10-28,8,25.355,TAM,,JAX,L 23-24,,0,0,0,,0,0.0%,,2,35,17.50,0
+3,2007,2007-12-30,16,26.053,TAM,,CAR,L 23-31,*,5,5,82,16.40,0,100.0%,16.40,0,0,,0

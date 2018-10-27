@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1998,1998-10-25,7,24.306,NWE,@,MIA,L 9-12
+2,1998,1998-11-08,9,24.320,NWE,,ATL,L 10-41
+3,1998,1998-12-27,16,25.004,NWE,@,NYJ,L 10-31

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2013,2013-12-08,13,22.272,OAK,@,NYJ,L 27-37,,,,
+2,2013,2013-12-29,16,22.293,OAK,,DEN,L 14-34,,,,
+3,2014,2014-12-21,15,23.285,OAK,,BUF,W 26-24,,0.0,2,0
+4,2014,2014-12-28,16,23.292,OAK,@,DEN,L 14-47,*,0.0,4,1

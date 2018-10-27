@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1973,1973-09-16,1,25.107,STL,@,PHI,W 34-23
+2,1973,1973-11-11,9,25.163,STL,@,GNB,L 21-25
+3,1973,1973-11-18,10,25.170,STL,@,NYG,L 13-24
+4,1973,1973-11-25,11,25.177,STL,@,CIN,L 24-42

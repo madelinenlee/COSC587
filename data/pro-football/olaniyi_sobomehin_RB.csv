@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2008,2008-09-28,4,23.353,NOR,,SFO,W 31-17,,3,2,8,4.00,0,66.7%,2.67

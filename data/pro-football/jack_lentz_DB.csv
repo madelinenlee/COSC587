@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1967,1967-10-08,6,22.228,DEN,,BUF,L 16-17,1,0,0
+2,1967,1967-11-23,12,22.274,DEN,@,SDG,L 20-24,1,0,0
+3,1967,1967-12-03,13,22.284,DEN,@,NYJ,W 33-24,2,72,0
+4,1968,1968-10-13,5,23.234,DEN,@,NYJ,W 21-13,1,0,0

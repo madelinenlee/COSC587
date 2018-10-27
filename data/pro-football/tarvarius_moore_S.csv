@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2018,2018-09-09,1,22.024,SFO,@,MIN,L 16-24,
+2,2018,2018-09-16,2,22.031,SFO,,DET,W 30-27,
+3,2018,2018-09-23,3,22.038,SFO,@,KAN,L 27-38,

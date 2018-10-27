@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2018,2018-09-23,3,23.085,MIN,,BUF,L 6-27,,2,11,5.50,0,1,1,0,0.00,0,100.0%,0.00
+2,2018,2018-09-27,4,23.089,MIN,@,LAR,L 31-38,,0,0,,0,1,1,1,1.00,0,100.0%,1.00

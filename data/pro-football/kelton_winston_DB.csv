@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1967,1967-10-29,7,28.007,RAM,@,CHI,W 28-17,1,17,17.00,0,0,0,,0
+2,1967,1967-12-03,12,28.042,RAM,,ATL,W 20-3,0,0,,0,1,12,12.00,0
+3,1967,1967-12-09,13,28.048,RAM,,GNB,W 27-24,2,48,24.00,0,0,0,,0

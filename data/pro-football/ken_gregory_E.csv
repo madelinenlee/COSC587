@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1961,1961-10-01,3,24.242,BAL,,MIN,W 34-33,0,0,,0,1,3,3.00,0
+2,1963,1963-10-20,6,26.261,NYJ,@,OAK,L 26-49,1,11,11.00,0,0,0,,0
+3,1963,1963-10-26,7,26.267,NYJ,,DEN,T 35-35,1,16,16.00,0,0,0,,0
+4,1963,1963-11-02,8,26.274,NYJ,,SDG,L 7-53,2,29,14.50,0,0,0,,0
+5,1963,1963-11-10,9,26.282,NYJ,@,HOU,L 27-31,5,34,6.80,0,0,0,,0

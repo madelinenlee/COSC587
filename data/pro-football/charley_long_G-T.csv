@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1961,1961-09-23,3,23.170,BOS,@,BUF,W 23-21,1,2,2.00,0
+2,1961,1961-10-01,4,23.178,BOS,@,NYT,L 30-37,2,13,6.50,0
+3,1961,1961-12-03,12,23.241,BOS,@,DEN,W 28-24,1,9,9.00,0
+4,1968,1968-11-03,8,30.211,BOS,,DEN,L 14-35,1,11,11.00,0
+5,1968,1968-12-08,13,30.246,BOS,@,MIA,L 7-38,1,9,9.00,0

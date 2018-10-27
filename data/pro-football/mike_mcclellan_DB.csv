@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1962,1962-12-02,12,23.053,PHI,@,WAS,W 37-14,1,2,0
+2,1962,1962-12-09,13,23.060,PHI,,PIT,L 17-26,1,0,0
+3,1962,1962-12-16,14,23.067,PHI,@,STL,L 35-45,1,0,0
+4,1963,1963-12-01,12,24.052,PHI,@,PIT,T 20-20,1,0,0

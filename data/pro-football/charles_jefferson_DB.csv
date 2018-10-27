@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1979,1979-11-05,10,22.184,HOU,@,MIA,W 9-6
+2,1979,1979-11-11,11,22.190,HOU,,OAK,W 31-17
+3,1979,1979-11-18,12,22.197,HOU,,CIN,W 42-21
+4,1979,1979-11-22,13,22.201,HOU,@,DAL,W 30-24
+5,1979,1979-12-02,14,22.211,HOU,@,CLE,L 7-14

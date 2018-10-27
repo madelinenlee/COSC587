@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2016,2016-12-04,12,24.019,JAX,,DEN,L 10-20,,2,5,2.50,0,0,0,0,,0,0.0%,
+2,2016,2016-12-11,13,24.026,JAX,,MIN,L 16-25,,0,0,,0,3,1,19,19.00,0,33.3%,6.33
+3,2016,2016-12-18,14,24.033,JAX,@,HOU,L 20-21,,0,0,,0,0,0,0,,0,0.0%,
+4,2016,2016-12-24,15,24.039,JAX,,TEN,W 38-17,,0,0,,0,0,0,0,,0,0.0%,
+5,2016,2017-01-01,16,24.047,JAX,@,IND,L 20-24,,0,0,,0,0,0,0,,0,0.0%,

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2018,2018-09-09,1,21.252,TAM,@,NOR,W 48-40,*,0.0,3,1
+2,2018,2018-09-16,2,21.259,TAM,,PHI,W 27-21,*,0.0,6,0
+3,2018,2018-09-24,3,21.267,TAM,,PIT,L 27-30,*,0.0,3,0

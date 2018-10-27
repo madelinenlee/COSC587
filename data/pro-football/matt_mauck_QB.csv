@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2005,2005-10-23,7,26.253,TEN,@,ARI,L 10-20,,8,13,61.54,71,0,0,76.1,0,0,5.46,5.46,4,20,5.00,0
+2,2005,2005-10-30,8,26.260,TEN,,OAK,L 25-34,,0,0,,0,0,0,,0,0,,,0,0,,0
+3,2005,2006-01-01,16,26.323,TEN,@,JAX,L 13-40,*,7,14,50.00,65,0,1,33.3,1,8,4.64,1.43,3,19,6.33,0

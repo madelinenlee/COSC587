@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,def_int,def_int_yds,def_int_td
+1,1964,1964-09-13,1,22.173,CLE,@,WAS,W 27-13,0,0,,0,1,0,0.00,0,0,0,0
+2,1964,1964-11-29,12,22.250,CLE,,PHI,W 38-24,1,0,0.00,0,0,0,,0,0,0,0
+3,1965,1965-10-03,3,23.193,CLE,@,PHI,W 35-17,0,0,,0,0,0,,0,1,0,0

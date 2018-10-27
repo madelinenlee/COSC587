@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2007,2007-11-11,9,24.232,NOR,,STL,L 29-37,
+2,2007,2007-11-18,10,24.239,NOR,@,HOU,L 10-23,
+3,2007,2007-11-25,11,24.246,NOR,@,CAR,W 31-6,

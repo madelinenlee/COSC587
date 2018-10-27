@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1998,1998-11-08,9,25.155,STL,@,CHI,W 20-12
+2,1998,1998-11-15,10,25.162,STL,@,NOR,L 3-24
+3,1998,1998-11-22,11,25.169,STL,,CAR,L 20-24
+4,1998,1998-11-29,12,25.176,STL,,ATL,L 10-21
+5,1998,1998-12-20,15,25.197,STL,@,CAR,L 13-20

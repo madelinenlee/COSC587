@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2018,2018-09-09,1,22.165,ARI,,WAS,L 6-24,*
+2,2018,2018-09-16,2,22.172,ARI,@,LAR,L 0-34,*
+3,2018,2018-09-23,3,22.179,ARI,,CHI,L 14-16,*

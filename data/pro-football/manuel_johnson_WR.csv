@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2010,2010-12-19,14,24.066,DAL,,WAS,W 33-30,,1,,,,,0.0%,
+2,2010,2011-01-02,16,24.080,DAL,@,PHI,W 14-13,,4,1,6,6.00,0,25.0%,1.50

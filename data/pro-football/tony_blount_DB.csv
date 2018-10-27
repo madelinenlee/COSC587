@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1980,1980-09-07,1,21.307,NYG,@,STL,W 41-35
+2,1980,1980-09-14,2,21.314,NYG,,WAS,L 21-23
+3,1980,1980-09-28,4,21.328,NYG,,RAM,L 7-28

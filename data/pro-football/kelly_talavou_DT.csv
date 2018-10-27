@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2009,2009-09-20,2,24.351,BAL,@,SDG,W 31-26,,,,
+2,2009,2009-11-08,8,25.035,BAL,@,CIN,L 7-17,,,,
+3,2009,2009-12-20,14,25.077,BAL,,CHI,W 31-7,,0.0,1,0

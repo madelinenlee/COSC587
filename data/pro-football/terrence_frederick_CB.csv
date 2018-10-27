@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2012,2012-12-16,14,22.310,NYG,@,ATL,L 0-34,,,,
+2,2012,2012-12-30,16,22.324,NYG,,PHI,W 42-7,,0.0,0,0
+3,2014,2014-12-15,14,24.308,NOR,@,CHI,W 31-15,*,0.0,4,0
+4,2014,2014-12-21,15,24.314,NOR,,ATL,L 14-30,*,0.0,4,2
+5,2014,2014-12-28,16,24.321,NOR,@,TAM,W 23-20,*,0.0,6,0

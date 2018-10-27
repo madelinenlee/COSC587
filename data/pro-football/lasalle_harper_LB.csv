@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1989,1989-10-01,4,22.138,NYG,@,DAL,W 30-13
+2,1989,1989-10-23,7,22.160,CHI,@,CLE,L 7-27
+3,1989,1989-10-29,8,22.166,CHI,,RAM,W 20-10
+4,1989,1989-11-05,9,22.173,CHI,@,GNB,L 13-14

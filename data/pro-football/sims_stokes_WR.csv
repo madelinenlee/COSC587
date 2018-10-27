@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1967,1967-12-03,12,23.229,DAL,@,BAL,L 17-23,2,44,22.00,0
+2,1967,1967-12-10,13,23.236,DAL,,PHI,W 38-17,1,13,13.00,0
+3,1967,1967-12-16,14,23.242,DAL,@,SFO,L 16-24,1,35,35.00,0

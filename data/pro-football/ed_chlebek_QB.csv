@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att
+1,1963,1963-12-22,14,23.316,NYJ,@,KAN,L 0-48,,2,4,50.00,5,0,0,56.2,0,0,1.25,1.25

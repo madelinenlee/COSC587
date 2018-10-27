@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1979,1979-09-02,1,24.241,ATL,@,NOR,W 40-34
+2,1980,1980-11-09,10,25.310,ATL,@,STL,W 33-27
+3,1980,1980-11-16,11,25.317,ATL,,NOR,W 31-13
+4,1980,1980-12-21,16,25.352,NYG,,OAK,L 17-33

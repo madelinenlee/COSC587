@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1967,1967-11-12,9,22.205,BAL,@,ATL,W 49-7,1,11,11.00,0
+2,1969,1969-10-26,6,24.188,PIT,,WAS,L 7-14,1,16,16.00,0

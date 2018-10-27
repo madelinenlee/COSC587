@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2005,2005-09-18,2,23.252,CLE,@,GNB,W 26-24,,3,82,27.33,0
+2,2006,2006-09-10,1,24.244,CLE,,NOR,L 14-19,,,,,
+3,2006,2006-09-24,3,24.258,CLE,,BAL,L 14-15,,,,,
+4,2006,2006-10-01,4,24.265,CLE,@,OAK,W 24-21,,,,,
+5,2006,2006-10-08,5,24.272,CLE,@,CAR,L 12-20,,,,,
+6,2006,2006-10-22,6,24.286,CLE,,DEN,L 7-17,,,,,

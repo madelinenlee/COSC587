@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1987,1987-10-04,3,23.087,STL,@,WAS,L 21-28
+2,1987,1987-10-11,4,23.094,STL,,NOR,W 24-19
+3,1987,1987-10-18,5,23.101,STL,@,SFO,L 28-34
+4,1987,1987-11-08,8,23.122,STL,,TAM,W 31-28
+5,1987,1987-11-15,9,23.129,STL,,RAM,L 24-27

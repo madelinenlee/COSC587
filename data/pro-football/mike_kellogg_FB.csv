@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1966,1966-09-25,3,23.332,DEN,,NYJ,L 7-16,1,1,1.00,0,0,0,,0
+2,1966,1966-11-06,9,24.009,DEN,@,BOS,W 17-10,4,11,2.75,0,1,5,5.00,0
+3,1966,1966-11-27,11,24.030,DEN,,SDG,W 20-17,1,-9,-9.00,0,0,0,,0

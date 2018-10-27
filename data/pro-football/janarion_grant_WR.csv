@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,2018,2018-09-09,1,24.293,BAL,,BUF,W 47-3,,1,24,24.00,0,6,54,9.00,0
+2,2018,2018-09-13,2,24.297,BAL,@,CIN,L 23-34,,1,32,32.00,0,1,-2,-2.00,0

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1955,1955-10-23,5,25.226,CHI,@,SFO,W 34-23,2,25,12.50,0
+2,1955,1955-11-20,9,25.254,CHI,@,DET,W 24-14,4,52,13.00,0
+3,1955,1955-11-27,10,25.261,CHI,@,CRD,L 14-53,0,9,,0

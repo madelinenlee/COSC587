@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,sacks
+1,1987,1987-10-04,3,22.213,PIT,@,ATL,W 28-12,
+2,1987,1987-10-11,4,22.220,PIT,@,RAM,L 21-31,1.0
+3,1987,1987-10-18,5,22.227,PIT,,IND,W 21-7,

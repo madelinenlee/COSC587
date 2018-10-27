@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1988,1988-11-27,13,23.328,GNB,@,CHI,L 0-16,0,0,,0
+2,1988,1988-12-04,14,23.335,GNB,@,DET,L 14-30,2,33,16.50,0
+3,1988,1988-12-11,15,23.342,GNB,,MIN,W 18-6,0,0,,0
+4,1988,1988-12-18,16,23.349,GNB,@,PHO,W 26-17,0,0,,0

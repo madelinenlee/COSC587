@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1992,1992-12-13,14,24.036,CIN,@,SDG,L 10-27
+2,1992,1992-12-20,15,24.043,CIN,,NWE,W 20-10
+3,1992,1992-12-27,16,24.050,CIN,,IND,L 17-21

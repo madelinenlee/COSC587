@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,all_td,scoring
+1,1971,1971-09-19,1,24.343,HOU,@,CLE,L 0-31,,,,,,,,,,
+2,1971,1971-09-26,2,24.350,HOU,,KAN,L 16-20,,,,,,,,,,
+3,1971,1971-10-03,3,24.357,HOU,,NOR,T 13-13,,,,,,,,,,
+4,1971,1971-10-10,4,24.364,HOU,@,WAS,L 13-22,9,31,3.44,0,3,25,8.33,1,1,6
+5,1971,1971-10-17,5,25.006,HOU,,DET,L 7-31,13,36,2.77,0,3,7,2.33,0,0,0
+6,1971,1971-10-24,6,25.013,HOU,@,PIT,L 16-23,2,7,3.50,0,0,0,,0,0,0

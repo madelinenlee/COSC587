@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2011,2011-11-13,9,23.353,WAS,@,MIA,L 9-20,
+2,2011,2012-01-01,16,24.037,WAS,@,PHI,L 10-34,
+3,2012,2012-09-23,3,24.303,WAS,,CIN,L 31-38,
+4,2012,2012-12-23,15,25.028,TAM,,STL,L 13-28,
+5,2012,2012-12-30,16,25.035,TAM,@,ATL,W 22-17,

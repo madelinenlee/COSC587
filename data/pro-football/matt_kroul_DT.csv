@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2010,2010-09-13,1,24.200,NYJ,,BAL,L 9-10,,0.0,1,0
+2,2010,2010-09-26,3,24.213,NYJ,@,MIA,W 31-23,,,,
+3,2010,2010-10-03,4,24.220,NYJ,@,BUF,W 38-14,,,,
+4,2010,2010-11-14,9,24.262,NYJ,@,CLE,W 26-20,,,,
+5,2010,2010-11-21,10,24.269,NYJ,,HOU,W 30-27,,,,
+6,2010,2010-12-12,13,24.290,NYJ,,MIA,L 6-10,,0.0,2,0

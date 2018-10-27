@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2011,2011-11-27,11,24.051,CLE,@,CIN,L 20-23,,,,
+2,2011,2011-12-04,12,24.058,CLE,,BAL,L 10-24,,0.0,0,1
+3,2011,2011-12-08,13,24.062,CLE,@,PIT,L 3-14,,,,

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1995,1995-11-12,10,22.028,MIA,,NWE,L 17-34
+2,1995,1995-12-03,13,22.049,MIA,,ATL,W 21-20
+3,1995,1995-12-17,15,22.063,MIA,@,BUF,L 20-23
+4,1995,1995-12-24,16,22.070,MIA,@,STL,W 41-22

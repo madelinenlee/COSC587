@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2017,2017-12-31,16,21.224,PHI,,DAL,L 0-6,,0.0,2,0
+2,2018,2018-09-06,1,22.108,PHI,,ATL,W 18-12,,0.0,3,1
+3,2018,2018-09-16,2,22.118,PHI,@,TAM,L 21-27,,0.0,0,0
+4,2018,2018-09-23,3,22.125,PHI,,IND,W 20-16,,0.0,2,0

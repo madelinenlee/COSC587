@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1991,1991-09-01,1,24.079,TAM,@,NYJ,L 13-16
+2,1991,1991-09-08,2,24.086,TAM,,CHI,L 20-21
+3,1991,1991-09-15,3,24.093,TAM,@,GNB,L 13-15

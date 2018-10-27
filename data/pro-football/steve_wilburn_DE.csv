@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,sacks
+1,1987,1987-10-04,3,26.221,NWE,,CLE,L 10-20,0.5
+2,1987,1987-10-11,4,26.228,NWE,,BUF,W 14-7,0.5
+3,1987,1987-10-18,5,26.235,NWE,@,HOU,W 21-7,

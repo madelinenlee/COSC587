@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1995,1995-09-04,1,23.224,NYG,,DAL,L 0-35,0,0,,0,1,17,17.00,0
+2,1995,1995-09-10,2,23.230,NYG,@,KAN,L 17-20,1,23,23.00,0,4,40,10.00,0
+3,1995,1995-09-17,3,23.237,NYG,@,GNB,L 6-14,0,0,,0,5,11,2.20,0
+4,1995,1995-09-24,4,23.244,NYG,,NOR,W 45-29,0,0,,0,2,8,4.00,0

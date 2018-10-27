@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2001,2001-09-09,1,24.166,BUF,,NOR,L 6-24,
+2,2001,2001-09-23,2,24.180,BUF,@,IND,L 26-42,
+3,2001,2001-09-30,3,24.187,BUF,,PIT,L 3-20,*

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2008,2008-09-07,1,24.280,TEN,,JAX,W 17-10,,,,,,,0.0%,
+2,2008,2008-10-19,6,24.322,TEN,@,KAN,W 34-10,,1,,,,,0.0%,
+3,2008,2008-10-27,7,24.330,TEN,,IND,W 31-21,,,,,,,0.0%,
+4,2008,2008-11-16,10,24.350,TEN,@,JAX,W 24-14,,,,,,,0.0%,
+5,2008,2008-12-28,16,25.026,TEN,@,IND,L 0-23,,2,1,7,7.00,0,50.0%,3.50

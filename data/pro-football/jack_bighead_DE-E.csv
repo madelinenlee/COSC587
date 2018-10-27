@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1954,1954-09-26,1,24.156,BAL,,RAM,L 0-48,1,11,11.00,0
+2,1954,1954-10-31,6,24.191,BAL,@,WAS,L 21-24,2,41,20.50,0
+3,1954,1954-11-13,8,24.204,BAL,@,GNB,L 13-24,2,24,12.00,0
+4,1954,1954-11-21,9,24.212,BAL,,CHI,L 13-28,1,13,13.00,0

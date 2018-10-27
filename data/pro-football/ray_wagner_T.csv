@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1982,1982-11-21,3,25.006,CIN,@,PHI,W 18-14
+2,1982,1982-12-12,6,25.027,CIN,,CLE,W 23-10
+3,1982,1982-12-26,8,25.041,CIN,,SEA,W 24-10
+4,1982,1983-01-02,9,25.048,CIN,@,HOU,W 35-27

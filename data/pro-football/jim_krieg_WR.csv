@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,rush_att,rush_yds,rush_yds_per_att,rush_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1972,1972-09-24,2,23.118,DEN,@,SDG,L 14-37,0,0,,0,0,0,,0,0,0,,0,1,3,3.00,0
+2,1972,1972-10-01,3,23.125,DEN,,KAN,L 24-45,3,81,27.00,0,0,0,,0,0,0,,0,0,0,,0
+3,1972,1972-11-26,11,23.181,DEN,@,ATL,L 20-23,,,,,,,,,,,,,,,,
+4,1972,1972-12-03,12,23.188,DEN,@,KAN,L 21-24,0,0,,0,0,0,,0,1,18,18.00,0,0,0,,0
+5,1972,1972-12-10,13,23.195,DEN,,SDG,W 38-13,0,0,,0,1,63,63.00,0,0,0,,0,0,0,,0
+6,1972,1972-12-17,14,23.202,DEN,,NWE,W 45-21,1,18,18.00,0,0,0,,0,0,0,,0,0,0,,0

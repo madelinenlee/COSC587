@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1988,1988-12-04,14,23.209,IND,@,MIA,W 31-28
+2,1988,1988-12-10,15,23.215,IND,@,NYJ,L 16-34
+3,1988,1988-12-18,16,23.223,IND,,BUF,W 17-14

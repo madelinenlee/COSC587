@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,1974,1974-11-10,9,22.327,CHI,@,GNB,L 3-20,,,,,,,,,,,,,,,,,,,,
+2,1974,1974-12-01,12,22.348,CHI,,NYG,W 16-13,,0,0,,0,0,0,,0,0,,,0,0,,0,1,27,27.00,0
+3,1974,1974-12-15,14,22.362,CHI,@,WAS,L 0-42,,2,9,22.22,29,0,1,0.9,0,0,3.22,-1.78,1,19,19.00,0,0,0,,0

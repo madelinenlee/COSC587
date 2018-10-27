@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1991,1991-12-01,13,25.235,GNB,@,ATL,L 31-35,2,26,13.00,0
+2,1991,1991-12-08,14,25.242,GNB,@,CHI,L 13-27,4,34,8.50,0
+3,1991,1991-12-15,15,25.249,GNB,,DET,L 17-21,1,8,8.00,0
+4,1991,1991-12-21,16,25.255,GNB,@,MIN,W 27-7,0,0,,0

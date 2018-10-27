@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2010,2010-12-05,12,27.066,IND,,DAL,L 35-38,,0.0,0,1
+2,2010,2010-12-09,13,27.070,IND,@,TEN,W 30-28,,0.0,0,0
+3,2010,2010-12-19,14,27.080,IND,,JAX,W 34-24,,0.0,0,0
+4,2010,2010-12-26,15,27.087,IND,@,OAK,W 31-26,,,,
+5,2010,2011-01-02,16,27.094,IND,,TEN,W 23-20,,,,

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1987,1987-10-05,3,22.072,NYG,,SFO,L 21-41,0,0,,0
+2,1987,1987-10-11,4,22.078,NYG,,WAS,L 12-38,1,13,13.00,0
+3,1987,1987-10-18,5,22.085,NYG,@,BUF,L 3-6,0,0,,0

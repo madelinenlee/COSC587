@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1961,1961-10-15,5,25.146,PIT,,WAS,W 20-0,2,18,9.00,0,1,-7,-7.00,0
+2,1961,1961-10-22,6,25.153,PIT,,CLE,L 28-30,1,14,14.00,0,0,0,,0

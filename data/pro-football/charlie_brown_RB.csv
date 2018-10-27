@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,all_td,scoring
+1,1967,1967-12-03,12,22.048,NOR,@,STL,L 20-31,1,4,4.00,1,2,14,7.00,0,4,78,19.50,0,1,-11,-11.00,0,1,6
+2,1967,1967-12-10,13,22.055,NOR,@,BAL,L 10-30,4,14,3.50,1,1,9,9.00,0,1,25,25.00,0,1,13,13.00,0,1,6
+3,1967,1967-12-17,14,22.062,NOR,@,WAS,W 30-14,3,-2,-0.67,0,0,0,,0,0,0,,0,1,-1,-1.00,0,0,0
+4,1968,1968-12-01,12,23.046,NOR,,CHI,L 17-23,0,0,,0,0,0,,0,3,70,23.33,0,3,1,0.33,0,0,0
+5,1968,1968-12-08,13,23.053,NOR,@,PHI,L 17-29,0,0,,0,0,0,,0,3,26,8.67,0,2,11,5.50,0,0,0
+6,1968,1968-12-15,14,23.060,NOR,,PIT,W 24-14,0,0,,0,0,0,,0,2,41,20.50,0,3,48,16.00,1,1,6

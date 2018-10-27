@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1957,1957-12-01,10,23.129,NYG,,SFO,L 17-27,1,13,13.00,0
+2,1957,1957-12-07,11,23.135,NYG,@,PIT,L 10-21,1,27,27.00,0

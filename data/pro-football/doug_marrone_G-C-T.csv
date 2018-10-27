@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1987,1987-09-13,1,23.050,MIA,@,NWE,L 21-28
+2,1987,1987-12-13,13,23.141,MIA,@,PHI,W 28-10
+3,1987,1987-12-20,14,23.148,MIA,,WAS,W 23-21
+4,1987,1987-12-28,15,23.156,MIA,,NWE,L 10-24
+5,1989,1989-12-24,16,25.152,NOR,,IND,W 41-6

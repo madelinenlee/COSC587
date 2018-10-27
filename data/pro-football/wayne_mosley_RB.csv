@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1974,1974-09-16,1,21.345,BUF,,OAK,W 21-20,2,6,3.00,0
+2,1974,1974-09-22,2,21.351,BUF,,MIA,L 16-24,,,,
+3,1974,1974-09-29,3,21.358,BUF,,NYJ,W 16-12,,,,

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1997,1997-08-31,1,23.208,BAL,,JAX,L 27-28
+2,1997,1997-09-07,2,23.215,BAL,,CIN,W 23-10
+3,1997,1997-09-21,4,23.229,BAL,@,TEN,W 36-10
+4,1997,1997-09-28,5,23.236,BAL,@,SDG,L 17-21
+5,1997,1997-12-14,15,23.313,BAL,,TEN,W 21-19

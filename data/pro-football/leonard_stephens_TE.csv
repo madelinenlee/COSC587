@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2002,2002-09-08,1,24.061,WAS,,ARI,W 31-23,,1,,,,,0.0%,
+2,2002,2002-09-16,2,24.069,WAS,,PHI,L 7-37,,1,,,,,0.0%,
+3,2002,2002-09-22,3,24.075,WAS,@,SFO,L 10-20,,,,,,,0.0%,
+4,2002,2002-10-27,7,24.110,WAS,,IND,W 26-21,,1,1,13,13.00,0,100.0%,13.00
+5,2002,2002-11-17,10,24.131,WAS,@,NYG,L 17-19,,1,,,,,0.0%,

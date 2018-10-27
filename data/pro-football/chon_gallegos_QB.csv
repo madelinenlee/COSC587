@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1962,1962-09-30,3,23.002,OAK,,SDG,L 33-42,,4,7,57.14,89,2,0,141.4,0,0,12.71,18.43,2,29,14.50,0
+2,1962,1962-10-05,4,23.007,OAK,@,DEN,L 7-44,,2,5,40.00,36,0,2,25.8,0,0,7.20,-10.80,0,0,,0
+3,1962,1962-10-14,5,23.016,OAK,,DEN,L 6-23,,12,23,52.17,173,0,1,58.8,0,0,7.52,5.57,1,-4,-4.00,0

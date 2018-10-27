@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1987,1987-09-13,1,24.261,PIT,,SFO,W 30-17,1,16,16.00,0
+2,1987,1987-09-20,2,24.268,PIT,@,CLE,L 10-34,1,22,22.00,0

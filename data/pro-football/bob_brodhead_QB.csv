@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1960,1960-09-11,1,23.266,BUF,@,NYT,L 3-27,,3,13,23.08,15,0,1,7.5,0,0,1.15,-2.31,4,42,10.50,0
+2,1960,1960-09-18,2,23.273,BUF,,DEN,L 21-27,,0,2,0.00,0,0,1,0.0,0,0,0.00,-22.50,1,2,2.00,0
+3,1960,1960-09-23,3,23.278,BUF,@,BOS,W 13-0,*,0,0,,0,0,0,,0,0,,,4,21,5.25,0
+4,1960,1960-10-02,4,23.287,BUF,,LAC,L 10-24,,4,10,40.00,60,0,1,20.8,0,0,6.00,1.50,6,35,5.83,0

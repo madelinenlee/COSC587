@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1990,1990-12-02,12,26.151,PHO,,IND,W 20-17
+2,1990,1990-12-09,13,26.158,PHO,@,ATL,W 24-13
+3,1990,1990-12-16,14,26.165,PHO,@,DAL,L 10-41
+4,1990,1990-12-23,15,26.172,PHO,,NYG,L 21-24
+5,1990,1990-12-29,16,26.178,PHO,,PHI,L 21-23

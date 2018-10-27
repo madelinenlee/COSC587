@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,2013,2013-12-15,14,22.260,STL,,NOR,W 27-16,,1,7,7.00,0
+2,2013,2013-12-22,15,22.267,STL,,TAM,W 23-13,,3,34,11.33,0
+3,2013,2013-12-29,16,22.274,STL,@,SEA,L 9-27,,3,20,6.67,0

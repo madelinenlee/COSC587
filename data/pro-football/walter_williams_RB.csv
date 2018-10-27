@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2004,2004-11-21,10,27.074,GNB,@,HOU,W 16-13,,6,42,7.00,0,0,0,0,,0,0.0%,
+2,2005,2005-10-30,7,28.052,GNB,@,CIN,L 14-21,,0,0,,0,,0,0,,0,0.0%,
+3,2005,2005-11-06,8,28.059,GNB,,PIT,L 10-20,,0,0,,0,2,1,19,19.00,0,50.0%,9.50

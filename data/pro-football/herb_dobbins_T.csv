@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1974,1974-12-01,12,23.162,PHI,,GNB,W 36-14
+2,1974,1974-12-08,13,23.169,PHI,@,NYG,W 20-7
+3,1974,1974-12-15,14,23.176,PHI,,DET,W 28-17

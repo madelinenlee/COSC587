@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1991,1991-10-27,8,23.070,HOU,,CIN,W 35-3
+2,1991,1991-12-02,13,23.106,HOU,,PHI,L 6-13
+3,1991,1991-12-08,14,23.112,HOU,,PIT,W 31-6
+4,1991,1991-12-15,15,23.119,HOU,@,CLE,W 17-14
+5,1991,1991-12-21,16,23.125,HOU,@,NYG,L 20-24

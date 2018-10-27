@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1990,1990-09-09,1,22.023,CHI,,SEA,W 17-0,1,12,12.00,0
+2,1990,1990-09-16,2,22.030,CHI,@,GNB,W 31-13,0,0,,0
+3,1990,1990-09-23,3,22.037,CHI,,MIN,W 19-16,1,8,8.00,0
+4,1990,1990-09-30,4,22.044,CHI,@,RAI,L 10-24,0,0,,0

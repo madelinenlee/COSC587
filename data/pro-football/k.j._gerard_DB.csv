@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2009,2009-11-22,10,23.214,BAL,,IND,L 15-17,
+2,2009,2009-11-29,11,23.221,BAL,,PIT,W 20-17,
+3,2009,2009-12-13,13,23.235,BAL,,DET,W 48-3,

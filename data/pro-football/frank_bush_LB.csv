@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,sacks
+1,1985,1985-10-06,5,22.269,HOU,@,DEN,L 20-31,2.0
+2,1985,1985-11-10,10,22.304,HOU,@,BUF,L 0-20,1.0
+3,1986,1986-09-14,2,23.247,HOU,,CLE,L 20-23,1.0

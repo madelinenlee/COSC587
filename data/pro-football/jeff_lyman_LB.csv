@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1972,1972-10-29,7,22.069,STL,,CHI,L 10-27
+2,1972,1972-11-05,8,22.076,STL,@,PHI,T 6-6
+3,1972,1972-12-10,13,22.111,BUF,,DET,T 21-21

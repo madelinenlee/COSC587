@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,sacks
+1,1986,1986-09-14,2,22.052,ATL,,STL,W 33-13,
+2,1987,1987-10-04,3,23.072,PHI,,CHI,L 3-35,0.5
+3,1987,1987-10-11,4,23.079,PHI,@,DAL,L 22-41,
+4,1987,1987-10-18,5,23.086,PHI,@,GNB,L 10-16,1.5

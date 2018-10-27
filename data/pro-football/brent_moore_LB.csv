@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1987,1987-11-01,7,24.296,GNB,,TAM,L 17-23
+2,1987,1987-11-08,8,24.303,GNB,,CHI,L 24-26
+3,1987,1987-11-15,9,24.310,GNB,@,SEA,L 13-24
+4,1987,1987-11-22,10,24.317,GNB,@,KAN,W 23-3

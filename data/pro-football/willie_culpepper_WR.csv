@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1992,1992-10-18,6,25.205,TAM,@,CHI,L 14-31
+2,1992,1992-10-25,7,25.212,TAM,,DET,L 7-38
+3,1992,1992-11-01,8,25.219,TAM,@,NOR,L 21-23

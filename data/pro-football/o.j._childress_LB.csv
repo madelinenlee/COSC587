@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,1999,1999-11-28,11,22.357,NYG,,ARI,L 24-34,
+2,1999,1999-12-05,12,22.364,NYG,,NYJ,W 41-28,
+3,1999,1999-12-12,13,23.006,NYG,@,BUF,W 19-17,
+4,1999,1999-12-19,14,23.013,NYG,@,STL,L 10-31,

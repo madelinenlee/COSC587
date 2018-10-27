@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,2003,2003-12-07,13,24.064,ARI,@,SFO,L 14-50,,,,,
+2,2003,2003-12-14,14,24.071,ARI,,CAR,L 17-20,,,,,
+3,2003,2003-12-21,15,24.078,ARI,@,SEA,L 10-28,,1,7,7.00,0
+4,2003,2003-12-28,16,24.085,ARI,,MIN,W 18-17,,,,,

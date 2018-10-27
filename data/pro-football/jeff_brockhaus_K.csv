@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring
+1,1987,1987-10-05,3,28.173,SFO,@,NYG,W 41-21,5,5,100.0,2,3,66.7,0,11
+2,1987,1987-10-11,4,28.179,SFO,@,ATL,W 25-17,2,3,66.7,1,3,33.3,0,5
+3,1987,1987-10-18,5,28.186,SFO,,STL,W 34-28,4,5,80.0,,,,0,4

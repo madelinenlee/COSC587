@@ -1,0 +1,8 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,sacks,tackles_solo,tackles_assists
+1,2007,2007-12-30,16,24.071,DET,@,GNB,L 13-34,,1,1,1.00,0,0.0,,
+2,2008,2008-09-14,2,24.330,IND,@,MIN,W 18-15,,,,,,,,
+3,2008,2008-09-21,3,24.337,IND,,JAX,L 21-23,,,,,,,,
+4,2008,2008-12-07,13,25.048,IND,,CIN,W 35-3,*,0,0,,0,0.0,0,3
+5,2008,2008-12-14,14,25.055,IND,,DET,W 31-21,,0,0,,0,0.0,7,1
+6,2008,2008-12-18,15,25.059,IND,@,JAX,W 31-24,*,0,0,,0,0.0,5,1
+7,2008,2008-12-28,16,25.069,IND,,TEN,W 23-0,*,0,0,,0,0.0,6,1

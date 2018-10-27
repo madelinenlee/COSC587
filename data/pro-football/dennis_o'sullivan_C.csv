@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2002,2002-09-15,2,26.230,NYJ,,NWE,L 7-44,,,,,
+2,2002,2002-09-22,3,26.237,NYJ,@,MIA,L 3-30,,,,,
+3,2002,2002-09-29,4,26.244,NYJ,@,JAX,L 3-28,,1,11,11.00,0

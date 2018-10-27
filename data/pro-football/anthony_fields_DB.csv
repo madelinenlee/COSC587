@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1987,1987-10-04,3,23.260,DET,,TAM,L 27-31
+2,1987,1987-10-11,4,23.267,DET,@,GNB,W 19-16
+3,1987,1987-10-18,5,23.274,DET,,SEA,L 14-37

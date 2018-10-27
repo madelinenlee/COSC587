@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2016,2016-09-11,1,24.189,CIN,@,NYJ,W 23-22,
+2,2016,2016-09-18,2,24.196,CIN,@,PIT,L 16-24,
+3,2016,2016-09-25,3,24.203,CIN,,DEN,L 17-29,
+4,2016,2017-01-01,16,24.301,CIN,,BAL,W 27-10,

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1986,1986-12-21,16,24.077,NOR,@,MIN,L 17-33
+2,1987,1987-10-04,3,24.364,NOR,,RAM,W 37-10
+3,1987,1987-10-11,4,25.006,NOR,@,STL,L 19-24
+4,1987,1987-10-18,5,25.013,NOR,@,CHI,W 19-17

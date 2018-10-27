@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1960,1960-10-23,5,25.149,SFO,@,GNB,L 14-41,2,26,13.00,0
+2,1960,1960-11-27,9,25.184,SFO,@,BAL,W 30-22,1,15,15.00,0
+3,1960,1960-12-04,10,25.191,SFO,@,RAM,W 23-7,1,11,11.00,0
+4,1960,1960-12-10,11,25.197,SFO,,GNB,L 0-13,1,16,16.00,0

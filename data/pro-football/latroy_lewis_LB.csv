@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2017,2017-12-10,13,24.031,HOU,,SFO,L 16-26,,1.0,1,0
+2,2017,2017-12-17,14,24.038,HOU,@,JAX,L 7-45,,0.0,2,0

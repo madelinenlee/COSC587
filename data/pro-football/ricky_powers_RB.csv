@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1995,1995-12-09,14,25.009,CLE,@,MIN,L 11-27,0,0,,0,,0,0,,0,0.0%,,0,0,,0
+2,1995,1995-12-17,15,25.017,CLE,,CIN,W 26-10,9,29,3.22,0,0,0,0,,0,0.0%,,0,0,,0
+3,1995,1995-12-24,16,25.024,CLE,@,JAX,L 21-24,5,22,4.40,0,1,1,6,6.00,0,100.0%,6.00,3,54,18.00,0

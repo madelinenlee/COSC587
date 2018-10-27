@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,sacks,def_int,def_int_yds,def_int_td
+1,1988,1988-10-30,9,24.181,DAL,,PHO,L 10-16,1.0,0,0,0
+2,1988,1988-11-13,11,24.195,DAL,,MIN,L 3-43,1.0,0,0,0
+3,1989,1989-10-01,4,25.152,DAL,,NYG,L 13-30,0.0,1,0,0

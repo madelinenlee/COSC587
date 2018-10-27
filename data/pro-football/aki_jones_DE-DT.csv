@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2005,2005-11-06,8,23.169,WAS,,PHI,W 17-10,
+2,2005,2005-11-13,9,23.176,WAS,@,TAM,L 35-36,
+3,2005,2005-12-04,12,23.197,WAS,@,STL,W 24-9,
+4,2005,2005-12-11,13,23.204,WAS,@,ARI,W 17-13,

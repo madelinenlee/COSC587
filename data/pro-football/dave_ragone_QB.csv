@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2003,2003-12-07,13,24.065,HOU,@,JAX,L 0-27,*,11,23,47.83,71,0,1,36.7,3,17,3.09,1.13,5,51,10.20,0,1,1,-5,-5.00,0,100.0%,-5.00
+2,2003,2003-12-14,14,24.072,HOU,@,TAM,L 3-16,*,9,17,52.94,64,0,0,61.9,5,22,3.76,3.76,1,0,0.00,0,0,0,0,,0,0.0%,

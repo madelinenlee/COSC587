@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2003,2003-10-05,5,23.051,ATL,,MIN,L 26-39,
+2,2003,2003-10-13,6,23.059,ATL,@,STL,L 0-36,
+3,2003,2003-11-02,8,23.079,ATL,,PHI,L 16-23,
+4,2003,2003-11-09,9,23.086,ATL,@,NYG,W 27-7,
+5,2003,2003-11-16,10,23.093,ATL,@,NOR,L 20-23,

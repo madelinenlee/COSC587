@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,1998,1998-12-13,14,22.253,SEA,,SDG,W 38-17,
+2,1999,1999-12-12,13,23.252,SEA,,SDG,L 16-19,
+3,1999,1999-12-19,14,23.259,SEA,@,DEN,L 30-36,
+4,1999,1999-12-26,15,23.266,SEA,,KAN,W 23-14,
+5,1999,2000-01-02,16,23.273,SEA,@,NYJ,L 9-19,

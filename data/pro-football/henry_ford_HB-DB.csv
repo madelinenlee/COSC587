@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1955,1955-10-02,2,23.335,CLE,@,SFO,W 38-3,2,1,0.50,0,0,0,,0
+2,1956,1956-11-18,8,25.017,PIT,,CRD,W 14-7,3,22,7.33,0,0,0,,0
+3,1956,1956-11-25,9,25.024,PIT,@,CRD,L 27-38,9,4,0.44,2,3,7,2.33,0

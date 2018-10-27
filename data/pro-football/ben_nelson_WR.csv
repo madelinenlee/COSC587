@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2004,2004-11-08,8,25.079,MIN,@,IND,L 28-31,
+2,2004,2004-11-14,9,25.085,MIN,@,GNB,L 31-34,
+3,2004,2004-11-21,10,25.092,MIN,,DET,W 22-19,

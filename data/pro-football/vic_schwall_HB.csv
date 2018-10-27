@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1950,1950-10-02,2,25.254,CRD,,BAL,W 55-13,4,72,18.00,0,0,0,,0
+2,1950,1950-11-05,7,25.288,CRD,,CLE,L 7-10,0,0,,0,1,7,7.00,0
+3,1950,1950-11-19,9,25.302,CRD,@,PHI,W 14-10,1,4,4.00,0,0,0,,0

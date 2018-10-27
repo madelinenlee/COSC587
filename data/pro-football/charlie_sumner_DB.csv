@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1961,1961-09-17,1,30.333,MIN,,CHI,W 37-13,1,0,0
+2,1961,1961-12-03,12,31.045,MIN,,RAM,W 42-21,1,6,0
+3,1962,1962-12-09,13,32.051,MIN,@,DET,L 23-37,2,14,0
+4,1962,1962-12-16,14,32.058,MIN,@,BAL,L 17-42,1,32,0

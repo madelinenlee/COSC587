@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1956,1956-11-25,9,24.143,PHI,,SFO,T 10-10,1,31,31.00,0
+2,1957,1957-10-20,4,25.107,PHI,,CLE,W 17-7,2,66,33.00,1
+3,1957,1957-11-03,6,25.121,PHI,@,CRD,W 38-21,2,25,12.50,1
+4,1958,1958-12-07,11,26.155,CHI,,CRD,W 30-14,1,66,66.00,0

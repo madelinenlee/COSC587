@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1960,1960-10-08,4,22.219,BOS,@,LAC,W 35-0,,0,0,,0,0,0,,0,0,,,3,11,3.67,0,0,0,,0
+2,1960,1960-10-23,6,22.234,BOS,@,DEN,L 24-31,,0,0,,0,0,0,,0,0,,,0,0,,0,2,24,12.00,0
+3,1960,1960-10-28,7,22.239,BOS,,LAC,L 16-45,,3,7,42.86,44,0,0,64.0,0,0,6.29,6.29,2,-4,-2.00,0,0,0,,0

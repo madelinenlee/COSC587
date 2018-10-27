@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1998,1998-11-29,12,23.168,JAX,@,CIN,W 34-17
+2,1998,1998-12-06,13,23.175,JAX,,DET,W 37-22
+3,1998,1998-12-13,14,23.182,JAX,,TEN,L 13-16
+4,1998,1998-12-20,15,23.189,JAX,@,MIN,L 10-50

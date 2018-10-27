@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,1999,1999-09-12,1,23.049,NYJ,,NWE,L 28-30,
+2,1999,2000-01-02,16,23.161,CHI,,TAM,L 6-20,
+3,2002,2002-12-21,15,26.149,DAL,,PHI,L 3-27,

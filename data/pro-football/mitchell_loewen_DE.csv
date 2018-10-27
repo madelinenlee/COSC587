@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2017,2017-09-11,1,24.209,NOR,@,MIN,L 19-29,
+2,2017,2017-09-17,2,24.215,NOR,,NWE,L 20-36,
+3,2018,2018-09-16,2,25.214,NOR,,CLE,W 21-18,

@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring
+1,2010,2010-11-21,10,24.157,CIN,,BUF,L 31-49,,4,4,100.0,1,2,50.0,0,7
+2,2010,2010-11-25,11,24.161,CIN,@,NYJ,L 10-26,,1,1,100.0,1,2,50.0,0,4

@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att
+1,2016,2017-01-01,16,23.338,OAK,@,DEN,L 6-24,,14,21,66.67,150,1,1,83.4,2,7,7.14,5.95

@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring,def_int,def_int_yds,def_int_td
+1,1960,1960-10-02,4,26.018,DTX,,NYT,L 35-37,,,,,1,0.0,0,0,0,0,0
+2,1960,1960-11-06,8,26.053,DTX,@,BUF,W 45-28,,,,,,,1,6,1,25,1
+3,1960,1960-12-04,12,26.081,DTX,,HOU,W 24-0,,,,,,,0,0,1,20,0
+4,1960,1960-12-11,13,26.088,DTX,,BOS,W 34-0,,,,,,,0,0,1,20,0
+5,1961,1961-10-01,3,27.017,DTX,,HOU,W 26-21,,,,,,,0,0,1,0,0
+6,1961,1961-10-08,4,27.024,DTX,@,DEN,W 19-12,,,,,,,0,0,1,9,0

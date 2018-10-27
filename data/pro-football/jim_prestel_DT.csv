@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,all_td,scoring,def_int,def_int_yds,def_int_td
+1,1962,1962-09-16,1,25.080,MIN,@,GNB,L 7-34,1,12,12.00,0,0,0,0,0,0
+2,1962,1962-12-16,14,25.171,MIN,@,BAL,L 17-42,1,17,17.00,0,0,0,0,0,0
+3,1964,1964-11-22,11,27.147,MIN,@,DET,T 23-23,0,0,,0,1,6,1,26,1

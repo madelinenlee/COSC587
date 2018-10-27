@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,1998,1998-11-22,11,24.268,ARI,@,WAS,W 45-42,1,,,,,0.0%,
+2,1998,1998-11-29,12,24.275,ARI,@,KAN,L 24-34,1,1,8,8.00,0,100.0%,8.00
+3,1998,1998-12-06,13,24.282,ARI,,NYG,L 19-23,1,,,,,0.0%,
+4,1998,1998-12-13,14,24.289,ARI,@,PHI,W 20-17,,,,,,0.0%,

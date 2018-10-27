@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2003,2003-09-07,1,23.333,STL,@,NYG,L 13-23,
+2,2003,2003-09-14,2,23.340,STL,,SFO,W 27-24,
+3,2003,2003-09-21,3,23.347,STL,@,SEA,L 23-24,
+4,2003,2003-09-28,4,23.354,STL,,ARI,W 37-13,

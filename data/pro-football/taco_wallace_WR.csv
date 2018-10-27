@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2003,2003-12-27,16,22.257,SEA,@,SFO,W 24-17,
+2,2004,2004-12-26,15,23.256,SEA,,ARI,W 24-21,
+3,2004,2005-01-02,16,23.263,SEA,,ATL,W 28-26,
+4,2005,2005-10-30,7,24.199,GNB,@,CIN,L 14-21,

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2016,2016-10-20,6,23.043,GNB,,CHI,W 26-10,,2,6,3.00,0
+2,2016,2016-10-30,7,23.053,GNB,@,ATL,L 32-33,*,4,10,2.50,0
+3,2016,2016-11-06,8,23.060,GNB,,IND,L 26-31,,4,16,4.00,0

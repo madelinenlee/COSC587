@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2016,2016-11-28,11,23.202,PHI,,GNB,L 13-27,,0,0,0,,0,0.0%,,0,0,,0
+2,2016,2016-12-04,12,23.208,PHI,@,CIN,L 14-32,*,8,6,80,13.33,0,75.0%,10.00,0,0,,0
+3,2016,2016-12-11,13,23.215,PHI,,WAS,L 22-27,,2,1,16,16.00,0,50.0%,8.00,1,11,11.00,0
+4,2016,2017-01-01,16,23.236,PHI,,DAL,W 27-13,*,4,2,30,15.00,0,50.0%,7.50,0,0,,0

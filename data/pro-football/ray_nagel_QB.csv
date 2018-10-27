@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1953,1953-09-27,1,26.132,CRD,,WAS,L 13-24,*,19,29,65.52,106,0,2,43.2,0,0,3.66,0.55,0,0,,0
+2,1953,1953-10-04,2,26.139,CRD,,CLE,L 7-27,,5,16,31.25,44,0,3,1.0,0,0,2.75,-5.69,1,6,6.00,0
+3,1953,1953-10-11,3,26.146,CRD,@,PIT,L 28-31,,2,8,25.00,14,0,0,39.6,0,0,1.75,1.75,0,0,,0
+4,1953,1953-10-18,4,26.153,CRD,@,NYG,L 7-21,*,4,9,44.44,28,0,0,52.1,0,0,3.11,3.11,3,2,0.67,0

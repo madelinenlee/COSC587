@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,all_td,scoring
+1,1966,1966-09-18,2,21.316,DET,@,PIT,L 3-17,1,28,28.00,0,3,13,4.33,0,0,0
+2,1966,1966-10-16,6,21.344,DET,@,BAL,L 14-45,0,0,,0,1,0,0.00,0,0,0
+3,1966,1966-11-13,10,22.007,DET,@,MIN,W 32-31,0,0,,0,2,68,34.00,0,0,0
+4,1966,1966-11-20,11,22.014,DET,,BAL,W 20-14,1,20,20.00,0,3,10,3.33,0,0,0
+5,1966,1966-11-24,12,22.018,DET,,SFO,L 14-41,4,79,19.75,0,3,89,29.67,1,1,6
+6,1966,1966-12-04,13,22.028,DET,@,RAM,L 3-23,0,0,,0,1,5,5.00,0,0,0

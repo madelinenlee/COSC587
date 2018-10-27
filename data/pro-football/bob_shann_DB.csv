@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,all_td,scoring,def_int,def_int_yds,def_int_td
+1,1965,1965-12-19,14,22.267,PHI,,DET,L 28-35,0,0,,0,1,63,63.00,1,1,6,0,0,0
+2,1967,1967-10-08,4,24.195,PHI,@,ATL,W 38-7,0,0,,0,3,17,5.67,0,0,0,0,0,0
+3,1967,1967-10-15,5,24.202,PHI,,SFO,L 27-28,2,46,23.00,0,0,0,,0,0,0,0,0,0
+4,1967,1967-10-22,6,24.209,PHI,@,STL,L 14-48,4,87,21.75,0,0,0,,0,0,0,0,0,0
+5,1967,1967-12-10,13,24.258,PHI,@,DAL,L 17-38,0,0,,0,0,0,,0,0,0,1,8,0

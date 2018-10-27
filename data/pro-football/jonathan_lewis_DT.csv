@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2006,2006-10-16,6,22.096,ARI,,CHI,L 23-24,
+2,2006,2006-10-22,7,22.102,ARI,@,OAK,L 9-22,
+3,2006,2006-10-29,8,22.109,ARI,@,GNB,L 14-31,
+4,2006,2006-12-03,12,22.144,ARI,@,STL,W 34-20,

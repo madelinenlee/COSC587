@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1986,1986-12-13,15,22.049,WAS,@,DEN,L 30-31,4,83,20.75,0
+2,1986,1986-12-21,16,22.057,WAS,@,PHI,W 21-14,3,59,19.67,0

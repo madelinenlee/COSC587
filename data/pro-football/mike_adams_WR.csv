@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1997,1997-08-31,1,23.159,PIT,,DAL,L 7-37,,0,0,,0,0.0%,,1,17,17.00,0
+2,1997,1997-09-07,2,23.166,PIT,,WAS,W 14-13,,0,0,,0,0.0%,,0,0,,0
+3,1997,1997-09-22,3,23.181,PIT,@,JAX,L 21-30,,0,0,,0,0.0%,,1,16,16.00,0
+4,1997,1997-09-28,4,23.187,PIT,,TEN,W 37-24,,1,39,39.00,0,,,2,40,20.00,0
+5,1997,1997-10-05,5,23.194,PIT,@,BAL,W 42-34,,0,0,,0,0.0%,,1,19,19.00,0
+6,1997,1997-10-12,6,23.201,PIT,,IND,W 24-22,,0,0,,0,0.0%,,5,123,24.60,0

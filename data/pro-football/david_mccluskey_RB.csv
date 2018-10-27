@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,all_td,scoring
+1,1987,1987-10-04,3,23.333,CIN,,SDG,L 9-10,10,19,1.90,0,0,0,,0,0,0
+2,1987,1987-10-11,4,23.340,CIN,@,SEA,W 17-10,15,70,4.67,1,0,0,,0,1,6
+3,1987,1987-10-18,5,23.347,CIN,,CLE,L 0-34,4,5,1.25,0,1,8,8.00,0,0,0

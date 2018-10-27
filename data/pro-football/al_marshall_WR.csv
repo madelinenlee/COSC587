@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,all_td,scoring
+1,1974,1974-11-24,11,23.321,NWE,@,BAL,W 27-17,,,,,,
+2,1974,1974-12-01,12,23.328,NWE,@,OAK,L 26-41,1,17,17.00,1,1,6
+3,1974,1974-12-08,13,23.335,NWE,,PIT,L 17-21,,,,,,
+4,1974,1974-12-15,14,23.342,NWE,@,MIA,L 27-34,,,,,,

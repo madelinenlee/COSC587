@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1987,1987-10-04,3,32.340,HOU,@,DEN,W 40-10,2,37,18.50,0,0,0,,0,0,0,,0
+2,1987,1987-10-11,4,32.347,HOU,@,CLE,W 15-10,0,0,,0,1,18,18.00,0,1,12,12.00,0
+3,1987,1987-10-18,5,32.354,HOU,,NWE,L 7-21,3,62,20.67,0,0,0,,0,1,7,7.00,0
+4,1987,1987-10-25,6,32.361,HOU,,ATL,W 37-33,0,0,,0,0,0,,0,0,0,,0
+5,1987,1987-11-01,7,33.003,HOU,@,CIN,W 31-29,0,0,,0,0,0,,0,0,0,,0

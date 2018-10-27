@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2012,2012-12-23,15,24.326,GNB,,TEN,W 55-7,,0.0,0,0
+2,2013,2013-12-22,15,25.324,JAX,,TEN,L 16-20,,0.0,2,0
+3,2013,2013-12-29,16,25.331,JAX,@,IND,L 10-30,*,,,

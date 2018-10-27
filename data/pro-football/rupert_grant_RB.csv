@@ -1,0 +1,8 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1995,1995-09-10,2,21.309,NWE,,MIA,L 3-20,,0,0,,0,0.0%,,0,0,,0
+2,1995,1995-09-17,3,21.316,NWE,@,SFO,L 3-28,,0,0,,0,0.0%,,0,0,,0
+3,1995,1995-10-01,4,21.330,NWE,@,ATL,L 17-30,0,0,0,,0,0.0%,,1,7,7.00,0
+4,1995,1995-10-08,5,21.337,NWE,,DEN,L 3-37,2,1,4,4.00,0,50.0%,2.00,0,0,,0
+5,1995,1995-10-15,6,21.344,NWE,@,KAN,L 26-31,,0,0,,0,0.0%,,0,0,,0
+6,1995,1995-10-23,7,21.352,NWE,,BUF,W 27-14,,0,0,,0,0.0%,,0,0,,0
+7,1995,1995-12-23,16,22.048,NWE,@,IND,L 7-10,,0,0,,0,0.0%,,0,0,,0

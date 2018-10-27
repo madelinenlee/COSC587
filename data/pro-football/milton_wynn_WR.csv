@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2001,2002-01-06,16,23.107,TAM,,PHI,L 13-17,,6,4,69,17.25,0,66.7%,11.50
+2,2002,2002-12-15,14,24.085,BAL,@,HOU,W 23-19,,,,,,,0.0%,
+3,2002,2002-12-22,15,24.092,BAL,,CLE,L 13-14,,,,,,,0.0%,
+4,2002,2002-12-29,16,24.099,BAL,@,PIT,L 31-34,,1,,,,,0.0%,

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,sacks
+1,1988,1988-10-02,5,21.279,SDG,,DEN,L 0-12,1.0
+2,1988,1988-11-06,10,21.314,SDG,,RAI,L 3-13,1.0
+3,1988,1988-11-20,12,21.328,SDG,@,RAM,W 38-24,1.0

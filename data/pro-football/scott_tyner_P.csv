@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,1994,1994-11-20,11,22.223,ATL,@,DEN,L 28-32,0,0,,
+2,1994,1994-11-27,12,22.230,ATL,,PHI,W 28-21,0,0,,
+3,1994,1994-12-04,13,22.237,ATL,@,SFO,L 14-50,0,0,,
+4,1994,1994-12-11,14,22.244,ATL,,NOR,L 20-29,0,0,,
+5,1994,1994-12-18,15,22.251,ATL,@,GNB,L 17-21,0,0,,
+6,1994,1994-12-24,16,22.257,ATL,,ARI,W 10-6,8,285,35.63,0

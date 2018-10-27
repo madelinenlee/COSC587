@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2002,2002-09-08,1,23.331,NYJ,@,BUF,W 37-31,
+2,2002,2002-09-15,2,23.338,NYJ,,NWE,L 7-44,
+3,2002,2002-12-22,15,24.071,BUF,@,GNB,L 0-10,
+4,2002,2002-12-29,16,24.078,BUF,,CIN,W 27-9,

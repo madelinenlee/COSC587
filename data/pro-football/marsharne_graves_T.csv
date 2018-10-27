@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1984,1984-11-18,12,22.133,DEN,,MIN,W 42-21
+2,1987,1987-10-04,3,25.088,IND,@,BUF,W 47-6
+3,1987,1987-10-11,4,25.095,IND,,NYJ,W 6-0
+4,1987,1987-10-18,5,25.102,IND,@,PIT,L 7-21

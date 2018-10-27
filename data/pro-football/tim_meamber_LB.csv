@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1985,1985-09-08,1,22.316,MIN,,SFO,W 28-21
+2,1985,1985-11-03,9,23.007,MIN,,DET,W 16-13
+3,1985,1985-11-10,10,23.014,MIN,,GNB,L 17-27
+4,1985,1985-11-24,12,23.028,MIN,,NOR,L 23-30

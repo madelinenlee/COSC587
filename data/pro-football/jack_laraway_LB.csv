@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,def_int,def_int_yds,def_int_td
+1,1961,1961-11-26,11,26.067,HOU,,DEN,W 45-14,1,22,22.00,0,0,0,0
+2,1961,1961-12-10,13,26.081,HOU,@,NYT,W 48-21,0,0,,0,1,30,0

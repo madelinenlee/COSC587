@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1999,1999-12-05,12,24.325,SDG,,CLE,W 23-10,,1,1,1,1.00,0,100.0%,1.00,1,10,10.00,0,3,49,16.33,0
+2,1999,1999-12-12,13,24.332,SDG,@,SEA,W 19-16,,0,0,0,,0,0.0%,,4,62,15.50,0,0,0,,0
+3,1999,2000-01-02,16,24.353,SDG,@,DEN,W 12-6,,0,0,0,,0,0.0%,,0,0,,0,0,0,,0

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1990,1990-10-07,5,23.092,SDG,@,PIT,L 14-36
+2,1990,1990-10-14,6,23.099,SDG,@,NYJ,W 39-3
+3,1992,1992-09-06,1,25.061,SDG,,KAN,L 10-24
+4,1992,1992-09-20,3,25.075,SDG,,PIT,L 6-23
+5,1992,1992-12-27,16,25.173,CIN,,IND,L 17-21

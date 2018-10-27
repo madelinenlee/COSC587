@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1960,1960-10-23,6,31.226,DEN,,BOS,W 31-24,1,15,0
+2,1960,1960-12-10,13,31.274,DEN,@,LAC,L 33-41,1,3,0

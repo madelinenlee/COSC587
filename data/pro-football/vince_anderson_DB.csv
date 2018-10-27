@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2010,2010-12-05,12,25.362,TAM,,ATL,L 24-28,,,,
+2,2010,2010-12-12,13,26.004,TAM,@,WAS,W 17-16,,0.0,0,1
+3,2010,2010-12-19,14,26.011,TAM,,DET,L 20-23,,,,

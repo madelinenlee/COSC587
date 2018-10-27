@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,1967,1967-09-24,4,26.041,DEN,,NYJ,L 24-38,3,3,100.0,,,,0,3,,,,
+2,1967,1967-10-01,5,26.048,DEN,@,HOU,L 6-10,,,,2,5,40.0,0,6,0,0,,0
+3,1968,1968-09-15,1,27.032,PHI,@,GNB,L 13-30,,,,,,,0,0,5,228,45.60,0
+4,1969,1969-12-14,13,28.122,DET,,RAM,W 28-0,,,,,,,0,0,3,77,25.67,0

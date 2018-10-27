@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1964,1964-09-27,3,23.295,MIN,@,RAM,L 13-22,0,0,,0,0,0,,0,2,57,28.50,0
+2,1964,1964-10-04,4,23.302,MIN,@,GNB,W 24-23,16,55,3.44,0,0,0,,0,0,0,,0
+3,1964,1964-10-11,5,23.309,MIN,,DET,L 20-24,14,31,2.21,0,0,0,,0,2,27,13.50,0
+4,1964,1964-10-18,6,23.316,MIN,,PIT,W 30-10,2,6,3.00,0,0,0,,0,1,29,29.00,0
+5,1964,1964-11-01,8,23.330,MIN,,GNB,L 13-42,1,-1,-1.00,0,0,0,,0,2,61,30.50,0
+6,1964,1964-11-08,9,23.337,MIN,,SFO,W 24-7,6,38,6.33,0,1,14,14.00,0,1,18,18.00,0

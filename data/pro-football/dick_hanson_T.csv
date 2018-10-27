@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1971,1971-12-05,12,21.345,NYG,@,WAS,L 7-23
+2,1971,1971-12-12,13,21.352,NYG,,DAL,L 14-42
+3,1971,1971-12-19,14,21.359,NYG,,PHI,L 28-41

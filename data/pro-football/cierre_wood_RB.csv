@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2013,2013-09-09,1,22.200,HOU,@,SDG,W 31-28,,,,,,,,,,,0.0%,,,,,
+2,2013,2013-09-22,3,22.213,HOU,@,BAL,L 9-30,,2,4,2.00,0,0,0,0,,0,0.0%,,0,0,,0
+3,2013,2013-10-06,5,22.227,HOU,@,SFO,L 3-34,,1,5,5.00,0,0,0,0,,0,0.0%,,1,20,20.00,0
+4,2015,2015-10-04,4,24.225,BUF,,NYG,L 10-24,,0,0,,0,1,1,-6,-6.00,0,100.0%,-6.00,0,0,,0
+5,2015,2015-10-11,5,24.232,BUF,@,TEN,W 14-13,,2,3,1.50,0,0,0,0,,0,0.0%,,0,0,,0
+6,2015,2015-11-12,9,24.264,BUF,@,NYJ,W 22-17,,0,0,,0,0,0,0,,0,0.0%,,0,0,,0

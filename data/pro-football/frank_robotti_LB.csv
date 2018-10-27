@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1961,1961-10-13,6,22.190,BOS,,HOU,T 31-31,1,11,0
+2,1961,1961-11-03,9,22.211,BOS,,DTX,W 28-21,1,7,0

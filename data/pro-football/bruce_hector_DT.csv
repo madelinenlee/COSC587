@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2018,2018-09-06,1,23.334,PHI,,ATL,W 18-12,
+2,2018,2018-09-16,2,23.344,PHI,@,TAM,L 21-27,
+3,2018,2018-09-23,3,23.351,PHI,,IND,W 20-16,

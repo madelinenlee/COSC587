@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1992,1992-10-25,7,22.137,NWE,,CLE,L 17-19
+2,1992,1992-12-13,14,22.186,MIN,,SFO,L 17-20
+3,1992,1992-12-20,15,22.193,MIN,@,PIT,W 6-3
+4,1992,1992-12-27,16,22.200,MIN,,GNB,W 27-7

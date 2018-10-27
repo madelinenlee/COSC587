@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1996,1996-09-02,1,24.214,DAL,@,CHI,L 6-22
+2,1996,1996-09-08,2,24.220,DAL,,NYG,W 27-0
+3,1996,1996-09-22,4,24.234,DAL,@,BUF,L 7-10

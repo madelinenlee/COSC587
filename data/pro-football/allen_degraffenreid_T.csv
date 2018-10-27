@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1998,1998-09-13,2,24.102,ARI,@,SEA,L 14-33
+2,1998,1998-09-20,3,24.109,ARI,,PHI,W 17-3
+3,1998,1998-11-29,12,24.179,ARI,@,KAN,L 24-34
+4,1998,1998-12-06,13,24.186,ARI,,NYG,L 19-23
+5,1998,1998-12-20,15,24.200,ARI,,NOR,W 19-17

@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1983,1983-10-16,7,24.237,BAL,,BUF,L 7-30,,6,10,60.00,34,0,1,26.7,0,0,3.40,-1.10,2,27,13.50,0

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2011,2011-10-02,4,24.012,BAL,,NYJ,W 34-17,,,,
+2,2011,2011-12-11,13,24.082,BAL,,IND,W 24-10,,,,
+3,2012,2012-09-16,2,24.362,BAL,@,PHI,L 23-24,,0.0,1,0

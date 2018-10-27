@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1967,1967-10-22,7,23.015,DEN,,SDG,L 21-38,2,23,11.50,0
+2,1967,1967-11-05,9,23.029,DEN,,OAK,L 17-21,2,54,27.00,0
+3,1967,1967-11-12,10,23.036,DEN,,HOU,L 18-20,1,10,10.00,0
+4,1968,1968-09-06,1,23.335,CIN,@,SDG,L 13-29,2,18,9.00,0

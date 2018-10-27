@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1972,1972-12-17,14,24.202,HOU,,CIN,L 17-61,,4,10,40.00,47,0,4,15.4,0,0,4.70,-13.30,1,9,9.00,0

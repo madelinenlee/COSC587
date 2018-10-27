@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1982,1982-12-19,7,22.265,BAL,,GNB,T 20-20
+2,1982,1982-12-26,8,22.272,BAL,@,SDG,L 26-44
+3,1982,1983-01-02,9,22.279,BAL,,MIA,L 7-34

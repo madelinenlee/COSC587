@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2014,2014-09-25,4,24.199,NYG,@,WAS,W 45-14,,,,,,,,,,,,,,,,
+2,2014,2014-10-12,6,24.216,NYG,@,PHI,L 0-27,,4,5,80.00,60,0,0,116.7,2,11,12.00,12.00,0,0,,0
+3,2014,2014-11-03,8,24.238,NYG,,IND,L 24-40,,,,,,,,,,,,,,,,
+4,2014,2014-12-07,13,24.272,NYG,@,TEN,W 36-7,,0,0,,0,0,0,,0,0,,,2,-3,-1.50,0
+5,2015,2015-12-27,15,25.292,NYG,@,MIN,L 17-49,,5,5,100.00,68,1,0,158.3,0,0,13.60,17.60,0,0,,0

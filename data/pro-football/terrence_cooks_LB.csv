@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1989,1989-10-08,5,22.348,NWE,,HOU,W 23-13
+2,1989,1989-10-15,6,22.355,NWE,@,ATL,L 15-16
+3,1989,1989-12-24,16,23.060,NWE,,RAM,L 20-24

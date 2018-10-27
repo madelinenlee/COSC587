@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,sacks,tackles_solo,tackles_assists
+1,2018,2018-09-09,1,21.165,MIN,,SFO,W 24-16,,0,0,,0,0.0,1,0
+2,2018,2018-09-16,2,21.172,MIN,@,GNB,T 29-29,,1,28,28.00,0,0.0,0,0
+3,2018,2018-09-23,3,21.179,MIN,,BUF,L 6-27,,0,0,,0,0.0,0,0
+4,2018,2018-09-27,4,21.183,MIN,@,LAR,L 31-38,,0,0,,0,0.0,1,1

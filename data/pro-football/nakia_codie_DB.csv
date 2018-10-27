@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,def_int,def_int_yds,def_int_td
+1,2000,2000-11-19,11,23.304,PIT,,JAX,L 24-34,,,,
+2,2000,2000-11-26,12,23.311,PIT,@,CIN,W 48-28,,,,
+3,2000,2000-12-03,13,23.318,PIT,,OAK,W 21-20,,,,
+4,2000,2000-12-10,14,23.325,PIT,@,NYG,L 10-30,,,,
+5,2000,2000-12-16,15,23.331,PIT,,WAS,W 24-3,,,,
+6,2000,2000-12-24,16,23.339,PIT,@,SDG,W 34-21,,1,14,0

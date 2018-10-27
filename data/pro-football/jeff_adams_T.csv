@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2014,2014-12-21,15,25.106,HOU,,BAL,W 25-13,
+2,2014,2014-12-28,16,25.113,HOU,,JAX,W 23-17,
+3,2015,2015-09-13,1,26.007,HOU,,KAN,L 20-27,*
+4,2015,2015-09-20,2,26.014,HOU,@,CAR,L 17-24,*

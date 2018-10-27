@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1984,1984-11-18,12,23.282,ATL,,CLE,L 7-23
+2,1984,1984-11-25,13,23.289,ATL,@,CIN,L 14-35
+3,1984,1984-12-02,14,23.296,ATL,,SFO,L 17-35
+4,1984,1984-12-09,15,23.303,ATL,@,TAM,L 6-23

@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring
+1,1962,1962-09-23,2,22.301,DTX,@,OAK,W 26-16,2,3,66.7,2,3,66.7,0,8
+2,1962,1962-09-30,3,22.308,DTX,,BUF,W 41-21,5,6,83.3,,2,0.0,0,5

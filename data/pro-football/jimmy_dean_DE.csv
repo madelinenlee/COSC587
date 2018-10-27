@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1978,1978-09-03,1,23.238,HOU,@,ATL,L 14-20
+2,1978,1978-09-10,2,23.245,HOU,@,KAN,W 20-17
+3,1978,1978-09-17,3,23.252,HOU,,SFO,W 20-19

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,all_td,scoring
+1,2003,2003-12-07,13,23.135,DAL,@,PHI,L 10-36,,9,41,4.56,0,2,24,12.00,0,0,0
+2,2003,2003-12-14,14,23.142,DAL,@,WAS,W 27-0,,1,2,2.00,1,0,0,,0,1,6
+3,2003,2003-12-21,15,23.149,DAL,,NYG,W 19-3,,7,8,1.14,0,0,0,,0,0,0
+4,2003,2003-12-28,16,23.156,DAL,@,NOR,L 7-13,,2,5,2.50,0,0,0,,0,0,0

@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1972,1972-11-05,8,22.302,PHI,,STL,T 6-6,1,2,2.00,0
+2,1975,1975-11-23,10,25.319,ATL,,DEN,W 35-21,,,,
+3,1975,1975-11-30,11,25.326,ATL,@,OAK,L 34-37,,,,
+4,1975,1975-12-07,12,25.333,ATL,,WAS,L 27-30,,,,
+5,1975,1975-12-14,13,25.340,ATL,,SFO,W 31-9,,,,
+6,1975,1975-12-21,14,25.347,ATL,@,GNB,L 13-22,,,,

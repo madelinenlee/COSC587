@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2018,2018-09-09,1,24.187,LAC,,KAN,L 28-38,,0,0,,0
+2,2018,2018-09-16,2,24.194,LAC,@,BUF,W 31-20,,1,0,0.00,0
+3,2018,2018-09-23,3,24.201,LAC,@,LAR,L 23-35,,0,0,,0

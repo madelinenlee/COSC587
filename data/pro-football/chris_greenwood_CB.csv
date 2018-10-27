@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2013,2013-12-16,14,24.159,DET,,BAL,L 16-18,,,,
+2,2013,2013-12-22,15,24.165,DET,,NYG,L 20-23,,0.0,4,0
+3,2013,2013-12-29,16,24.172,DET,@,MIN,L 13-14,,0.0,2,0

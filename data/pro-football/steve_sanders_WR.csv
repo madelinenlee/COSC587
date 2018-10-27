@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2008,2008-09-07,1,25.259,CLE,,DAL,L 10-28,,1,1,18,18.00,0,100.0%,18.00
+2,2008,2008-09-14,2,25.266,CLE,,PIT,L 6-10,,1,,,,,0.0%,
+3,2008,2008-09-21,3,25.273,CLE,@,BAL,L 10-28,,,,,,,0.0%,
+4,2008,2008-09-28,4,25.280,CLE,@,CIN,W 20-12,,1,,,,,0.0%,
+5,2008,2008-11-02,8,25.315,CLE,,BAL,L 27-37,,2,,,,,0.0%,

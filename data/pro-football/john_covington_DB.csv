@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1994,1994-12-11,14,22.233,IND,@,NWE,L 13-28
+2,1994,1994-12-18,15,22.240,IND,,MIA,W 10-6
+3,1994,1994-12-24,16,22.246,IND,,BUF,W 10-9

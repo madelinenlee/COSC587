@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1965,1965-09-26,2,24.257,WAS,@,DAL,L 7-27,3,1,0.33,0,2,38,19.00,0,2,8,4.00,0
+2,1965,1965-10-10,4,24.271,WAS,,STL,L 16-37,0,0,,0,1,2,2.00,0,0,0,,0
+3,1965,1965-11-07,8,24.299,WAS,@,NYG,W 23-7,2,3,1.50,0,0,0,,0,0,0,,0
+4,1965,1965-12-19,14,24.341,WAS,,PIT,W 35-14,1,6,6.00,0,0,0,,0,0,0,,0

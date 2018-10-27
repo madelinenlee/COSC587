@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2008,2008-11-20,11,24.029,CIN,@,PIT,L 10-27,,0.0,0,1
+2,2008,2008-11-30,12,24.039,CIN,,BAL,L 3-34,,,,
+3,2008,2008-12-07,13,24.046,CIN,@,IND,L 3-35,,,,
+4,2008,2008-12-14,14,24.053,CIN,,WAS,W 20-13,,,,
+5,2008,2008-12-21,15,24.060,CIN,@,CLE,W 14-0,,,,
+6,2008,2008-12-28,16,24.067,CIN,,KAN,W 16-6,,,,

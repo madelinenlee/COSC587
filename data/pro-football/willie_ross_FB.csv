@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,all_td,scoring
+1,1964,1964-10-11,5,23.127,BUF,@,HOU,W 48-17,4,14,3.50,1,1,6

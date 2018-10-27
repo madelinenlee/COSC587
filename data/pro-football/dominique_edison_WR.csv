@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2009,2009-09-20,2,23.066,TEN,,HOU,L 31-34,
+2,2009,2009-09-27,3,23.073,TEN,@,NYJ,L 17-24,
+3,2009,2009-11-15,9,23.122,TEN,,BUF,W 41-17,
+4,2009,2009-11-23,10,23.130,TEN,@,HOU,W 20-17,
+5,2009,2009-12-06,12,23.143,TEN,@,IND,L 17-27,

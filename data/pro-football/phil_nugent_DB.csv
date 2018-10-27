@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1961,1961-09-24,3,22.039,DEN,@,NYT,L 28-35,2,11,0
+2,1961,1961-10-08,5,22.053,DEN,,DTX,L 12-19,1,25,0
+3,1961,1961-10-29,8,22.074,DEN,@,SDG,L 0-37,2,11,0
+4,1961,1961-11-05,9,22.081,DEN,,HOU,L 14-55,1,0,0
+5,1961,1961-11-12,10,22.088,DEN,,SDG,L 16-19,1,30,0

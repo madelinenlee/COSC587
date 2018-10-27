@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2009,2009-11-19,10,24.233,MIA,@,CAR,W 24-17,,,,,
+2,2009,2010-01-03,16,24.278,MIA,,PIT,L 24-30,,1,5,5.00,0

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2004,2004-09-12,1,24.058,KAN,@,DEN,L 24-34,
+2,2004,2004-09-19,2,24.065,KAN,,CAR,L 17-28,
+3,2004,2004-09-26,3,24.072,KAN,,HOU,L 21-24,
+4,2004,2004-12-25,15,24.162,KAN,,OAK,W 31-30,

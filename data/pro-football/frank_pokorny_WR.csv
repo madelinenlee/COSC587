@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1985,1985-12-01,13,22.202,PIT,,DEN,L 23-31
+2,1985,1985-12-08,14,22.209,PIT,@,SDG,L 44-54
+3,1985,1985-12-15,15,22.216,PIT,,BUF,W 30-24
+4,1985,1985-12-21,16,22.222,PIT,@,NYG,L 10-28

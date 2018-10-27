@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2014,2014-10-12,6,22.111,BUF,,NWE,L 22-37,,0.0,0,1
+2,2014,2014-10-26,8,22.125,BUF,@,NYJ,W 43-23,,0.0,3,0
+3,2018,2018-09-16,2,26.085,WAS,,IND,L 9-21,,0.0,0,0
+4,2018,2018-09-23,3,26.092,WAS,,GNB,W 31-17,,0.0,0,0

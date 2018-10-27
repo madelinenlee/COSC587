@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1972,1972-11-26,11,23.048,BAL,,NWE,W 31-0
+2,1972,1972-12-03,12,23.055,BAL,,BUF,W 35-7
+3,1972,1972-12-10,13,23.062,BAL,@,KAN,L 10-24
+4,1972,1972-12-16,14,23.068,BAL,@,MIA,L 0-16

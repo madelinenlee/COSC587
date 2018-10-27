@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1970,1970-10-04,3,22.082,CIN,,HOU,L 13-20
+2,1970,1970-11-15,9,22.124,CIN,,CLE,W 14-10
+3,1970,1970-11-22,10,22.131,CIN,,PIT,W 34-7
+4,1970,1970-11-29,11,22.138,CIN,,NOR,W 26-6
+5,1970,1970-12-06,12,22.145,CIN,@,SDG,W 17-14

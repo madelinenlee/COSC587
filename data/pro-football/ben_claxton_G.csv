@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2005,2005-11-24,11,25.117,ATL,@,DET,W 27-7,
+2,2005,2006-01-01,16,25.155,ATL,,CAR,L 11-44,
+3,2009,2009-10-18,5,29.080,ARI,@,SEA,W 27-3,

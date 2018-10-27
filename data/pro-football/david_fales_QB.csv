@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td,all_td,scoring
+1,2016,2017-01-01,16,26.089,CHI,@,MIN,L 10-38,,2,5,40.00,22,0,0,53.7,1,5,4.40,4.40,1,0,0.00,0,0,0
+2,2017,2017-12-03,12,27.060,MIA,,DEN,W 35-9,,0,1,0.00,0,0,0,39.6,0,0,0.00,0.00,0,0,,0,0,0
+3,2017,2017-12-31,16,27.088,MIA,,BUF,L 16-22,,29,42,69.05,265,1,1,83.9,1,8,6.31,5.71,4,8,2.00,1,1,6

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2005,2005-11-27,11,23.271,GNB,@,PHI,L 14-19,
+2,2005,2005-12-04,12,23.278,GNB,@,CHI,L 7-19,
+3,2005,2005-12-11,13,23.285,GNB,,DET,W 16-13,
+4,2005,2005-12-19,14,23.293,GNB,@,BAL,L 3-48,
+5,2005,2005-12-25,15,23.299,GNB,,CHI,L 17-24,

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,all_td,scoring
+1,2007,2007-10-07,5,24.102,IND,,TAM,W 33-14,,0,0,0,,0,0.0%,,3,58,19.33,0,4,36,9.00,0,0,0
+2,2007,2007-11-11,9,24.137,IND,@,SDG,L 21-23,,9,5,41,8.20,0,55.6%,4.56,5,101,20.20,0,2,-5,-2.50,0,0,0
+3,2007,2007-11-18,10,24.144,IND,,KAN,W 13-10,,2,1,6,6.00,0,50.0%,3.00,3,57,19.00,0,0,0,,0,0,0
+4,2007,2007-11-22,11,24.148,IND,@,ATL,W 31-13,,0,0,0,,0,0.0%,,4,102,25.50,0,0,0,,0,0,0
+5,2007,2007-12-30,16,24.186,IND,,TEN,L 10-16,,9,6,23,3.83,1,66.7%,2.56,0,0,,0,0,0,,0,1,6

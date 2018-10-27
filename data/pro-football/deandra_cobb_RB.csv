@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,2005,2005-10-24,7,24.159,ATL,,NYJ,W 27-14,,3,74,24.67,0,0,0,,0
+2,2005,2005-11-24,11,24.190,ATL,@,DET,W 27-7,,0,0,,0,0,0,,0
+3,2005,2005-12-24,15,24.220,ATL,@,TAM,L 24-27,,5,104,20.80,0,1,8,8.00,0
+4,2005,2006-01-01,16,24.228,ATL,,CAR,L 11-44,,8,181,22.63,0,0,0,,0

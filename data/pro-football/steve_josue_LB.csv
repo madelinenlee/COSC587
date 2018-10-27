@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2004,2004-12-12,13,24.251,GNB,,DET,W 16-13,
+2,2004,2004-12-19,14,24.258,GNB,,JAX,L 25-28,
+3,2004,2004-12-24,15,24.263,GNB,@,MIN,W 34-31,
+4,2004,2005-01-02,16,24.272,GNB,@,CHI,W 31-14,

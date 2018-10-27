@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2013,2013-09-09,1,22.221,HOU,@,SDG,W 31-28,,,,
+2,2013,2013-09-15,2,22.227,HOU,,TEN,W 30-24,,,,
+3,2013,2013-09-22,3,22.234,HOU,@,BAL,L 9-30,,,,
+4,2013,2013-09-29,4,22.241,HOU,,SEA,L 20-23,,0.0,0,1
+5,2013,2013-10-06,5,22.248,HOU,@,SFO,L 3-34,,0.0,1,0
+6,2013,2013-10-13,6,22.255,HOU,,STL,L 13-38,,,,

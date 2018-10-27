@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1984,1984-10-07,6,24.077,DET,,DEN,L 7-28,,6,21,28.57,71,0,3,1.6,1,12,3.38,-3.05,0,0,,0
+2,1984,1984-10-28,9,24.098,DET,@,GNB,L 9-41,,4,12,33.33,30,0,2,2.8,0,0,2.50,-5.00,1,9,9.00,0
+3,1984,1984-11-22,13,24.123,DET,,GNB,W 31-28,,1,1,100.00,48,0,0,118.7,0,0,48.00,48.00,0,0,,0
+4,1984,1984-12-10,15,24.141,DET,,RAI,L 3-24,,3,9,33.33,44,0,1,10.6,0,0,4.89,-0.11,0,0,,0

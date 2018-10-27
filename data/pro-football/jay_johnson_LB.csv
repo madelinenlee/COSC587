@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1970,1970-09-20,1,24.347,PHI,,DAL,L 7-17
+2,1970,1970-09-27,2,24.354,PHI,@,CHI,L 16-20
+3,1970,1970-10-04,3,24.361,PHI,,WAS,L 21-33
+4,1970,1970-10-11,4,25.003,PHI,@,NYG,L 23-30
+5,1970,1970-10-18,5,25.010,PHI,,STL,L 20-35

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2005,2005-12-18,14,23.122,STL,,PHI,L 16-17,
+2,2005,2005-12-24,15,23.128,STL,,SFO,L 20-24,
+3,2005,2006-01-01,16,23.136,STL,@,DAL,W 20-10,

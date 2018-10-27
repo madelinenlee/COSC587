@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1975,1975-11-23,10,24.078,NYJ,,STL,L 6-37
+2,1975,1975-11-30,11,24.085,NYJ,,PIT,L 7-20
+3,1975,1975-12-07,12,24.092,NYJ,@,NWE,W 30-28
+4,1975,1975-12-15,13,24.100,NYJ,@,SDG,L 16-24
+5,1975,1975-12-21,14,24.106,NYJ,,DAL,L 21-31

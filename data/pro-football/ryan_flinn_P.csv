@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,2005,2005-12-25,15,25.314,GNB,,CHI,L 17-24,,3,120,40.00,0
+2,2005,2006-01-01,16,25.321,GNB,,SEA,W 23-17,,3,98,32.67,0

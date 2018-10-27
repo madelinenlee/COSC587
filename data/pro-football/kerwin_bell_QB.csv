@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1996,1996-12-05,14,31.173,IND,,PHI,W 37-10,,5,5,100.00,75,1,0,158.3,0,0,15.00,19.00,1,-1,-1.00,0

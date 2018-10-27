@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,sacks,tackles_solo,tackles_assists
+1,2009,2009-12-13,13,23.203,TAM,,NYJ,L 3-26,,0,0,,0,0,0,0,,0,0.0%,,0,0,,0,0.0,0,0
+2,2009,2009-12-20,14,23.210,TAM,@,SEA,W 24-7,,0,0,,0,0,0,0,,0,0.0%,,2,52,26.00,0,0.0,0,0
+3,2009,2010-01-03,16,23.224,TAM,,ATL,L 10-20,,0,0,,0,,0,0,,0,0.0%,,0,0,,0,0.0,0,0
+4,2010,2010-09-12,1,24.111,TAM,,CLE,W 17-14,,0,0,,0,,0,0,,0,0.0%,,0,0,,0,0.0,0,1
+5,2010,2010-10-10,4,24.139,TAM,@,CIN,W 24-21,,1,4,4.00,0,0,0,0,,0,0.0%,,0,0,,0,0.0,0,0
+6,2010,2010-10-17,5,24.146,TAM,,NOR,L 6-31,,3,7,2.33,0,2,1,7,7.00,0,50.0%,3.50,0,0,,0,0.0,0,0

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1971,1971-11-21,10,22.128,NWE,@,CLE,L 7-27
+2,1971,1971-11-28,11,22.135,NWE,@,BUF,L 20-27
+3,1971,1971-12-05,12,22.142,NWE,,MIA,W 34-13
+4,1971,1971-12-12,13,22.149,NWE,@,NYJ,L 6-13
+5,1971,1971-12-19,14,22.156,NWE,@,BAL,W 21-17

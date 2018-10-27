@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1991,1991-09-01,1,22.268,NOR,,SEA,W 27-24
+2,1991,1991-10-27,8,22.324,NOR,,CHI,L 17-20
+3,1991,1991-11-03,9,22.331,NOR,@,RAM,W 24-17
+4,1991,1991-11-10,10,22.338,NOR,,SFO,W 10-3

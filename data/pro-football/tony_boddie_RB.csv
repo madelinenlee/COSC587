@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,rush_att,rush_yds,rush_yds_per_att,rush_td,all_td,scoring
+1,1986,1986-09-15,2,25.308,DEN,@,PIT,W 21-10,0,0,,0,1,2,2.00,0,0,0
+2,1987,1987-11-01,7,26.355,DEN,,DET,W 34-0,0,0,,0,0,0,,0,0,
+3,1987,1987-12-06,12,27.025,DEN,,NWE,W 31-20,4,26,6.50,0,2,3,1.50,1,1,6
+4,1987,1987-12-13,13,27.032,DEN,@,SEA,L 21-28,5,59,11.80,0,1,4,4.00,0,0,0
+5,1987,1987-12-19,14,27.038,DEN,,KAN,W 20-17,0,0,,0,0,0,,0,0,
+6,1987,1987-12-27,15,27.046,DEN,,SDG,W 24-0,0,0,,0,0,0,,0,0,

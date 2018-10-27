@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2009,2009-11-29,11,22.258,JAX,@,SFO,L 3-20,,,,
+2,2009,2009-12-06,12,22.265,JAX,,HOU,W 23-18,,,,
+3,2009,2009-12-13,13,22.272,JAX,,MIA,L 10-14,,,,
+4,2009,2009-12-17,14,22.276,JAX,,IND,L 31-35,,,,
+5,2009,2009-12-27,15,22.286,JAX,@,NWE,L 7-35,,0.0,2,0
+6,2009,2010-01-03,16,22.293,JAX,@,CLE,L 17-23,,0.0,3,0

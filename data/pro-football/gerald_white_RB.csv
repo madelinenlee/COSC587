@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1987,1987-10-04,3,22.299,DAL,@,NYJ,W 38-24,0,0,,0,1,-4,-4.00,0
+2,1987,1987-10-11,4,22.306,DAL,,PHI,W 41-22,1,11,11.00,0,0,0,,0
+3,1987,1987-10-19,5,22.314,DAL,,WAS,L 7-13,4,35,8.75,0,0,0,,0

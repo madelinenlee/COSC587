@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2018,2018-09-09,1,21.294,SFO,@,MIN,L 16-24,*,0.0,11,1
+2,2018,2018-09-16,2,21.301,SFO,,DET,W 30-27,*,0.0,8,2
+3,2018,2018-09-23,3,21.308,SFO,@,KAN,L 27-38,*,0.0,9,2

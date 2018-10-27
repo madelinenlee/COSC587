@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,2015,2015-12-06,12,23.284,CIN,@,CLE,W 37-3,,1,1,15,15.00,0,100.0%,15.00,0,0,,0,0,0,,0
+2,2016,2016-12-18,14,24.297,CLE,@,BUF,L 13-33,,0,0,0,,0,0.0%,,4,74,18.50,0,2,23,11.50,0
+3,2016,2016-12-24,15,24.303,CLE,,SDG,W 20-17,,0,0,0,,0,0.0%,,2,56,28.00,0,3,19,6.33,0
+4,2016,2017-01-01,16,24.311,CLE,@,PIT,L 24-27,,0,0,0,,0,0.0%,,2,60,30.00,0,3,26,8.67,0

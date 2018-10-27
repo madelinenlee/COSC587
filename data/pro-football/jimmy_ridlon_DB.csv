@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,all_td,scoring,def_int,def_int_yds,def_int_td
+1,1962,1962-11-18,10,28.130,SFO,@,RAM,W 24-17,0,0,1,8,0
+2,1964,1964-10-11,5,30.092,DAL,,NYG,T 13-13,0,0,1,2,0
+3,1964,1964-10-18,6,30.099,DAL,,CLE,L 16-20,0,0,1,22,0
+4,1964,1964-10-25,7,30.106,DAL,@,STL,W 31-13,0,0,1,23,0
+5,1964,1964-11-08,9,30.120,DAL,@,NYG,W 31-21,1,6,1,74,1

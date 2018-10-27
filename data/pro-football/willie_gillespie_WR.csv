@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1986,1986-11-02,9,25.009,TAM,,BUF,W 34-28,0,0,,0
+2,1986,1986-11-09,10,25.016,TAM,,CHI,L 3-23,1,18,18.00,0
+3,1987,1987-10-18,5,25.359,MIN,@,TAM,L 10-20,2,28,14.00,0

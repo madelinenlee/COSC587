@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2001,2001-12-02,11,25.238,DET,@,CHI,L 10-13,,1,1,6,6.00,0,100.0%,6.00

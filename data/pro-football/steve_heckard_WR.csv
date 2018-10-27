@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1965,1965-12-05,12,22.237,RAM,@,STL,W 27-3,1,4,4.00,0
+2,1966,1966-11-13,10,23.215,RAM,,NYG,W 55-14,2,29,14.50,0
+3,1966,1966-11-27,12,23.229,RAM,@,BAL,W 23-7,2,23,11.50,0
+4,1966,1966-12-18,14,23.250,RAM,,GNB,L 23-27,1,50,50.00,0

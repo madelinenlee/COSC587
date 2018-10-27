@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1983,1983-09-05,1,22.263,DAL,@,WAS,W 31-30
+2,1983,1983-09-11,2,22.269,DAL,@,STL,W 34-17
+3,1983,1983-09-18,3,22.276,DAL,,NYG,W 28-13
+4,1983,1983-09-25,4,22.283,DAL,,NOR,W 21-20

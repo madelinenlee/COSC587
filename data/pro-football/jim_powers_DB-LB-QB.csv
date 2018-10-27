@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1950,1950-10-08,4,22.221,SFO,@,DET,L 7-24,,9,20,45.00,108,0,2,22.5,0,0,5.40,0.90,3,4,1.33,0
+2,1952,1952-10-26,5,24.240,SFO,,DTX,W 48-21,,0,1,0.00,0,0,0,39.6,0,0,0.00,0.00,0,0,,0
+3,1953,1953-10-11,3,25.224,SFO,@,DET,L 21-24,,1,5,20.00,9,0,1,0.0,0,0,1.80,-7.20,0,0,,0
+4,1953,1953-10-18,4,25.231,SFO,@,CHI,W 35-28,,11,24,45.83,128,1,1,59.0,0,0,5.33,4.29,2,-2,-1.00,0
+5,1953,1953-10-25,5,25.238,SFO,,DET,L 10-14,,10,20,50.00,122,0,0,69.2,0,0,6.10,6.10,1,-8,-8.00,0

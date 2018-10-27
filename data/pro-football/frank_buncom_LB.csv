@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1962,1962-10-07,5,22.339,SDG,,DTX,W 32-28,1,11,0
+2,1962,1962-11-11,10,23.009,SDG,,BUF,L 20-40,1,26,0
+3,1962,1962-12-09,13,23.037,SDG,,BOS,L 14-20,1,9,0
+4,1962,1962-12-16,14,23.044,SDG,@,DTX,L 17-26,1,3,0
+5,1964,1964-11-08,9,25.006,SDG,@,DEN,W 31-20,1,11,0

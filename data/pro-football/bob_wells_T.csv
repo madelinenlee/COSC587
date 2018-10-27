@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1970,1970-09-20,1,25.047,SDG,,BAL,L 14-16
+2,1970,1970-09-27,2,25.054,SDG,,OAK,T 27-27
+3,1970,1970-10-04,3,25.061,SDG,@,RAM,L 10-37
+4,1970,1970-10-12,4,25.069,SDG,,GNB,L 20-22

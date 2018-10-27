@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,def_int,def_int_yds,def_int_td
+1,1960,1960-10-16,5,27.151,BOS,@,OAK,L 14-27,0,0,,0,1,14,0
+2,1962,1962-11-30,12,29.196,BOS,,NYT,W 24-17,1,14,14.00,0,0,0,0

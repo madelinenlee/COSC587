@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2013,2013-09-29,4,23.315,CHI,@,DET,L 32-40,,,,
+2,2013,2013-10-10,6,23.326,CHI,,NYG,W 27-21,,0.0,1,0
+3,2014,2014-12-21,15,25.033,TAM,,GNB,L 3-20,,,,
+4,2014,2014-12-28,16,25.040,TAM,,NOR,L 20-23,,0.0,4,0

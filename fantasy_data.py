@@ -3,8 +3,8 @@ import itertools
 import re
 import time
 
-from selenium import webdriver
 from bs4 import BeautifulSoup
+from selenium import webdriver
 
 
 if __name__ == "__main__":

@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,1960,1960-09-11,1,24.216,NYT,,BUF,W 27-3,1,4,4.00,0,2,63,31.50,0
+2,1960,1960-09-17,2,24.222,NYT,,BOS,L 24-28,0,0,,0,6,236,39.33,0

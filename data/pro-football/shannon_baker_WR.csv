@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,1994,1994-09-04,1,23.046,IND,,HOU,W 45-21,,0,0,,0,0.0%,
+2,1994,1994-09-11,2,23.053,IND,@,TAM,L 10-24,2,2,15,7.50,0,100.0%,7.50
+3,1994,1994-09-18,3,23.060,IND,@,PIT,L 21-31,,0,0,,0,0.0%,
+4,1994,1994-09-25,4,23.067,IND,,CLE,L 14-21,,0,0,,0,0.0%,

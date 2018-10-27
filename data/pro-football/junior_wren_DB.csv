@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,1960,1960-09-24,1,30.289,PIT,@,DAL,W 35-28,1,0,0,0,0,,0
+2,1960,1960-12-11,11,31.001,PIT,,PHI,W 27-21,1,0,0,0,0,,0
+3,1961,1961-09-09,1,31.273,NYT,@,BOS,W 21-20,1,2,0,6,218,36.33,0
+4,1961,1961-09-17,2,31.281,NYT,@,BUF,L 31-41,0,0,0,2,53,26.50,0

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1972,1972-11-12,9,22.087,MIN,,DET,W 16-14
+2,1972,1972-11-19,10,22.094,MIN,@,RAM,W 45-41
+3,1972,1972-11-26,11,22.101,MIN,@,PIT,L 10-23
+4,1972,1972-12-03,12,22.108,MIN,,CHI,W 23-10
+5,1972,1972-12-10,13,22.115,MIN,,GNB,L 7-23

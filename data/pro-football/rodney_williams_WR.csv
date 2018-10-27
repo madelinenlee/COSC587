@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1998,1998-12-06,13,25.113,OAK,,MIA,L 17-27,,4,63,15.75,0
+2,1999,1999-10-17,6,26.063,OAK,@,BUF,W 20-14,,,,,
+3,1999,1999-10-24,7,26.070,OAK,,NYJ,W 24-23,,,,,
+4,1999,1999-10-31,8,26.077,OAK,,MIA,L 9-16,,,,,
+5,1999,1999-11-14,9,26.091,OAK,,SDG,W 28-9,,,,,
+6,1999,1999-11-22,10,26.099,OAK,@,DEN,L 21-27,,,,,

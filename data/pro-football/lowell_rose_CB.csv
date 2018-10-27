@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2014,2014-10-19,6,24.222,MIA,@,CHI,W 27-14,,,,
+2,2014,2014-10-26,7,24.229,MIA,@,JAX,W 27-13,,,,
+3,2014,2014-11-09,9,24.243,MIA,@,DET,L 16-20,,,,
+4,2014,2014-11-13,10,24.247,MIA,,BUF,W 22-9,,,,
+5,2014,2014-11-23,11,24.257,MIA,@,DEN,L 36-39,,0.0,1,0

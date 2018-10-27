@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1968,1968-09-21,2,24.153,MIA,,OAK,L 21-47,1,12,12.00,0
+2,1968,1968-11-24,11,24.217,MIA,@,BOS,W 34-10,1,13,13.00,0
+3,1969,1969-11-09,9,25.202,MIA,@,BOS,W 17-16,1,13,13.00,0

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1973,1973-10-14,5,22.280,DEN,@,HOU,W 48-20
+2,1973,1973-11-25,11,22.322,DEN,,KAN,W 14-10
+3,1973,1973-12-02,12,22.329,DEN,,DAL,L 10-22
+4,1973,1973-12-09,13,22.336,DEN,@,SDG,W 42-28

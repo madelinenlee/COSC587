@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1998,1998-10-25,7,25.061,DET,,MIN,L 13-34
+2,1998,1998-11-01,8,25.068,DET,,ARI,L 15-17
+3,1998,1998-11-08,9,25.075,DET,@,PHI,L 9-10

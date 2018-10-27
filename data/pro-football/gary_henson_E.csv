@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1963,1963-11-17,10,23.070,PHI,@,DAL,L 20-27,2,11,5.50,0
+2,1963,1963-11-24,11,23.077,PHI,,WAS,L 10-13,1,10,10.00,0

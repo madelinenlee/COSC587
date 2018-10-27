@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2017,2017-10-29,8,23.297,SFO,@,PHI,L 10-33,
+2,2017,2017-11-05,9,23.304,SFO,,ARI,L 10-20,*
+3,2017,2017-11-12,10,23.311,SFO,,NYG,W 31-21,
+4,2017,2017-11-26,11,23.325,SFO,,SEA,L 13-24,*
+5,2018,2018-09-23,3,24.261,SFO,@,KAN,L 27-38,

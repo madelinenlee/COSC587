@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2001,2001-10-21,5,24.201,TAM,,PIT,L 10-17,
+2,2001,2001-10-28,6,24.208,TAM,,MIN,W 41-14,
+3,2001,2001-11-04,7,24.215,TAM,@,GNB,L 20-21,
+4,2002,2002-12-22,15,25.263,CHI,@,CAR,L 14-24,
+5,2002,2002-12-29,16,25.270,CHI,,TAM,L 0-15,

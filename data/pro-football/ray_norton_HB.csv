@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1960,1960-11-20,8,23.059,SFO,@,DAL,W 26-14,1,9,9.00,0,0,0,,0
+2,1960,1960-12-18,12,23.087,SFO,,BAL,W 34-10,1,-7,-7.00,0,0,0,,0
+3,1961,1961-09-24,2,24.002,SFO,@,GNB,L 10-30,1,-4,-4.00,0,0,0,,0
+4,1961,1961-11-19,10,24.058,SFO,,CHI,W 41-31,0,0,,0,1,21,21.00,0
+5,1961,1961-12-16,14,24.085,SFO,,BAL,L 24-27,1,2,2.00,0,0,39,,0

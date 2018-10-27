@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2009,2009-12-10,13,22.182,PIT,@,CLE,L 6-13,,,,,,,0.0%,
+2,2009,2009-12-20,14,22.192,PIT,,GNB,W 37-36,,,,,,,0.0%,
+3,2009,2009-12-27,15,22.199,PIT,,BAL,W 23-20,,2,1,14,14.00,0,50.0%,7.00
+4,2009,2010-01-03,16,22.206,PIT,@,MIA,W 30-24,,,,,,,0.0%,

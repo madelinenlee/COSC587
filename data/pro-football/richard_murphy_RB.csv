@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2012,2012-12-02,12,26.075,JAX,@,BUF,L 18-34,,,,,,,,,
+2,2012,2012-12-09,13,26.082,JAX,,NYJ,L 10-17,,4,19,4.75,0,0,0,,0
+3,2012,2012-12-16,14,26.089,JAX,@,MIA,L 3-24,,6,20,3.33,0,1,24,24.00,0
+4,2012,2012-12-23,15,26.096,JAX,,NWE,L 16-23,,10,29,2.90,0,3,70,23.33,0
+5,2012,2012-12-30,16,26.103,JAX,@,TEN,L 20-38,,3,24,8.00,0,1,24,24.00,0

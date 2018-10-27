@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1970,1970-09-27,2,24.244,NYG,@,DAL,L 10-28
+2,1970,1970-10-04,3,24.251,NYG,@,NOR,L 10-14
+3,1970,1970-10-11,4,24.258,NYG,,PHI,W 30-23

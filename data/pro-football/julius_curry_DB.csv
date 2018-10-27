@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2003,2003-12-14,14,24.211,DET,@,KAN,L 17-45,
+2,2003,2003-12-21,15,24.218,DET,@,CAR,L 14-20,
+3,2003,2003-12-28,16,24.225,DET,,STL,W 30-20,

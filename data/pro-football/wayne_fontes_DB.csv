@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,all_td,scoring,def_int,def_int_yds,def_int_td
+1,1962,1962-09-09,1,22.219,NYT,@,OAK,W 28-17,0,0,1,0,0
+2,1962,1962-12-08,13,22.309,NYT,,BUF,L 3-20,0,0,1,37,0
+3,1962,1962-12-15,14,22.316,NYT,,HOU,L 10-44,1,6,2,108,1

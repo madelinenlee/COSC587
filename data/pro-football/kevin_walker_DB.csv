@@ -1,0 +1,8 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,all_td,scoring,def_int,def_int_yds,def_int_td
+1,1986,1986-11-30,13,23.041,TAM,@,MIN,L 13-45,2,32,16.00,0,0,0,,0,0,0,0,0,0
+2,1986,1986-12-07,14,23.048,TAM,@,CHI,L 14-48,3,61,20.33,0,2,-2,-1.00,0,0,0,0,0,0
+3,1986,1986-12-14,15,23.055,TAM,,GNB,L 7-21,1,26,26.00,0,5,19,3.80,0,0,0,0,0,0
+4,1986,1986-12-21,16,23.062,TAM,@,STL,L 17-21,2,27,13.50,0,2,10,5.00,0,0,0,0,0,0
+5,1987,1987-10-04,3,23.349,TAM,@,DET,W 31-27,0,0,,0,,,,,,,,,
+6,1987,1987-10-11,4,23.356,TAM,,SDG,L 13-17,0,0,,0,,,,,,,,,
+7,1987,1987-10-18,5,23.363,TAM,,MIN,W 20-10,1,0,0.00,0,0,0,,0,1,6,2,30,1

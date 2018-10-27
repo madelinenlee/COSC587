@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2014,2014-10-05,5,25.333,ATL,@,NYG,L 20-30,,,,
+2,2014,2014-10-12,6,25.340,ATL,,CHI,L 13-27,,,,
+3,2014,2014-10-26,8,25.354,ATL,,DET,L 21-22,,,,
+4,2014,2014-12-28,16,26.052,ATL,,CAR,L 3-34,,0.0,1,1

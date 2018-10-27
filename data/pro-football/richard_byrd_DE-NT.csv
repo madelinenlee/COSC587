@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,sacks,def_int,def_int_yds,def_int_td
+1,1985,1985-10-20,7,23.214,HOU,,CIN,W 44-27,1.0,0,0,0
+2,1986,1986-10-26,8,24.220,HOU,,RAI,L 17-28,1.0,0,0,0
+3,1986,1986-12-21,16,24.276,HOU,,BUF,W 16-7,2.0,0,0,0
+4,1987,1987-09-13,1,25.177,HOU,,RAM,W 20-16,1.0,0,0,0
+5,1988,1988-11-13,11,26.238,HOU,@,SEA,L 24-27,0.0,1,1,0

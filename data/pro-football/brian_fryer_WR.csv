@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1976,1976-09-12,1,23.058,WAS,,NYG,W 19-17,3,63,21.00,0
+2,1976,1976-09-19,2,23.065,WAS,,SEA,W 31-7,,,,
+3,1976,1976-09-27,3,23.073,WAS,@,PHI,W 20-17,1,17,17.00,0
+4,1976,1976-10-03,4,23.079,WAS,@,CHI,L 7-33,5,86,17.20,0

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1978,1978-09-03,1,22.207,KAN,@,CIN,W 24-23
+2,1978,1978-09-10,2,22.214,KAN,,HOU,L 17-20
+3,1978,1978-09-17,3,22.221,KAN,@,NYG,L 10-26
+4,1978,1978-09-24,4,22.228,KAN,,DEN,L 17-23
+5,1978,1978-10-01,5,22.235,KAN,@,BUF,L 13-28

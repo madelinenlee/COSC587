@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,all_td,scoring
+1,2018,2018-09-09,1,22.160,PIT,@,CLE,T 21-21,,0,0,0,,0,0.0%,,0,0
+2,2018,2018-09-16,2,22.167,PIT,,KAN,L 37-42,*,5,1,14,14.00,1,20.0%,2.80,1,6
+3,2018,2018-09-24,3,22.175,PIT,@,TAM,W 30-27,*,2,2,25,12.50,0,100.0%,12.50,0,0

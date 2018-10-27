@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,1998,1998-12-03,13,24.032,STL,@,PHI,L 14-17,
+2,1998,1998-12-27,16,24.056,STL,@,SFO,L 19-38,
+3,2000,2000-12-03,13,26.032,NOR,,DEN,L 23-38,
+4,2000,2000-12-10,14,26.039,NOR,@,SFO,W 31-27,

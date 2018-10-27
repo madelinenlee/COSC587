@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,def_int,def_int_yds,def_int_td
+1,1961,1961-10-22,6,22.108,DAL,,PHI,L 7-43,2,22,11.00,0,0,0,0
+2,1961,1961-11-12,9,22.129,DAL,@,PIT,L 7-37,1,8,8.00,0,0,0,0
+3,1961,1961-12-10,13,22.157,DAL,@,STL,L 13-31,0,0,,0,1,21,0
+4,1962,1962-11-18,10,23.135,DAL,,CHI,L 33-34,1,44,44.00,0,0,0,0
+5,1962,1962-11-25,11,23.142,DAL,@,PHI,L 14-28,2,26,13.00,0,0,0,0

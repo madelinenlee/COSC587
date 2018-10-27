@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2012,2012-12-16,14,24.193,BAL,,DEN,L 17-34,,0.0,0,0
+2,2012,2012-12-23,15,24.200,BAL,,NYG,W 33-14,,1.0,1,0
+3,2012,2012-12-30,16,24.207,BAL,@,CIN,L 17-23,,0.0,1,1
+4,2013,2013-11-03,8,25.150,BAL,@,CLE,L 18-24,,,,

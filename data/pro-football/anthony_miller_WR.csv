@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,all_td,scoring
+1,2018,2018-09-09,1,23.335,CHI,@,GNB,L 23-24,,3,2,14,7.00,0,66.7%,4.67,0,0,,0,0,0
+2,2018,2018-09-17,2,23.343,CHI,,SEA,W 24-17,,3,2,11,5.50,1,66.7%,3.67,1,14,14.00,0,1,6
+3,2018,2018-09-23,3,23.349,CHI,@,ARI,W 16-14,*,5,4,35,8.75,0,80.0%,7.00,0,0,,0,0,0

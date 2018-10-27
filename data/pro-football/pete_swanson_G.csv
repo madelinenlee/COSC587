@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2000,2000-09-24,4,26.182,STL,@,ATL,W 41-20,
+2,2000,2000-10-01,5,26.189,STL,,SDG,W 57-31,
+3,2000,2000-10-15,6,26.203,STL,,ATL,W 45-29,

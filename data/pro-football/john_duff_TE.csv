@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1993,1994-01-02,16,26.155,RAI,,DEN,W 33-30
+2,1994,1994-09-05,1,27.036,RAI,@,SFO,L 14-44
+3,1994,1994-09-11,2,27.042,RAI,,SEA,L 9-38
+4,1994,1994-09-18,3,27.049,RAI,@,DEN,W 48-16
+5,1994,1994-09-25,4,27.056,RAI,,SDG,L 24-26

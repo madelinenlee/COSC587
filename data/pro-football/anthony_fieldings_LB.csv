@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1995,1995-09-04,1,24.059,DAL,@,NYG,W 35-0
+2,1995,1995-09-10,2,24.065,DAL,,DEN,W 31-21
+3,1995,1995-09-17,3,24.072,DAL,@,MIN,W 23-17
+4,1995,1995-09-24,4,24.079,DAL,,ARI,W 34-20

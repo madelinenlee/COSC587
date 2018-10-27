@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,all_td,scoring
+1,1960,1960-10-16,6,26.333,OAK,,BOS,W 27-14,1,10,10.00,1,0,0,,0,1,6
+2,1960,1960-10-23,7,26.340,OAK,@,BUF,L 9-38,1,17,17.00,0,1,17,17.00,0,0,0
+3,1960,1960-10-28,8,26.345,OAK,@,NYT,W 28-27,2,69,34.50,1,0,0,,0,1,6
+4,1960,1960-11-20,10,27.002,BUF,@,LAC,W 32-3,1,13,13.00,0,,,,,0,
+5,1960,1960-11-27,11,27.009,BUF,@,DEN,T 38-38,2,26,13.00,0,0,0,,0,0,0
+6,1960,1960-12-04,12,27.016,BUF,,BOS,W 38-14,1,6,6.00,0,0,0,,0,0,0

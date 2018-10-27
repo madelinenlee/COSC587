@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,safety_md,all_td,scoring,sacks,tackles_solo,tackles_assists,def_int,def_int_yds,def_int_td
+1,2017,2017-11-26,11,23.112,NWE,,MIA,W 35-17,,,0,0,1.0,4,0,0,0,0
+2,2017,2017-12-03,12,23.119,NWE,@,BUF,W 23-3,*,,0,0,1.5,2,2,1,8,0
+3,2017,2017-12-11,13,23.127,NWE,@,MIA,L 20-27,*,,0,0,0.0,2,0,0,0,0
+4,2017,2017-12-17,14,23.133,NWE,@,PIT,W 27-24,*,,0,0,0.0,1,3,0,0,0
+5,2017,2017-12-24,15,23.140,NWE,,BUF,W 37-16,*,,0,0,0.0,0,3,0,0,0
+6,2017,2017-12-31,16,23.147,NWE,,NYJ,W 26-6,*,1,0,2,1.0,1,1,0,0,0

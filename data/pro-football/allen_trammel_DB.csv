@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1966,1966-09-03,1,24.046,HOU,,DEN,W 45-7,1,17,17.00,0,3,5,1.67,0
+2,1966,1966-09-10,2,24.053,HOU,,OAK,W 31-0,1,20,20.00,0,0,0,,0
+3,1966,1966-09-18,3,24.061,HOU,@,NYJ,L 13-52,1,26,26.00,0,2,14,7.00,0

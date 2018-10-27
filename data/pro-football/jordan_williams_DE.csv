@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2015,2015-12-06,12,22.258,MIA,,BAL,W 15-13,,0.0,0,0
+2,2017,2017-11-05,8,24.227,NYG,,LAR,L 17-51,,0.0,1,1

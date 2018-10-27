@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2017,2017-12-10,13,23.270,NYG,,DAL,L 10-30,*,4,2,13,6.50,0,50.0%,3.25

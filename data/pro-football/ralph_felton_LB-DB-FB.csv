@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,def_int,def_int_yds,def_int_td
+1,1954,1954-10-10,3,22.142,WAS,,NYG,L 21-51,3,8,2.67,0,,,
+2,1961,1961-11-12,10,29.175,BUF,@,DTX,W 30-20,0,0,,0,1,15,0
+3,1961,1961-11-19,11,29.182,BUF,@,DEN,W 23-10,0,0,,0,1,0,0
+4,1962,1962-09-22,3,30.124,BUF,,NYT,L 6-17,0,0,,0,,,

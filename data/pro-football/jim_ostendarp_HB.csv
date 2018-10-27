@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1950,1950-11-12,8,27.270,NYG,,CRD,W 51-21,1,21,21.00,1
+2,1950,1950-11-19,9,27.277,NYG,@,BAL,W 55-20,14,54,3.86,1
+3,1950,1950-11-26,10,27.284,NYG,,PHI,W 7-3,3,69,23.00,0

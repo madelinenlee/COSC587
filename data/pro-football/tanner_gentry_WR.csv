@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2017,2017-09-17,2,22.273,CHI,@,TAM,L 7-29,,3,2,27,13.50,0,66.7%,9.00
+2,2017,2017-10-15,6,22.301,CHI,@,BAL,W 27-24,*,1,0,0,,0,0.0%,0.00
+3,2017,2017-10-22,7,22.308,CHI,,CAR,W 17-3,*,1,1,8,8.00,0,100.0%,8.00
+4,2017,2017-10-29,8,22.315,CHI,@,NOR,L 12-20,*,1,0,0,,0,0.0%,0.00

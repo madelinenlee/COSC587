@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1950,1950-09-24,2,26.205,WAS,@,GNB,L 21-35,3,25,8.33,0
+2,1950,1950-11-26,10,26.268,WAS,,BAL,W 38-28,4,84,21.00,2
+3,1950,1950-12-03,11,26.275,WAS,@,PIT,W 24-7,2,39,19.50,0
+4,1950,1950-12-10,12,26.282,WAS,,CLE,L 21-45,2,25,12.50,0

@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,all_td,scoring
+1,1977,1977-11-13,9,23.164,ATL,,DET,W 17-6,,,,,,,,,,,,,,
+2,1977,1977-11-20,10,23.171,ATL,@,NOR,L 20-21,,,,,,,,,,,,,,
+3,1977,1977-11-27,11,23.178,ATL,@,TAM,W 17-0,6,32,5.33,0,0,0,,0,0,0,,0,0,0
+4,1977,1977-12-04,12,23.185,ATL,,NWE,L 10-16,,,,,,,,,,,,,,
+5,1977,1977-12-11,13,23.192,ATL,@,RAM,L 7-23,,,,,,,,,,,,,,
+6,1977,1977-12-18,14,23.199,ATL,,NOR,W 35-7,7,33,4.71,0,1,27,27.00,1,1,15,15.00,0,1,6

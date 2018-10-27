@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2002,2002-09-22,3,24.010,DAL,@,PHI,L 13-44,
+2,2002,2002-10-06,5,24.024,DAL,,NYG,L 17-21,
+3,2002,2002-10-13,6,24.031,DAL,,CAR,W 14-13,
+4,2002,2002-10-20,7,24.038,DAL,@,ARI,L 6-9,

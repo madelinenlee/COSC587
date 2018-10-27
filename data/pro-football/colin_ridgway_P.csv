@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,1965,1965-11-07,8,28.261,DAL,,SFO,W 39-31,2,73,36.50,0
+2,1965,1965-11-14,9,28.268,DAL,,PIT,W 24-17,6,245,40.83,0
+3,1965,1965-11-21,10,28.275,DAL,,CLE,L 17-24,5,192,38.40,0

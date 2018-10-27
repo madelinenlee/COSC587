@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2014,2014-12-01,12,24.254,NYJ,,MIA,L 13-16,,1,24,24.00,0
+2,2014,2014-12-07,13,24.260,NYJ,@,MIN,L 24-30,,,,,
+3,2014,2014-12-14,14,24.267,NYJ,@,TEN,W 16-11,,,,,
+4,2014,2014-12-21,15,24.274,NYJ,,NWE,L 16-17,,,,,
+5,2014,2014-12-28,16,24.281,NYJ,@,MIA,W 37-24,,,,,

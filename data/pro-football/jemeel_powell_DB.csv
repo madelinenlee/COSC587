@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2003,2003-09-15,2,23.017,DAL,@,NYG,W 35-32,
+2,2003,2003-09-28,3,23.030,DAL,@,NYJ,W 17-6,
+3,2003,2003-10-05,4,23.037,DAL,,ARI,W 24-7,

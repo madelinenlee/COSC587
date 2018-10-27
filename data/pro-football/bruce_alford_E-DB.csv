@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1950,1950-10-12,5,29.030,NYY,,SFO,W 29-24,1,14,14.00,0
+2,1951,1951-10-08,2,30.026,NYY,@,DET,L 10-37,1,5,5.00,0
+3,1951,1951-10-28,5,30.046,NYY,,GNB,L 27-29,1,59,59.00,0

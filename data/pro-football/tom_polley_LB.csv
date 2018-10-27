@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1985,1985-10-06,5,23.231,PHI,@,NOR,L 21-23
+2,1985,1985-10-13,6,23.238,PHI,,STL,W 30-7
+3,1987,1987-10-04,3,25.229,CLE,@,NWE,W 20-10
+4,1987,1987-10-11,4,25.236,CLE,,HOU,L 10-15

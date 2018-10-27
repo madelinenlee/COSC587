@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2003,2003-10-12,6,25.156,JAX,,MIA,L 10-24,
+2,2003,2003-10-26,7,25.170,JAX,,TEN,L 17-30,
+3,2003,2003-11-02,8,25.177,JAX,@,BAL,L 17-24,
+4,2003,2003-11-09,9,25.184,JAX,,IND,W 28-23,

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1972,1972-09-17,1,23.360,STL,@,BAL,W 10-3
+2,1972,1972-09-24,2,24.001,STL,@,WAS,L 10-24
+3,1972,1972-10-01,3,24.008,STL,,PIT,L 19-25
+4,1972,1972-10-08,4,24.015,STL,@,MIN,W 19-17

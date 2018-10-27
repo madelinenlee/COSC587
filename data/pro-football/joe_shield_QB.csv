@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1986,1986-12-07,14,24.164,GNB,,MIN,L 6-32
+2,1986,1986-12-14,15,24.171,GNB,@,TAM,W 21-7
+3,1986,1986-12-20,16,24.177,GNB,@,NYG,L 24-55

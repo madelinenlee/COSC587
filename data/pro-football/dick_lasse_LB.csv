@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1960,1960-10-09,2,24.331,WAS,,DAL,W 26-14,1,0,0
+2,1960,1960-10-16,3,24.338,WAS,@,NYG,T 24-24,1,17,0
+3,1960,1960-11-20,8,25.007,WAS,,STL,L 14-26,1,0,0

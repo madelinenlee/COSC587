@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,all_td,scoring,sacks,tackles_solo,tackles_assists
+1,2013,2013-11-24,11,24.093,OAK,,TEN,L 19-23,,,,,,,,,,,,,,
+2,2013,2013-11-28,12,24.097,OAK,@,DAL,L 24-31,,0,0,,0,4,42,10.50,0,0,6,0.0,0,0
+3,2013,2013-12-08,13,24.107,OAK,@,NYJ,L 27-37,,3,58,19.33,0,0,0,,0,0,0,0.0,0,0
+4,2013,2013-12-15,14,24.114,OAK,,KAN,L 31-56,,1,23,23.00,0,1,6,6.00,0,0,0,0.0,0,0
+5,2013,2013-12-22,15,24.121,OAK,@,SDG,L 13-26,,6,140,23.33,0,0,0,,0,0,0,0.0,1,0
+6,2013,2013-12-29,16,24.128,OAK,,DEN,L 14-34,,,,,,,,,,,,,,

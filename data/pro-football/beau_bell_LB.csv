@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2008,2008-09-21,3,22.118,CLE,@,BAL,L 10-28,
+2,2008,2008-10-13,5,22.140,CLE,,NYG,W 35-14,
+3,2008,2008-10-26,7,22.153,CLE,@,JAX,W 23-17,
+4,2008,2008-11-23,11,22.181,CLE,,HOU,L 6-16,
+5,2008,2008-11-30,12,22.188,CLE,,IND,L 6-10,

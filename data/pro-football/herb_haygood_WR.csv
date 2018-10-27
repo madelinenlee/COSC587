@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2002,2002-11-17,10,24.322,DEN,@,SEA,W 31-9,
+2,2002,2002-12-01,12,24.336,DEN,@,SDG,L 27-30,
+3,2002,2002-12-08,13,24.343,DEN,@,NYJ,L 13-19,
+4,2002,2002-12-29,16,24.364,DEN,,ARI,W 37-7,

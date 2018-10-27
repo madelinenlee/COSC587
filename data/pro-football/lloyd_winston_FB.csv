@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,all_td,scoring
+1,1962,1962-12-09,13,23.078,SFO,,GNB,L 21-31,0,0,,0,0,0,,0,1,18,18.00,0,0,0
+2,1962,1962-12-15,14,23.084,SFO,,CLE,L 10-13,1,-15,-15.00,0,1,2,2.00,0,2,49,24.50,0,0,0
+3,1963,1963-09-15,1,23.358,SFO,,MIN,L 20-24,10,81,8.10,0,1,3,3.00,0,0,0,,0,0,0
+4,1963,1963-09-22,2,24.000,SFO,,BAL,L 14-20,11,40,3.64,0,0,0,,0,0,0,,0,0,0
+5,1963,1963-09-29,3,24.007,SFO,@,MIN,L 14-45,5,9,1.80,1,1,10,10.00,0,0,0,,0,1,6
+6,1963,1963-10-06,4,24.014,SFO,@,DET,L 3-26,1,-3,-3.00,0,0,0,,0,0,0,,0,0,0

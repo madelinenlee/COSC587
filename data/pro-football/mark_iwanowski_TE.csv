@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1978,1978-11-19,12,23.072,NYJ,,NWE,L 17-19
+2,1978,1978-11-26,13,23.079,NYJ,@,MIA,W 24-13
+3,1978,1978-12-03,14,23.086,NYJ,,BAL,W 24-16
+4,1978,1978-12-10,15,23.093,NYJ,@,CLE,L 34-37
+5,1978,1978-12-17,16,23.100,NYJ,,DAL,L 7-30

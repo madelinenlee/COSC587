@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1956,1956-10-14,3,23.180,RAM,@,DET,L 21-24,2,21,10.50,0
+2,1956,1956-11-04,6,23.201,RAM,,CHI,L 24-35,3,34,11.33,0
+3,1956,1956-11-11,7,23.208,RAM,,SFO,W 30-6,1,9,9.00,0
+4,1956,1956-11-18,8,23.215,RAM,@,CHI,L 21-30,5,65,13.00,0

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2008,2008-12-07,13,24.092,CIN,@,IND,L 3-35,,3,4,1.33,0,0,0,0,,0,0.0%,,0,0,,0
+2,2008,2008-12-14,14,24.099,CIN,,WAS,W 20-13,,,,,,,,,,,0.0%,,,,,
+3,2008,2008-12-21,15,24.106,CIN,@,CLE,W 14-0,,3,10,3.33,0,3,3,27,9.00,0,100.0%,9.00,1,13,13.00,0
+4,2008,2008-12-28,16,24.113,CIN,,KAN,W 16-6,,3,15,5.00,0,4,3,20,6.67,0,75.0%,5.00,0,0,,0

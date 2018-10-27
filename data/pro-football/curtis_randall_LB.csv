@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2004,2004-11-21,10,25.107,SEA,,MIA,W 24-17,
+2,2004,2004-11-28,11,25.114,SEA,,BUF,L 9-38,
+3,2004,2004-12-06,12,25.122,SEA,,DAL,L 39-43,
+4,2004,2004-12-12,13,25.128,SEA,@,MIN,W 27-23,

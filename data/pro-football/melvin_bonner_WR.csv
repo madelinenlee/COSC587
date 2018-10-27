@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1993,1993-12-05,12,23.290,DEN,@,SDG,L 10-13
+2,1993,1993-12-12,13,23.297,DEN,,KAN,W 27-21
+3,1993,1993-12-26,15,23.311,DEN,,TAM,L 10-17

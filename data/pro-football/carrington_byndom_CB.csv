@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2014,2014-12-07,13,22.153,CAR,@,NOR,W 41-10,,,,
+2,2014,2014-12-14,14,22.160,CAR,,TAM,W 19-17,,,,
+3,2014,2014-12-28,16,22.174,CAR,@,ATL,W 34-3,,0.0,1,0

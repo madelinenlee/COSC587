@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1982,1982-09-12,1,23.311,BAL,,NWE,L 13-24,0,0,,0
+2,1982,1982-11-28,4,24.023,BAL,@,BUF,L 0-20,0,0,,0
+3,1982,1982-12-05,5,24.030,BAL,,CIN,L 17-20,2,36,18.00,0

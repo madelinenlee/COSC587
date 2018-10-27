@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1994,1994-11-28,12,23.161,NOR,,SFO,L 14-35
+2,1994,1994-12-04,13,23.167,NOR,@,RAM,W 31-15
+3,1994,1994-12-19,15,23.182,NOR,,DAL,L 16-24
+4,1994,1994-12-24,16,23.187,NOR,@,DEN,W 30-28

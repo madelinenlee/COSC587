@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1981,1981-09-20,3,23.082,DET,@,MIN,L 24-26
+2,1981,1981-09-27,4,23.089,DET,,OAK,W 16-0
+3,1981,1981-10-04,5,23.096,DET,@,TAM,L 10-28
+4,1981,1981-10-11,6,23.103,DET,@,DEN,L 21-27

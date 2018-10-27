@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,all_td,scoring,def_int,def_int_yds,def_int_td
+1,1960,1960-09-25,3,23.363,HOU,,OAK,L 13-14,1,13,13.00,0,0,0,1,0,0
+2,1960,1960-10-16,5,24.018,HOU,,DTX,W 20-10,2,18,9.00,0,0,0,0,0,0
+3,1960,1960-12-18,14,24.081,HOU,,BOS,W 37-21,1,3,3.00,1,1,6,0,0,0

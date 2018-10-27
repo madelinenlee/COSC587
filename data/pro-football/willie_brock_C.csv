@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1978,1978-09-17,3,22.362,DET,,CHI,L 0-19
+2,1978,1978-09-24,4,23.004,DET,@,SEA,L 16-28
+3,1978,1978-10-01,5,23.011,DET,@,GNB,L 14-35
+4,1978,1978-10-08,6,23.018,DET,,WAS,L 19-21

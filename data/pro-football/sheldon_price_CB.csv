@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2015,2015-09-13,1,24.171,IND,@,BUF,L 14-27,,0.0,0,0
+2,2015,2015-09-21,2,24.179,IND,,NYJ,L 7-20,,0.0,1,0
+3,2016,2016-09-11,1,25.169,BAL,,BUF,W 13-7,,0.0,0,0
+4,2016,2016-09-18,2,25.176,BAL,@,CLE,W 25-20,,0.0,0,0
+5,2016,2016-09-25,3,25.183,BAL,@,JAX,W 19-17,,0.0,0,0
+6,2016,2016-10-09,5,25.197,BAL,,WAS,L 10-16,*,0.0,0,0

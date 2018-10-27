@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,2012,2012-11-12,9,23.337,PIT,,KAN,W 16-13,,0,0,,0,2,8,4.00,0
+2,2012,2012-11-18,10,23.343,PIT,,BAL,L 10-13,,1,7,7.00,0,0,0,,0
+3,2012,2012-11-25,11,23.350,PIT,@,CLE,L 14-20,,0,0,,0,0,0,,0

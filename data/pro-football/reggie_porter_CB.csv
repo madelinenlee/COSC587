@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2017,2017-10-01,4,23.080,CLE,,CIN,L 7-31,
+2,2017,2017-10-08,5,23.087,CLE,,NYJ,L 14-17,
+3,2017,2017-10-29,8,23.108,CLE,,MIN,L 16-33,

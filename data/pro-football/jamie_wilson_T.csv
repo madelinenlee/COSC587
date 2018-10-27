@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,1999,1999-09-26,3,26.112,IND,@,SDG,W 27-19,
+2,1999,1999-10-17,5,26.133,IND,@,NYJ,W 16-13,
+3,1999,1999-10-24,6,26.140,IND,,CIN,W 31-10,
+4,1999,1999-11-07,8,26.154,IND,,KAN,W 25-17,
+5,1999,1999-11-21,10,26.168,IND,@,PHI,W 44-17,

@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td,two_pt_md,all_td,scoring
+1,2018,2018-09-20,3,23.159,CLE,,NYJ,W 21-17,,17,23,73.91,201,0,0,100.1,1,8,8.74,8.74,2,-2,-1.00,0,1,0,2

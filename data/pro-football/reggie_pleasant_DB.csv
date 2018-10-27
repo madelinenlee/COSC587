@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1985,1985-09-22,3,23.143,ATL,,DEN,L 28-44
+2,1985,1985-09-29,4,23.150,ATL,@,RAM,L 6-17
+3,1985,1985-10-06,5,23.157,ATL,,SFO,L 17-38

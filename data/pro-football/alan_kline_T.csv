@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1995,1995-10-29,8,24.157,NOR,@,SFO,W 11-7
+2,1995,1995-11-05,9,24.164,NOR,,STL,W 19-10
+3,1995,1995-12-24,16,24.213,NOR,@,NYJ,W 12-0

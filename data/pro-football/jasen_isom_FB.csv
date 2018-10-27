@@ -1,0 +1,8 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2003,2003-12-21,15,26.348,SFO,@,PHI,W 31-28,,,,,,,,,,,0.0%,
+2,2003,2003-12-27,16,26.354,SFO,,SEA,L 17-24,,,,,,,,,,,0.0%,
+3,2004,2004-09-12,1,27.249,SFO,,ATL,L 19-21,*,0,0,,0,2,1,1,1.00,0,50.0%,0.50
+4,2004,2004-09-19,2,27.256,SFO,@,NOR,L 27-30,,,,,,0,,,,,0.0%,
+5,2004,2004-09-26,3,27.263,SFO,@,SEA,L 0-34,,1,0,0.00,0,0,0,0,,0,0.0%,
+6,2004,2004-10-03,4,27.270,SFO,,STL,L 14-24,,,,,,,,,,,0.0%,
+7,2004,2004-10-10,5,27.277,SFO,,ARI,W 31-28,,,,,,,,,,,0.0%,

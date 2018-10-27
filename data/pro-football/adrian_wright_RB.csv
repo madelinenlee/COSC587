@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,all_td,scoring
+1,1987,1987-10-04,3,25.356,TAM,@,DET,W 31-27,21,67,3.19,0,4,29,7.25,1,1,17,17.00,0,1,6
+2,1987,1987-10-11,4,25.363,TAM,,SDG,L 13-17,11,26,2.36,0,2,18,9.00,0,0,0,,0,0,0
+3,1987,1987-10-18,5,26.005,TAM,,MIN,W 20-10,5,19,3.80,0,7,51,7.29,0,0,0,,0,0,0

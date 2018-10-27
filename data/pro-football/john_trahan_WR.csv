@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1987,1987-10-04,3,26.168,KAN,@,RAI,L 17-35,0,0,,0
+2,1987,1987-10-11,4,26.175,KAN,@,MIA,L 0-42,2,15,7.50,0
+3,1987,1987-10-18,5,26.182,KAN,,DEN,L 17-26,2,25,12.50,0

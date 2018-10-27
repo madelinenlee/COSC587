@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1987,1987-10-04,3,23.095,CHI,@,PHI,W 35-3,2,21,10.50,0
+2,1987,1987-10-11,4,23.102,CHI,,MIN,W 27-7,4,2,0.50,0
+3,1987,1987-10-18,5,23.109,CHI,,NOR,L 17-19,0,0,,0

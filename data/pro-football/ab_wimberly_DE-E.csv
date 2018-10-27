@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1950,1950-10-08,4,24.157,GNB,,NYY,L 31-44,1,10,10.00,0
+2,1950,1950-11-05,7,24.185,GNB,@,BAL,L 21-41,1,8,8.00,0
+3,1951,1951-09-30,1,25.149,GNB,,CHI,L 20-31,1,10,10.00,0

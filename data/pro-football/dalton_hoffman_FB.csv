@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,all_td,scoring
+1,1964,1964-11-15,10,22.328,HOU,@,OAK,L 10-20,0,0,,0,1,1,1.00,0,0,0,,0,0,0
+2,1964,1964-11-22,11,22.335,HOU,,KAN,L 19-28,0,0,,0,0,0,,0,1,30,30.00,0,0,0
+3,1964,1964-12-20,14,22.363,HOU,,DEN,W 34-15,2,3,1.50,1,0,0,,0,1,22,22.00,0,1,6
+4,1965,1965-09-19,2,23.270,HOU,,BOS,W 31-10,1,11,11.00,0,0,0,,0,0,0,,0,0,0

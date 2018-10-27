@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att
+1,1953,1953-10-18,4,26.066,BAL,@,GNB,L 14-37,,2,4,50.00,18,0,0,62.5,0,0,4.50,4.50

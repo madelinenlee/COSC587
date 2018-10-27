@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1968,1968-09-21,2,23.345,MIA,,OAK,L 21-47,,3,8,37.50,46,0,1,17.7,0,0,5.75,0.13,0,0,,0
+2,1968,1968-12-08,13,24.057,MIA,,BOS,W 38-7,,1,1,100.00,4,0,0,83.3,0,0,4.00,4.00,0,0,,0
+3,1968,1968-12-15,14,24.064,MIA,,NYJ,L 7-31,,9,17,52.94,66,0,1,37.9,0,0,3.88,1.24,1,0,0.00,0
+4,1969,1969-12-07,13,25.056,BOS,@,SDG,L 18-28,,2,6,33.33,31,0,0,51.4,0,0,5.17,5.17,0,0,,0

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,2018,2018-09-09,1,23.275,HOU,@,NWE,L 20-27,,6,230,38.33,0
+2,2018,2018-09-16,2,23.282,HOU,@,TEN,L 17-20,,4,164,41.00,0
+3,2018,2018-09-23,3,23.289,HOU,,NYG,L 22-27,,3,155,51.67,0

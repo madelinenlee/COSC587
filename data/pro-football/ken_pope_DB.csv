@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1974,1974-11-24,11,22.331,NWE,@,BAL,W 27-17
+2,1974,1974-12-01,12,22.338,NWE,@,OAK,L 26-41
+3,1974,1974-12-08,13,22.345,NWE,,PIT,L 17-21
+4,1974,1974-12-15,14,22.352,NWE,@,MIA,L 27-34

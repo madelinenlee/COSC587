@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring
+1,2000,2000-11-12,10,24.105,STL,@,NYG,W 38-24,,4,4,100.0,1,2,50.0,0,7
+2,2000,2000-11-20,11,24.113,STL,,WAS,L 20-33,,2,2,100.0,2,2,100.0,0,8
+3,2000,2000-11-26,12,24.119,STL,,NOR,L 24-31,,3,3,100.0,1,1,100.0,0,6

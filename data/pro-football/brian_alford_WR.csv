@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,all_td,scoring
+1,1998,1998-12-20,15,23.196,NYG,,KAN,W 28-7,,5,1,11,11.00,0,20.0%,2.20,0,0
+2,1998,1998-12-27,16,23.203,NYG,@,PHI,W 20-10,,1,,,,,0.0%,,,
+3,1999,1999-12-19,14,24.195,NYG,@,STL,L 10-31,,1,,,,,0.0%,,,
+4,1999,2000-01-02,16,24.209,NYG,@,DAL,L 18-26,,4,1,7,7.00,1,25.0%,1.75,1,6

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1980,1980-11-30,13,25.191,STL,@,NYG,W 23-7,,,,
+2,1980,1980-12-07,14,25.198,STL,,DET,W 24-23,,,,
+3,1980,1980-12-14,15,25.205,STL,@,PHI,L 3-17,2,19,9.50,0
+4,1980,1980-12-21,16,25.212,STL,,WAS,L 7-31,,,,

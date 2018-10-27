@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,2018,2018-09-06,1,26.194,PHI,,ATL,W 18-12,,6,313,52.17,0
+2,2018,2018-09-16,2,26.204,PHI,@,TAM,L 21-27,,5,280,56.00,0
+3,2018,2018-09-23,3,26.211,PHI,,IND,W 20-16,,3,128,42.67,0

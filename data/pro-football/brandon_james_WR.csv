@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,2010,2010-11-14,9,22.328,IND,,CIN,W 23-17,,8,4,36,9.00,0,50.0%,4.50,0,0,,0,2,5,2.50,0
+2,2010,2010-11-21,10,22.335,IND,@,NWE,L 28-31,,0,0,0,,0,0.0%,,5,79,15.80,0,2,1,0.50,0
+3,2010,2010-11-28,11,22.342,IND,,SDG,L 14-36,,3,2,4,2.00,0,66.7%,1.33,9,150,16.67,0,3,29,9.67,0

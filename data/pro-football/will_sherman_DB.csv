@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,def_int,def_int_yds,def_int_td
+1,1960,1960-10-23,5,33.003,RAM,,CHI,T 24-24,,,,,1,1,1.00,0,,,
+2,1960,1960-11-20,9,33.031,RAM,@,GNB,W 33-31,0,0,,0,0,0,,0,1,0,0
+3,1961,1961-11-05,8,34.016,MIN,@,RAM,L 17-31,2,40,20.00,0,0,0,,0,0,0,0

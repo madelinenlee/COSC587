@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,def_int,def_int_yds,def_int_td
+1,1969,1969-10-26,7,22.239,DEN,@,HOU,L 21-24,0,0,,0,1,1,0
+2,1969,1969-11-23,11,22.267,DEN,@,SDG,L 24-45,0,0,,0,1,29,0
+3,1970,1970-11-30,11,23.274,ATL,,MIA,L 7-20,,,,,,,
+4,1970,1970-12-06,12,23.280,ATL,@,SFO,L 20-24,,,,,,,
+5,1970,1970-12-13,13,23.287,ATL,,PIT,W 27-16,,,,,,,
+6,1970,1970-12-20,14,23.294,ATL,,MIN,L 7-37,3,61,20.33,0,0,0,0

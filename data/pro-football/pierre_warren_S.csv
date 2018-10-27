@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists,def_int,def_int_yds,def_int_td
+1,2014,2014-11-24,11,22.100,NOR,,BAL,L 27-34,*,0.0,5,2,0,0,0
+2,2014,2014-11-30,12,22.106,NOR,@,PIT,W 35-32,*,0.0,4,3,0,0,0
+3,2014,2014-12-07,13,22.113,NOR,,CAR,L 10-41,*,0.0,6,2,0,0,0
+4,2014,2014-12-15,14,22.121,NOR,@,CHI,W 31-15,*,0.0,2,0,2,53,0
+5,2014,2014-12-21,15,22.127,NOR,,ATL,L 14-30,*,0.0,2,1,0,0,0
+6,2014,2014-12-28,16,22.134,NOR,@,TAM,W 23-20,*,0.0,2,1,0,0,0

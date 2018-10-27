@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1960,1960-11-13,7,25.125,NYG,,PIT,W 27-24,1,3,3.00,0,0,0,,0
+2,1967,1967-11-12,9,32.124,NYG,@,CHI,L 7-34,0,0,,0,0,1,,1

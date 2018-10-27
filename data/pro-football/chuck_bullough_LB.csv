@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1993,1993-10-10,5,24.221,MIA,@,CLE,W 24-14
+2,1993,1993-10-24,6,24.235,MIA,,IND,W 41-27
+3,1993,1993-10-31,7,24.242,MIA,,KAN,W 30-10
+4,1994,1994-09-04,1,25.185,MIA,,NWE,W 39-35

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2000,2000-09-03,1,22.292,NOR,,DET,L 10-14,
+2,2000,2000-09-10,2,22.299,NOR,@,SDG,W 28-27,
+3,2000,2000-09-17,3,22.306,NOR,@,SEA,L 10-20,
+4,2000,2000-09-24,4,22.313,NOR,,PHI,L 7-21,

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1980,1980-12-07,14,22.320,NYJ,@,CLE,L 14-17
+2,1980,1980-12-14,15,22.327,NYJ,,NOR,L 20-21
+3,1980,1980-12-20,16,22.333,NYJ,@,MIA,W 24-17
+4,1981,1981-12-20,16,23.332,STL,@,PHI,L 0-38

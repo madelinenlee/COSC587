@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1987,1987-10-04,3,26.029,DET,,TAM,L 27-31,*,10,26,38.46,201,2,3,52.4,5,40,7.73,4.08,1,11,11.00,0
+2,1987,1987-10-11,4,26.036,DET,@,GNB,W 19-16,*,19,39,48.72,224,1,0,75.2,1,4,5.74,6.26,3,38,12.67,0
+3,1987,1987-10-18,5,26.043,DET,,SEA,L 14-37,*,14,27,51.85,127,2,2,58.7,3,23,4.70,2.85,1,0,0.00,0

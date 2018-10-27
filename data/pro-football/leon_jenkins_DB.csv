@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1972,1972-09-17,1,22.022,DET,,NYG,W 30-16
+2,1972,1972-09-24,2,22.029,DET,,MIN,L 10-34
+3,1972,1972-10-01,3,22.036,DET,@,CHI,W 38-24
+4,1972,1972-10-08,4,22.043,DET,@,ATL,W 26-23

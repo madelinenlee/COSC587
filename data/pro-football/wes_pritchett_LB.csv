@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1991,1991-09-01,1,25.056,ATL,@,KAN,L 3-14
+2,1991,1991-09-29,5,25.084,ATL,,NOR,L 6-27
+3,1991,1991-10-13,6,25.098,ATL,@,SFO,W 39-34

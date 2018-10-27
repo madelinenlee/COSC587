@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2013,2013-12-29,16,23.102,HOU,@,TEN,L 10-16,,4,8,2.00,0,3,1,12,12.00,0,33.3%,4.00

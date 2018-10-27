@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,1966,1966-09-18,3,24.007,MIA,@,BUF,L 24-58,9,18,2.00,0,0,0,,0,0,0,,0
+2,1966,1966-10-02,4,24.021,MIA,@,SDG,L 10-44,2,24,12.00,0,1,4,4.00,0,0,0,,0
+3,1966,1966-10-09,5,24.028,MIA,@,OAK,L 10-21,2,20,10.00,0,0,0,,0,0,0,,0
+4,1966,1966-10-23,7,24.042,MIA,@,HOU,W 20-13,2,4,2.00,0,0,0,,0,0,0,,0
+5,1966,1966-11-20,10,24.070,MIA,@,NYJ,L 13-30,1,8,8.00,0,0,0,,0,7,233,33.29,0
+6,1967,1967-12-17,13,25.097,MIA,,BOS,W 41-32,2,3,1.50,0,0,0,,0,0,0,,0

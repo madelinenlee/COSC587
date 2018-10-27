@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1971,1971-11-14,9,22.102,CLE,@,KAN,L 7-13,2,30,15.00,0
+2,1971,1971-11-21,10,22.109,CLE,,NWE,W 27-7,1,27,27.00,0
+3,1971,1971-11-28,11,22.116,CLE,@,HOU,W 37-24,1,32,32.00,0
+4,1971,1971-12-05,12,22.123,CLE,,CIN,W 31-27,1,24,24.00,0
+5,1971,1971-12-12,13,22.130,CLE,@,NOR,W 21-17,2,44,22.00,0
+6,1971,1971-12-19,14,22.137,CLE,@,WAS,W 20-13,,,,

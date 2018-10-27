@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2001,2001-09-23,2,22.006,JAX,,TEN,W 13-6,
+2,2001,2001-09-30,3,22.013,JAX,,CLE,L 14-23,
+3,2001,2001-10-07,4,22.020,JAX,@,SEA,L 15-24,
+4,2001,2001-10-28,6,22.041,JAX,@,BAL,L 17-18,
+5,2001,2001-11-04,7,22.048,JAX,@,TEN,L 24-28,

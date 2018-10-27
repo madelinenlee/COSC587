@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,all_td,scoring
+1,1969,1969-12-07,13,25.017,DEN,@,MIA,L 24-27,,0,0,,0,0,0,,0,0,,,0,0,,0,1,15,15.00,0,0,0
+2,1970,1970-11-22,10,26.002,DEN,@,NOR,W 31-6,,2,5,40.00,42,0,0,70.4,0,0,8.40,8.40,1,1,1.00,0,0,0,,0,0,0
+3,1970,1970-11-29,11,26.009,DEN,@,HOU,L 21-31,,4,15,26.67,98,1,1,48.7,0,0,6.53,4.87,4,34,8.50,1,0,0,,0,1,6
+4,1970,1970-12-06,12,26.016,DEN,@,KAN,L 0-16,*,9,21,42.86,115,0,5,21.0,0,0,5.48,-5.24,1,5,5.00,0,0,0,,0,0,0
+5,1970,1970-12-13,13,26.023,DEN,,SDG,T 17-17,*,4,8,50.00,49,0,0,69.3,0,0,6.13,6.13,1,7,7.00,0,0,0,,0,0,0
+6,1970,1970-12-20,14,26.030,DEN,,CLE,L 13-27,*,10,26,38.46,116,0,3,13.1,0,0,4.46,-0.73,7,42,6.00,0,0,0,,0,0,0

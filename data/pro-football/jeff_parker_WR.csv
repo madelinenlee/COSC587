@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,1992,1992-11-08,9,23.115,TAM,,MIN,L 7-35,,0,0,,0,0.0%,
+2,1992,1992-11-15,10,23.122,TAM,,CHI,W 20-17,1,0,0,,0,0.0%,0.00
+3,1992,1992-11-22,11,23.129,TAM,@,SDG,L 14-29,3,1,12,12.00,0,33.3%,4.00

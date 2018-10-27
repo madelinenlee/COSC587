@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1989,1989-11-26,12,24.183,PHO,,TAM,L 13-14,1,15,15.00,0
+2,1989,1989-12-03,13,24.190,PHO,,WAS,L 10-29,0,0,,0
+3,1989,1989-12-10,14,24.197,PHO,@,RAI,L 14-16,0,0,,0
+4,1989,1989-12-16,15,24.203,PHO,,DEN,L 0-37,0,0,,0
+5,1989,1989-12-24,16,24.211,PHO,@,PHI,L 14-31,0,0,,0

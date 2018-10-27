@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1967,1967-10-29,8,22.138,DEN,@,KAN,L 9-52,3,82,27.33,0
+2,1967,1967-12-03,13,22.173,DEN,@,NYJ,W 33-24,1,15,15.00,0
+3,1967,1967-12-17,14,22.187,DEN,,KAN,L 24-38,2,39,19.50,0

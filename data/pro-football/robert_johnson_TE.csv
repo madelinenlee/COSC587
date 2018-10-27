@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2003,2003-11-23,11,23.156,CHI,@,DEN,W 19-10,,,,,,,0.0%,
+2,2005,2005-11-06,8,25.139,WAS,,PHI,W 17-10,,1,0,0,,0,0.0%,0.00
+3,2005,2005-11-27,11,25.160,WAS,,SDG,L 17-23,,1,1,14,14.00,0,100.0%,14.00

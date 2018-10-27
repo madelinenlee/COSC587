@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2018,2018-09-16,2,23.211,NWE,@,JAX,L 20-31,,10,34,3.40,0,2,1,7,7.00,0,50.0%,3.50,1,22,22.00,0
+2,2018,2018-09-23,3,23.218,NWE,@,DET,L 10-26,*,14,50,3.57,0,3,1,-1,-1.00,0,33.3%,-0.33,1,18,18.00,0

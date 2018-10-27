@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,1963,1963-09-14,1,22.233,DAL,,STL,L 7-34,1,2,2.00,0
+2,1963,1963-10-27,7,22.276,DAL,@,PIT,L 21-27,1,4,4.00,0
+3,1963,1963-11-10,9,22.290,DAL,@,SFO,L 24-31,1,1,1.00,0
+4,1963,1963-12-08,13,22.318,DAL,,PIT,L 19-24,2,27,13.50,0

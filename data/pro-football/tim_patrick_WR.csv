@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2018,2018-09-09,1,24.290,DEN,,SEA,W 27-24,,2,0,0,,0,0.0%,0.00
+2,2018,2018-09-16,2,24.297,DEN,,OAK,W 20-19,,2,1,26,26.00,0,50.0%,13.00
+3,2018,2018-09-23,3,24.304,DEN,@,BAL,L 14-27,,0,0,0,,0,0.0%,

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1985,1985-09-08,1,23.303,RAI,,NYJ,W 31-0
+2,1985,1985-09-29,4,23.324,RAI,@,NWE,W 35-20
+3,1985,1985-10-06,5,23.331,RAI,,KAN,W 19-10
+4,1985,1985-10-13,6,23.338,RAI,,NOR,W 23-13
+5,1987,1987-10-04,3,25.329,DEN,,HOU,L 10-40

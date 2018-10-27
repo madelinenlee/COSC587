@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1987,1987-10-04,3,26.224,CHI,@,PHI,W 35-3,*,12,22,54.55,157,3,1,97.9,0,0,7.14,7.82,5,11,2.20,0
+2,1987,1987-10-11,4,26.231,CHI,,MIN,W 27-7,*,16,30,53.33,186,1,0,83.5,3,19,6.20,6.87,4,45,11.25,0

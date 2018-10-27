@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2008,2008-11-23,11,23.083,NWE,@,MIA,W 48-28,,,,
+2,2008,2008-11-30,12,23.090,NWE,,PIT,L 10-33,,0.0,0,0
+3,2008,2008-12-14,14,23.104,NWE,@,OAK,W 49-26,,0.0,0,1
+4,2008,2008-12-21,15,23.111,NWE,,ARI,W 47-7,,0.0,0,2
+5,2008,2008-12-28,16,23.118,NWE,@,BUF,W 13-0,,0.0,0,0

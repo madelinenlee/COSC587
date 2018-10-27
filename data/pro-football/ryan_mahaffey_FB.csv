@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2011,2011-11-27,11,23.364,IND,,CAR,L 19-27,,1,1,5,5.00,0,100.0%,5.00
+2,2011,2011-12-11,13,24.013,IND,@,BAL,L 10-24,,0,0,0,,0,0.0%,
+3,2011,2011-12-18,14,24.020,IND,,TEN,W 27-13,,,,,,,0.0%,
+4,2011,2011-12-22,15,24.024,IND,,HOU,W 19-16,,,,,,,0.0%,
+5,2011,2012-01-01,16,24.034,IND,@,JAX,L 13-19,,,,,,,0.0%,

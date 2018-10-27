@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2010,2010-12-19,14,25.082,TEN,,HOU,W 31-17,,0.0,0,1
+2,2010,2010-12-26,15,25.089,TEN,@,KAN,L 14-34,,,,
+3,2010,2011-01-02,16,25.096,TEN,@,IND,L 20-23,,0.0,0,0

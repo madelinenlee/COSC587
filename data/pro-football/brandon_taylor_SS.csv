@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2012,2012-12-02,12,22.308,SDG,,CIN,L 13-20,,0.0,1,0
+2,2012,2012-12-09,13,22.315,SDG,@,PIT,W 34-24,,,,
+3,2012,2012-12-16,14,22.322,SDG,,CAR,L 7-31,,0.0,1,0
+4,2012,2012-12-23,15,22.329,SDG,@,NYJ,W 27-17,*,0.5,1,2

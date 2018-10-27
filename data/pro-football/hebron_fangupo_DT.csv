@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2012,2012-12-23,15,27.157,SEA,,SFO,W 42-13,,,,
+2,2013,2013-09-29,4,28.072,PIT,@,MIN,L 27-34,,,,
+3,2013,2013-11-24,11,28.128,PIT,@,CLE,W 27-11,,,,
+4,2013,2013-11-28,12,28.132,PIT,@,BAL,L 20-22,,,,
+5,2013,2013-12-08,13,28.142,PIT,,MIA,L 28-34,,,,
+6,2013,2013-12-15,14,28.149,PIT,,CIN,W 30-20,,0.0,0,1

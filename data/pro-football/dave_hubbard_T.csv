@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1977,1977-09-25,2,21.361,NOR,@,DET,L 19-23
+2,1977,1977-10-02,3,22.003,NOR,@,CHI,W 42-24
+3,1977,1977-11-13,9,22.045,NOR,,SFO,L 7-10
+4,1977,1977-11-20,10,22.052,NOR,,ATL,W 21-20
+5,1977,1977-12-18,14,22.080,NOR,@,ATL,L 7-35

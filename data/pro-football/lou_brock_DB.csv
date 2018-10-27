@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1987,1987-09-13,1,23.128,SDG,@,KAN,L 13-20
+2,1988,1988-09-11,2,24.126,SEA,,KAN,W 31-10
+3,1988,1988-10-02,5,24.147,DET,@,SFO,L 13-20
+4,1988,1988-10-09,6,24.154,DET,,CHI,L 7-24

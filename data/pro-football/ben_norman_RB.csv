@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1980,1980-11-16,11,24.336,DEN,,NYJ,W 31-24
+2,1980,1980-11-23,12,24.343,DEN,,SEA,W 36-20
+3,1980,1980-12-01,13,24.351,DEN,@,OAK,L 3-9

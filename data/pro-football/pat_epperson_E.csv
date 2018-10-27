@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1960,1960-11-06,8,25.003,DEN,,HOU,L 25-45,3,28,9.33,0
+2,1960,1960-11-20,10,25.017,DEN,@,HOU,L 10-20,5,47,9.40,0
+3,1960,1960-12-17,14,25.044,DEN,@,OAK,L 10-48,3,24,8.00,0

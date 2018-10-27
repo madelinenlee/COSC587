@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2017,2017-12-31,16,22.105,KAN,@,DEN,W 27-24,*,22,35,62.86,284,0,1,76.4,2,15,8.11,6.83,7,10,1.43,0
+2,2018,2018-09-09,1,22.357,KAN,@,LAC,W 38-28,*,15,27,55.56,256,4,0,127.5,1,0,9.48,12.44,5,21,4.20,0
+3,2018,2018-09-16,2,22.364,KAN,@,PIT,W 42-37,*,23,28,82.14,326,6,0,154.8,1,4,11.64,15.93,5,18,3.60,0
+4,2018,2018-09-23,3,23.006,KAN,,SFO,W 38-27,*,24,38,63.16,314,3,0,115.5,2,7,8.26,9.84,5,7,1.40,0

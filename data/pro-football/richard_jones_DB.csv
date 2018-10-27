@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1996,1996-09-01,1,23.028,IND,,ARI,W 20-13
+2,1996,1996-12-05,14,23.123,IND,,PHI,W 37-10
+3,1996,1996-12-15,15,23.133,IND,@,KAN,W 24-19
+4,1996,1996-12-22,16,23.140,IND,@,CIN,L 24-31

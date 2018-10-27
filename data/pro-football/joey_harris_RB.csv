@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2004,2004-10-17,5,23.304,CAR,@,PHI,L 8-30,,,,,
+2,2004,2004-10-24,6,23.311,CAR,,SDG,L 6-17,,2,6,3.00,0
+3,2004,2004-10-31,7,23.318,CAR,@,SEA,L 17-23,,9,45,5.00,0
+4,2004,2004-11-07,8,23.325,CAR,,OAK,L 24-27,,4,2,0.50,0

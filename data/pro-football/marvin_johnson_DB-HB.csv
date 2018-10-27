@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1951,1951-11-11,7,24.212,RAM,,CRD,W 45-21,1,28,28.00,0
+2,1951,1951-11-25,9,24.226,RAM,@,WAS,L 21-31,1,10,10.00,0

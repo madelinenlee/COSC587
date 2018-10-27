@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1975,1975-09-28,2,22.119,CIN,@,NOR,W 21-0,,,,,,,,
+2,1975,1975-10-26,6,22.147,CIN,@,ATL,W 21-14,,,,,,,,
+3,1975,1975-11-09,8,22.161,CIN,@,DEN,W 17-16,,,,,,,,
+4,1975,1975-12-07,12,22.189,CIN,@,PHI,W 31-0,7,26,3.71,0,0,0,,0
+5,1975,1975-12-13,13,22.195,CIN,@,PIT,L 14-35,,,,,,,,
+6,1975,1975-12-21,14,22.203,CIN,,SDG,W 47-17,4,12,3.00,0,1,-2,-2.00,0

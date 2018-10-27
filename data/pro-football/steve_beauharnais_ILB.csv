@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2013,2013-10-20,7,23.171,NWE,@,NYJ,L 27-30,,,,
+2,2013,2013-12-22,15,23.234,NWE,@,BAL,W 41-7,,0.0,0,1
+3,2014,2014-11-30,12,24.212,WAS,@,IND,L 27-49,,0.0,1,2
+4,2014,2014-12-07,13,24.219,WAS,,STL,L 0-24,,0.0,1,0
+5,2014,2014-12-20,15,24.232,WAS,,PHI,W 27-24,,,,

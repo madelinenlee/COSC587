@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2009,2009-11-29,11,23.228,STL,,SEA,L 17-27,
+2,2009,2009-12-20,14,23.249,STL,,HOU,L 13-16,
+3,2009,2009-12-27,15,23.256,STL,@,ARI,L 10-31,
+4,2009,2010-01-03,16,23.263,STL,,SFO,L 6-28,

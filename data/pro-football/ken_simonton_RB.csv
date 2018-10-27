@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,2003,2003-09-28,4,24.113,BUF,,PHI,L 13-23,,2,4,2.00,0
+2,2003,2003-10-12,6,24.127,BUF,@,NYJ,L 3-30,,,,,

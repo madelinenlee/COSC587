@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,1999,1999-11-21,10,23.356,IND,@,PHI,W 44-17,
+2,2000,2000-09-03,1,24.278,IND,@,KAN,W 27-14,
+3,2000,2000-09-10,2,24.285,IND,,OAK,L 31-38,
+4,2000,2000-09-25,3,24.300,IND,,JAX,W 43-14,

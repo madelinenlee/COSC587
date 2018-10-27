@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,sacks
+1,1987,1987-10-04,3,24.270,PHI,,CHI,L 3-35,
+2,1987,1987-10-11,4,24.277,PHI,@,DAL,L 22-41,
+3,1987,1987-10-18,5,24.284,PHI,@,GNB,L 10-16,2.5

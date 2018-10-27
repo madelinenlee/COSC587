@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att
+1,2017,2017-09-10,1,24.232,DET,,ARI,W 35-23,,0,0,,0,0,0,,0,0,,
+2,2017,2017-11-23,11,24.306,DET,,MIN,L 23-30,,0,0,,0,0,0,,0,0,,
+3,2017,2017-12-03,12,24.316,DET,@,BAL,L 20-44,,3,5,60.00,24,0,1,32.5,0,0,4.80,-4.20

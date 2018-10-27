@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1950,1950-10-15,5,24.308,CHI,,GNB,W 28-14,4,58,14.50,1,2,15,7.50,0
+2,1950,1950-11-26,10,24.350,CHI,,RAM,W 24-14,1,-4,-4.00,0,0,0,,0
+3,1951,1951-11-22,9,25.346,GNB,@,DET,L 35-52,0,0,,0,1,15,15.00,0

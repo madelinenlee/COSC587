@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1953,1953-11-01,6,24.246,DET,@,RAM,L 24-37,0,0,,0,1,11,11.00,0
+2,1953,1953-11-22,9,24.267,DET,@,CHI,W 20-16,3,12,4.00,0,0,0,,0
+3,1953,1953-11-26,10,24.271,DET,,GNB,W 34-15,3,39,13.00,0,0,0,,0
+4,1954,1954-10-16,3,25.230,DET,,BAL,W 35-0,2,1,0.50,0,0,0,,0
+5,1954,1954-11-14,7,25.259,DET,,SFO,W 48-7,1,0,0.00,0,0,0,,0

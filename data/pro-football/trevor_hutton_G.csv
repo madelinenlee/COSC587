@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2004,2004-11-21,10,24.267,IND,@,CHI,W 41-10,
+2,2004,2004-11-25,11,24.271,IND,@,DET,W 41-9,
+3,2004,2004-12-05,12,24.281,IND,,TEN,W 51-24,
+4,2004,2005-01-02,16,24.309,IND,@,DEN,L 14-33,

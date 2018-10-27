@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,1999,1999-09-12,1,25.090,GNB,,OAK,W 28-24,
+2,1999,1999-11-29,11,25.168,GNB,@,SFO,W 20-3,
+3,1999,1999-12-05,12,25.174,GNB,@,CHI,W 35-19,
+4,1999,1999-12-12,13,25.181,GNB,,CAR,L 31-33,
+5,1999,1999-12-20,14,25.189,GNB,@,MIN,L 20-24,

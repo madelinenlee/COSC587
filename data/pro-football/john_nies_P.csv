@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,1990,1990-09-09,1,23.208,BUF,,IND,W 26-10,0,0,,
+2,1990,1990-09-16,2,23.215,BUF,@,MIA,L 7-30,5,174,34.80,0
+3,1990,1990-09-24,3,23.223,BUF,@,NYJ,W 30-7,0,0,,
+4,1990,1990-09-30,4,23.229,BUF,,DEN,W 29-28,0,0,,

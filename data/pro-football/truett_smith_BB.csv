@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1951,1951-11-11,7,27.239,PIT,,GNB,W 28-7,2,43,21.50,0,0,0,,0
+2,1951,1951-12-09,11,27.267,PIT,,CLE,L 0-28,1,16,16.00,0,0,0,,0
+3,1951,1951-12-16,12,27.274,PIT,@,WAS,W 20-10,0,0,,0,1,1,1.00,0

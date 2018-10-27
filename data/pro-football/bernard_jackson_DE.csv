@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2002,2002-12-08,13,22.212,WAS,,NYG,L 21-27,
+2,2002,2002-12-15,14,22.219,WAS,@,PHI,L 21-34,
+3,2002,2002-12-22,15,22.226,WAS,,HOU,W 26-10,
+4,2002,2002-12-29,16,22.233,WAS,,DAL,W 20-14,

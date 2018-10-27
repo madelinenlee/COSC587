@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2010,2010-12-05,12,22.220,DAL,@,IND,W 38-35,
+2,2010,2010-12-12,13,22.227,DAL,,PHI,L 27-30,
+3,2010,2010-12-19,14,22.234,DAL,,WAS,W 33-30,
+4,2010,2011-01-02,16,22.248,DAL,@,PHI,W 14-13,

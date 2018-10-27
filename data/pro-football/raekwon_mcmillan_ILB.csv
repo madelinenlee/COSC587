@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2018,2018-09-09,1,22.296,MIA,,TEN,W 27-20,*,0.0,3,3
+2,2018,2018-09-16,2,22.303,MIA,@,NYJ,W 20-12,*,0.0,3,0
+3,2018,2018-09-23,3,22.310,MIA,,OAK,W 28-20,*,0.0,2,2

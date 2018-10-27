@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1987,1987-10-04,3,24.156,ATL,,PIT,L 12-28,0,0,,0
+2,1987,1987-10-11,4,24.163,ATL,,SFO,L 17-25,4,68,17.00,0
+3,1987,1987-10-18,5,24.170,ATL,,RAM,W 24-20,3,57,19.00,0

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1992,1992-09-06,1,22.258,PIT,@,HOU,W 29-24
+2,1992,1992-09-13,2,22.265,PIT,,NYJ,W 27-10
+3,1992,1992-09-20,3,22.272,PIT,@,SDG,W 23-6

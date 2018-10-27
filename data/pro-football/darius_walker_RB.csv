@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt,all_td,scoring
+1,2007,2007-11-25,11,22.035,HOU,@,CLE,L 17-27,,0,0,,0,,0,0,,0,0.0%,,0,0
+2,2007,2007-12-09,13,22.049,HOU,,TAM,W 28-14,,16,46,2.88,0,6,6,35,5.83,0,100.0%,5.83,0,0
+3,2007,2007-12-13,14,22.053,HOU,,DEN,W 31-13,*,13,66,5.08,0,2,1,2,2.00,0,50.0%,1.00,0,0
+4,2007,2007-12-23,15,22.063,HOU,@,IND,L 15-38,*,19,66,3.47,0,7,6,44,7.33,0,85.7%,6.29,0,0
+5,2007,2007-12-30,16,22.070,HOU,,JAX,W 42-28,,10,86,8.60,1,0,0,0,,0,0.0%,,1,6

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1987,1987-10-04,3,28.153,HOU,@,DEN,W 40-10
+2,1987,1987-10-11,4,28.160,HOU,@,CLE,W 15-10
+3,1987,1987-10-18,5,28.167,HOU,,NWE,L 7-21

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,1992,1992-12-06,13,24.240,DEN,,DAL,L 27-31,2,98,49.00,0
+2,1992,1992-12-12,14,24.246,DEN,@,BUF,L 17-27,6,218,36.33,0
+3,1992,1992-12-20,15,24.254,DEN,,SEA,W 10-6,4,175,43.75,0

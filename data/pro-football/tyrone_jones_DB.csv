@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1989,1989-10-29,8,22.354,PHI,@,DEN,W 28-24
+2,1989,1989-11-05,9,22.361,PHI,@,SDG,L 17-20
+3,1989,1989-11-12,10,23.003,PHI,,WAS,L 3-10

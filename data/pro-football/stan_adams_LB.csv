@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1984,1984-09-02,1,24.103,RAI,@,HOU,W 24-14
+2,1984,1984-09-09,2,24.110,RAI,,GNB,W 28-7
+3,1984,1984-09-16,3,24.117,RAI,@,KAN,W 22-20
+4,1984,1984-09-24,4,24.125,RAI,,SDG,W 33-30

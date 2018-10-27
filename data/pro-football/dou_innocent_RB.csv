@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1996,1996-12-01,13,24.145,SEA,@,DEN,L 7-34
+2,1996,1996-12-08,14,24.152,SEA,,BUF,W 26-18
+3,1996,1996-12-15,15,24.159,SEA,@,JAX,L 13-20
+4,1996,1996-12-22,16,24.166,SEA,@,OAK,W 28-21

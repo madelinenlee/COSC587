@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1974,1974-09-15,1,22.320,MIN,@,GNB,W 32-17
+2,1974,1974-10-13,5,22.348,MIN,,HOU,W 51-10
+3,1974,1974-11-03,8,23.004,MIN,@,CHI,W 17-0
+4,1974,1974-12-01,12,23.032,MIN,,NOR,W 29-9
+5,1974,1974-12-14,14,23.045,MIN,@,KAN,W 35-15

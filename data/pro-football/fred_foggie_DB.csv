@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1992,1992-12-20,15,23.193,CLE,,HOU,L 14-17
+2,1992,1992-12-27,16,23.200,CLE,@,PIT,L 13-23
+3,1994,1994-10-23,7,25.135,PIT,@,NYG,W 10-6
+4,1994,1994-10-30,8,25.142,PIT,@,ARI,L 17-20
+5,1994,1994-12-24,16,25.197,PIT,@,SDG,L 34-37

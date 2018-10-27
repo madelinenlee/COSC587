@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2002,2002-09-08,1,23.080,BAL,@,CAR,L 7-10,
+2,2002,2002-09-15,2,23.087,BAL,,TAM,L 0-25,
+3,2002,2002-09-30,3,23.102,BAL,,DEN,W 34-23,
+4,2002,2002-10-06,4,23.108,BAL,@,CLE,W 26-21,
+5,2002,2002-10-20,7,23.122,NOR,,SFO,W 35-27,

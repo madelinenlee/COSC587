@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1978,1978-12-03,14,24.344,SFO,@,NOR,L 13-24
+2,1978,1978-12-10,15,24.351,SFO,,TAM,W 6-3
+3,1978,1978-12-17,16,24.358,SFO,@,DET,L 14-33

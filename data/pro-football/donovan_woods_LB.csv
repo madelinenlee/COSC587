@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2008,2008-09-07,1,23.042,PIT,,HOU,W 38-17,,0.0,0,2
+2,2008,2008-09-14,2,23.049,PIT,@,CLE,W 10-6,,,,
+3,2008,2008-10-05,5,23.070,PIT,@,JAX,W 26-21,,,,
+4,2008,2008-10-19,6,23.084,PIT,@,CIN,W 38-10,,0.0,0,0
+5,2008,2008-11-09,9,23.105,PIT,,IND,L 20-24,,,,
+6,2009,2009-11-22,10,24.118,PIT,@,KAN,L 24-27,,0.0,0,1

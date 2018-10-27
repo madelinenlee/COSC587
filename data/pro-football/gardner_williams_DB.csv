@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1984,1984-10-21,8,22.315,DET,@,MIN,W 16-14
+2,1984,1984-10-28,9,22.322,DET,@,GNB,L 9-41
+3,1984,1984-11-04,10,22.329,DET,,PHI,T 23-23

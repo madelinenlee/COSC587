@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1991,1991-11-10,10,25.012,IND,@,NYJ,W 28-27
+2,1991,1991-11-17,11,25.019,IND,,CHI,L 17-31
+3,1991,1991-11-24,12,25.026,IND,@,GNB,L 10-14

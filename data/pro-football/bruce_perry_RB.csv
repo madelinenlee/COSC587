@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2005,2005-12-24,15,24.277,PHI,@,ARI,L 21-27,,1,4,4.00,0,6,190,31.67,0
+2,2005,2006-01-01,16,24.285,PHI,,WAS,L 20-31,*,15,70,4.67,0,4,83,20.75,0
+3,2006,2006-09-10,1,25.172,PHI,@,HOU,W 24-10,,0,0,,0,3,57,19.00,0
+4,2006,2006-12-17,14,25.270,PHI,@,NYG,W 36-22,,0,0,,0,0,0,,0
+5,2006,2006-12-25,15,25.278,PHI,@,DAL,W 23-7,,0,0,,0,0,0,,0

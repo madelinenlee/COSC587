@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2015,2015-09-13,1,23.020,IND,@,BUF,L 14-27,,4,11,2.75,0,0,0,0,,0,0.0%,
+2,2015,2015-09-21,2,23.028,IND,,NYJ,L 7-20,,5,12,2.40,0,5,5,27,5.40,0,100.0%,5.40
+3,2015,2015-09-27,3,23.034,IND,@,TEN,W 35-33,,2,8,4.00,0,0,0,0,,0,0.0%,
+4,2015,2015-10-04,4,23.041,IND,,JAX,W 16-13,,3,2,0.67,0,0,0,0,,0,0.0%,
+5,2015,2015-10-08,5,23.045,IND,@,HOU,W 27-20,,3,6,2.00,0,1,1,6,6.00,0,100.0%,6.00

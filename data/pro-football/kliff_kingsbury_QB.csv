@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att
+1,2005,2005-11-20,10,26.103,NYJ,@,DEN,L 0-27,,1,2,50.00,17,0,0,79.2,0,0,8.50,8.50

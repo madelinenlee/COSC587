@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring
+1,1987,1987-10-04,3,23.200,CIN,,SDG,L 9-10,1,1,100.0,,1,0.0,0,1
+2,1987,1987-10-11,4,23.207,CIN,@,SEA,W 17-10,2,2,100.0,1,1,100.0,0,5
+3,1987,1987-10-18,5,23.214,CIN,,CLE,L 0-34,,,,,,,,

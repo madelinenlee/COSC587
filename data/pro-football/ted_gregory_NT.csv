@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,sacks
+1,1988,1988-10-23,8,23.255,NOR,,RAI,W 20-6,
+2,1988,1988-11-06,10,23.269,NOR,@,WAS,L 24-27,
+3,1988,1988-11-20,12,23.283,NOR,,DEN,W 42-0,1.0

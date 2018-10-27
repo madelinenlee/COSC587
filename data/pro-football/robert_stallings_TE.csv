@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1986,1986-10-05,5,22.255,STL,,NYG,L 6-13
+2,1986,1986-10-12,6,22.262,STL,@,TAM,W 30-19
+3,1986,1986-10-19,7,22.269,STL,@,WAS,L 21-28

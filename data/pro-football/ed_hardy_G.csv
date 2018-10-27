@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1973,1973-10-14,5,22.217,SFO,,MIN,L 13-17
+2,1973,1973-10-21,6,22.224,SFO,,NOR,W 40-0
+3,1973,1973-10-28,7,22.231,SFO,,ATL,L 3-17

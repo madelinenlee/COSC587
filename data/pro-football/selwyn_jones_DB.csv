@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1993,1993-09-05,1,23.115,CLE,,CIN,W 27-14,2,0,0
+2,1993,1993-09-13,2,23.123,CLE,,SFO,W 23-13,1,0,0
+3,1995,1995-12-24,16,25.225,SEA,@,KAN,L 3-26,1,0,0

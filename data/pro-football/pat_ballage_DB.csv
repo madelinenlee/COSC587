@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1986,1986-12-14,15,22.250,IND,,BUF,W 24-14
+2,1986,1986-12-21,16,22.257,IND,@,RAI,W 30-24
+3,1987,1987-10-04,3,23.179,IND,@,BUF,W 47-6
+4,1987,1987-10-11,4,23.186,IND,,NYJ,W 6-0
+5,1987,1987-10-18,5,23.193,IND,@,PIT,L 7-21

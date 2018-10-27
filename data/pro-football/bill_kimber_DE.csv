@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1960,1960-11-27,9,24.301,NYG,@,PHI,L 23-31,1,7,7.00,0
+2,1960,1960-12-04,10,24.308,NYG,,DAL,T 31-31,1,41,41.00,0

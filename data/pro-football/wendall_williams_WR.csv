@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2016,2016-12-18,14,26.091,HOU,,JAX,W 21-20,,3,2,34,17.00,0,66.7%,11.33
+2,2016,2016-12-24,15,26.097,HOU,,CIN,W 12-10,,0,0,0,,0,0.0%,
+3,2016,2017-01-01,16,26.105,HOU,@,TEN,L 17-24,,4,2,41,20.50,0,50.0%,10.25

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2005,2005-12-18,14,23.273,CAR,@,NOR,W 27-10,
+2,2005,2005-12-24,15,23.279,CAR,,DAL,L 20-24,
+3,2005,2006-01-01,16,23.287,CAR,@,ATL,W 44-11,

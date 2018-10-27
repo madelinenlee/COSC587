@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att
+1,1976,1976-09-12,1,22.345,TAM,@,HOU,L 0-20,,,,,,,,,,,,
+2,1976,1976-09-19,2,22.352,TAM,,SDG,L 0-23,,,,,,,,,,,,
+3,1976,1976-09-26,3,22.359,TAM,,BUF,L 9-14,,,,,,,,,,,,
+4,1976,1976-10-03,4,23.000,TAM,@,BAL,L 17-42,,1,1,100.00,39,0,0,118.7,0,0,39.00,39.00
+5,1976,1976-10-10,5,23.007,TAM,@,CIN,L 0-21,,,,,,,,,,,,
+6,1976,1976-10-17,6,23.014,TAM,,SEA,L 10-13,,,,,,,,,,,,

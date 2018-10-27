@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1993,1993-09-05,1,22.264,RAM,@,GNB,L 6-36,0,0,,0,4,40,10.00,0
+2,1993,1993-09-12,2,22.271,RAM,,PIT,W 27-0,0,0,,0,0,0,,0
+3,1993,1993-09-19,3,22.278,RAM,@,NYG,L 10-20,0,0,,0,1,17,17.00,0
+4,1993,1993-09-26,4,22.285,RAM,@,HOU,W 28-13,0,0,,0,1,35,35.00,0
+5,1993,1993-10-03,5,22.292,RAM,,NOR,L 6-37,2,10,5.00,0,2,30,15.00,0

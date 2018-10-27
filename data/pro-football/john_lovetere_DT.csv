@@ -1,0 +1,2 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td,all_td,scoring
+1,1960,1960-10-09,3,24.131,RAM,@,CHI,L 27-34,1,6,6.00,1,1,6

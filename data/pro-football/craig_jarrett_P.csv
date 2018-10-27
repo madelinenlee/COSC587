@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,2002,2002-12-08,13,23.144,WAS,,NYG,L 21-27,,3,114,38.00,0
+2,2002,2002-12-15,14,23.151,WAS,@,PHI,L 21-34,,7,345,49.29,0
+3,2002,2002-12-22,15,23.158,WAS,,HOU,W 26-10,,6,180,30.00,1
+4,2002,2002-12-29,16,23.165,WAS,,DAL,W 20-14,,4,132,33.00,0

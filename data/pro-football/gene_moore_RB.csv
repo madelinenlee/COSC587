@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1969,1969-09-21,1,22.132,SFO,@,ATL,L 12-24,0,0,,0,1,24,24.00,0
+2,1969,1969-09-28,2,22.139,SFO,@,GNB,L 7-14,1,2,2.00,0,0,0,,0
+3,1969,1969-10-05,3,22.146,SFO,,WAS,T 17-17,0,0,,0,1,4,4.00,0
+4,1969,1969-11-02,7,22.174,SFO,,DET,L 14-26,1,2,2.00,0,0,0,,0

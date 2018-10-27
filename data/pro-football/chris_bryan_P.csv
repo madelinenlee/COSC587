@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,punt,punt_yds,punt_yds_per_punt,punt_blocked
+1,2010,2010-09-12,1,28.190,TAM,,CLE,W 17-14,,7,288,41.14,0
+2,2010,2010-09-19,2,28.197,TAM,@,CAR,W 20-7,,5,214,42.80,0
+3,2010,2010-09-26,3,28.204,TAM,,PIT,L 13-38,,5,155,31.00,0
+4,2010,2010-10-10,4,28.218,TAM,@,CIN,W 24-21,,6,203,33.83,0

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1967,1967-09-24,2,22.361,PHI,,BAL,L 6-38,0,0,,0,2,20,10.00,0,4,92,23.00,0
+2,1967,1967-10-01,3,23.003,PHI,,PIT,W 34-24,0,0,,0,0,0,,0,3,58,19.33,0
+3,1969,1969-09-21,1,24.358,PHI,,CLE,L 20-27,3,5,1.67,0,1,6,6.00,0,0,0,,0
+4,1969,1969-09-28,2,25.000,PHI,,PIT,W 41-27,1,2,2.00,0,0,0,,0,0,0,,0
+5,1970,1970-10-04,3,26.006,PHI,,WAS,L 21-33,,,,,,,,,,,,

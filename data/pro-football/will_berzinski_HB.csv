@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1956,1956-11-25,9,22.130,PHI,,SFO,T 10-10,2,8,4.00,0,1,17,17.00,0
+2,1956,1956-12-02,10,22.137,PHI,@,CLE,L 14-17,6,34,5.67,0,2,18,9.00,0
+3,1956,1956-12-09,11,22.144,PHI,@,WAS,L 17-19,4,24,6.00,0,0,0,,0
+4,1956,1956-12-15,12,22.150,PHI,,NYG,L 7-21,3,6,2.00,0,0,0,,0

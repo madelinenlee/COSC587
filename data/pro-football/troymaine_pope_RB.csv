@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2016,2016-10-23,7,22.329,NYJ,,BAL,W 24-16,,1,1,1.00,0,0,0,0,,0,0.0%,
+2,2016,2016-11-20,10,22.357,SEA,,PHI,W 26-15,,2,3,1.50,0,0,0,0,,0,0.0%,
+3,2016,2016-12-04,12,23.005,SEA,,CAR,W 40-7,,8,28,3.50,0,1,1,5,5.00,0,100.0%,5.00
+4,2016,2016-12-11,13,23.012,SEA,@,GNB,L 10-38,,1,12,12.00,0,1,0,0,,0,0.0%,0.00

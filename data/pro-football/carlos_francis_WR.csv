@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2004,2004-09-12,1,23.253,OAK,@,PIT,L 21-24,,4,94,23.50,0
+2,2004,2004-09-19,2,23.260,OAK,,BUF,W 13-10,,1,7,7.00,0
+3,2004,2004-10-10,5,23.281,OAK,@,IND,L 14-35,,1,17,17.00,0
+4,2004,2004-10-17,6,23.288,OAK,,DEN,L 3-31,,3,59,19.67,0
+5,2004,2004-10-24,7,23.295,OAK,,NOR,L 26-31,,5,82,16.40,0

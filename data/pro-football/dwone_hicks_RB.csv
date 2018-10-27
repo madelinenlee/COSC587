@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2003,2003-09-07,1,22.135,TEN,,OAK,W 25-20,
+2,2003,2003-10-12,6,22.170,TEN,,HOU,W 38-17,
+3,2003,2003-10-19,7,22.177,TEN,@,CAR,W 37-17,

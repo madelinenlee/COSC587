@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,xpm,xpa,xp_perc,fgm,fga,fg_perc,all_td,scoring
+1,1981,1981-11-29,13,24.252,SEA,,OAK,L 31-32,4,4,100.0,1,3,33.3,0,7
+2,1981,1981-12-06,14,24.259,SEA,,NYJ,W 27-23,3,4,75.0,,1,0.0,0,3
+3,1981,1981-12-13,15,24.266,SEA,@,DEN,L 13-23,1,1,100.0,2,2,100.0,0,7
+4,1981,1981-12-20,16,24.273,SEA,,CLE,W 42-21,6,6,100.0,,1,0.0,0,6

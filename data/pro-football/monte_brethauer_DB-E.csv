@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1953,1953-09-27,1,22.172,BAL,,CHI,W 13-9,1,18,18.00,0
+2,1953,1953-11-15,8,22.221,BAL,@,PHI,L 14-45,4,50,12.50,0
+3,1953,1953-11-22,9,22.228,BAL,,RAM,L 13-21,3,45,15.00,0
+4,1953,1953-12-13,12,22.249,BAL,@,SFO,L 14-45,2,20,10.00,0

@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1995,1995-09-03,1,24.003,IND,,CIN,L 21-24
+2,1995,1995-09-10,2,24.010,IND,@,NYJ,W 27-24
+3,1995,1995-09-17,3,24.017,IND,@,BUF,L 14-20
+4,1995,1995-10-01,4,24.031,IND,,STL,W 21-18
+5,1995,1995-10-08,5,24.038,IND,@,MIA,W 27-24

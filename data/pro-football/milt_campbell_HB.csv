@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att
+1,1957,1957-09-29,1,23.294,CLE,,NYG,W 6-3,1,14,14.00,0,0,0,,0,0,0,,0,0,,,,,,
+2,1957,1957-10-05,2,23.300,CLE,@,PIT,W 23-12,4,11,2.75,0,1,25,25.00,1,0,1,0.00,0,0,0,39.6,0,0,0.00,0.00
+3,1957,1957-12-01,10,23.357,CLE,,CRD,W 31-0,2,-2,-1.00,0,0,0,,0,0,0,,0,0,,,,,,

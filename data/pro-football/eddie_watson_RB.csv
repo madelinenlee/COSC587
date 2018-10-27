@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1999,1999-11-21,11,23.053,PHI,,IND,L 17-44,,,,,
+2,1999,1999-11-28,12,23.060,PHI,@,WAS,L 17-20,,,,,
+3,1999,1999-12-05,13,23.067,PHI,@,ARI,L 17-21,,,,,
+4,1999,1999-12-12,14,23.074,PHI,@,DAL,L 10-20,,1,6,6.00,0
+5,1999,1999-12-19,15,23.081,PHI,,NWE,W 24-9,,3,11,3.67,0
+6,1999,2000-01-02,16,23.095,PHI,,STL,W 38-31,,,,,

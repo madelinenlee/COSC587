@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,all_td,scoring
+1,1988,1988-11-06,10,26.176,IND,,NYJ,W 38-14,3,17,5.67,0,1,1,100.00,23,0,0,118.7,0,0,23.00,23.00,0,0
+2,1988,1988-11-13,11,26.183,IND,@,GNB,W 20-13,8,20,2.50,0,1,1,100.00,37,0,0,118.7,0,0,37.00,37.00,0,0
+3,1988,1988-12-04,14,26.204,IND,@,MIA,W 31-28,4,4,1.00,2,0,0,,0,0,0,,0,,,,2,12
+4,1988,1988-12-10,15,26.210,IND,@,NYJ,L 16-34,1,1,1.00,0,1,2,50.00,32,0,0,95.8,1,5,16.00,16.00,0,0

@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,def_int,def_int_yds,def_int_td
+1,1961,1961-09-24,2,31.343,CLE,,STL,W 20-17,1,15,0
+2,1961,1961-10-29,7,32.013,CLE,@,STL,W 21-10,1,2,0

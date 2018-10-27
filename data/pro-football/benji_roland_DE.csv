@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1990,1990-11-25,12,23.235,TAM,@,GNB,L 10-20
+2,1990,1990-12-02,13,23.242,TAM,,ATL,W 23-17
+3,1990,1990-12-30,16,23.270,TAM,,NYJ,L 14-16

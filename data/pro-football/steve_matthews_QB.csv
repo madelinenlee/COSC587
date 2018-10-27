@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1997,1997-08-31,1,26.322,JAX,@,BAL,W 28-27,,3,5,60.00,23,0,0,71.2,0,0,4.60,4.60,0,0,,0
+2,1997,1997-09-07,2,26.329,JAX,,NYG,W 40-13,*,23,35,65.71,252,0,0,86.8,1,0,7.20,7.20,1,10,10.00,0
+3,1998,1998-12-26,16,28.074,TEN,,MIN,L 16-26,,2,3,66.67,24,0,0,91.0,0,0,8.00,8.00,0,0,,0

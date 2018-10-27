@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2010,2010-09-19,2,24.058,NYJ,,NWE,W 28-14,
+2,2010,2010-10-03,4,24.072,NYJ,@,BUF,W 38-14,
+3,2010,2010-10-17,6,24.086,NYJ,@,DEN,W 24-20,
+4,2010,2010-12-19,14,24.149,DAL,,WAS,W 33-30,
+5,2010,2011-01-02,16,24.163,DAL,@,PHI,W 14-13,

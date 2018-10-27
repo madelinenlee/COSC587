@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs
+1,2011,2011-09-11,1,22.328,TAM,,DET,L 20-27,
+2,2011,2011-09-18,2,22.335,TAM,@,MIN,W 24-20,
+3,2011,2011-09-25,3,22.342,TAM,,ATL,W 16-13,
+4,2011,2011-10-03,4,22.350,TAM,,IND,W 24-17,

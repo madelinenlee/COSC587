@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,rush_att,rush_yds,rush_yds_per_att,rush_td
+1,1991,1991-12-01,13,24.210,IND,,CLE,L 0-31,0,0,,0,,,,
+2,1991,1991-12-15,15,24.224,IND,,BUF,L 7-35,3,14,4.67,0,1,-8,-8.00,0
+3,1991,1991-12-22,16,24.231,IND,@,TAM,L 3-17,0,0,,0,,,,

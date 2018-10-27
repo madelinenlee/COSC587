@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1978,1978-11-26,13,23.175,KAN,,SDG,W 23-0
+2,1979,1979-11-04,10,24.153,KAN,,SDG,L 14-20
+3,1979,1979-11-11,11,24.160,KAN,,PIT,L 3-30
+4,1979,1979-12-02,14,24.181,KAN,,SEA,W 37-21
+5,1979,1979-12-16,16,24.195,KAN,@,TAM,L 0-3

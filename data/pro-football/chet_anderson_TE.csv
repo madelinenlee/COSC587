@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td,all_td,scoring
+1,1967,1967-09-17,1,22.187,PIT,,CHI,W 41-13,2,29,14.50,0,0,0
+2,1967,1967-09-24,2,22.194,PIT,,STL,L 14-28,4,84,21.00,1,1,6
+3,1967,1967-10-01,3,22.201,PIT,@,PHI,L 24-34,1,8,8.00,0,0,0
+4,1967,1967-11-26,11,22.257,PIT,,MIN,L 27-41,1,20,20.00,1,1,6

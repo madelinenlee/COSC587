@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1991,1991-10-20,7,25.059,SFO,,DET,W 35-3
+2,1991,1991-10-27,8,25.066,SFO,@,PHI,W 23-7
+3,1991,1991-12-14,15,25.114,SFO,,KAN,W 28-14
+4,1991,1991-12-23,16,25.123,SFO,,CHI,W 52-14

@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1994,1994-12-04,13,25.274,PIT,@,CIN,W 38-15
+2,1994,1994-12-11,14,25.281,PIT,,PHI,W 14-3
+3,1994,1994-12-18,15,25.288,PIT,,CLE,W 17-7
+4,1994,1994-12-24,16,25.294,PIT,@,SDG,L 34-37

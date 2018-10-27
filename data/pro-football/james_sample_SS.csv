@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2015,2015-09-13,1,23.082,JAX,,CAR,L 9-20,,0.0,0,0
+2,2015,2015-09-20,2,23.089,JAX,,MIA,W 23-20,*,0.0,5,0
+3,2015,2015-09-27,3,23.096,JAX,@,NWE,L 17-51,,0.0,2,2
+4,2015,2015-10-04,4,23.103,JAX,@,IND,L 13-16,*,0.0,1,3

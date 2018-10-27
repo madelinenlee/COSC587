@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2016,2016-10-16,6,23.202,IND,@,HOU,L 23-26,,0.0,0,0
+2,2016,2016-11-06,9,23.223,IND,@,GNB,W 31-26,,0.0,1,0
+3,2016,2016-11-20,10,23.237,IND,,TEN,W 24-17,,0.0,0,0

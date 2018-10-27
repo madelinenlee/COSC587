@@ -1,0 +1,6 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result
+1,1989,1989-11-26,12,22.027,NYJ,,ATL,W 27-7
+2,1989,1989-12-03,13,22.034,NYJ,@,SDG,W 20-17
+3,1989,1989-12-10,14,22.041,NYJ,,PIT,L 0-13
+4,1989,1989-12-17,15,22.048,NYJ,@,RAM,L 14-38
+5,1989,1989-12-23,16,22.054,NYJ,,BUF,L 0-37

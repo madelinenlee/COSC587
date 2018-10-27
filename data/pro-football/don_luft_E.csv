@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1954,1954-10-30,6,24.258,PHI,,GNB,L 14-37,1,14,14.00,0
+2,1954,1954-11-07,7,24.266,PHI,,CRD,W 30-14,2,45,22.50,0

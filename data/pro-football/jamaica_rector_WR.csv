@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,punt_ret,punt_ret_yds,punt_ret_yds_per_ret,punt_ret_td
+1,2006,2006-09-10,1,25.031,DAL,@,JAX,L 17-24,,4,22,5.50,0
+2,2007,2007-12-02,12,26.114,ARI,,CLE,W 27-21,,0,0,,0
+3,2007,2007-12-09,13,26.121,ARI,@,SEA,L 21-42,,0,0,,0

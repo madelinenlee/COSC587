@@ -1,0 +1,3 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,targets,rec,rec_yds,rec_yds_per_rec,rec_td,catch_pct,rec_yds_per_tgt
+1,2005,2005-10-23,7,22.299,STL,,NOR,W 28-17,,2,1,13,13.00,0,50.0%,6.50
+2,2005,2005-10-30,8,22.306,STL,,JAX,W 24-21,,,0,0,,0,0.0%,

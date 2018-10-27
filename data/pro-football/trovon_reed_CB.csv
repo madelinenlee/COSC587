@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists,def_int,def_int_yds,def_int_td
+1,2016,2016-11-27,11,25.333,SDG,@,HOU,W 21-13,,0.0,0,0,0,0,0
+2,2016,2016-12-04,12,25.340,SDG,,TAM,L 21-28,,0.0,0,0,0,0,0
+3,2016,2016-12-11,13,25.347,SDG,@,CAR,L 16-28,,0.0,2,0,1,3,0
+4,2016,2016-12-18,14,25.354,SDG,,OAK,L 16-19,*,0.0,4,0,1,3,0
+5,2016,2016-12-24,15,25.360,SDG,@,CLE,L 17-20,,0.0,4,0,0,0,0
+6,2016,2017-01-01,16,26.002,SDG,,KAN,L 27-37,,0.0,2,0,0,0,0

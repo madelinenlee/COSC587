@@ -1,0 +1,7 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,2012,2012-09-09,1,24.252,MIN,,JAX,W 26-23,,,,,
+2,2012,2012-09-16,2,24.259,MIN,@,IND,L 20-23,,1,10,10.00,0
+3,2012,2012-09-30,4,24.273,MIN,@,DET,W 20-13,,,,,
+4,2012,2012-10-25,8,24.298,MIN,,TAM,L 17-36,,,,,
+5,2012,2012-11-04,9,24.308,MIN,@,SEA,L 20-30,,,,,
+6,2012,2012-11-11,10,24.315,MIN,,DET,W 34-24,,,,,

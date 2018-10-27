@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2010,2010-09-26,3,23.030,OAK,@,ARI,L 23-24,,0.0,1,0
+2,2010,2010-10-31,8,23.065,OAK,,SEA,W 33-3,,,,
+3,2010,2010-11-07,9,23.072,OAK,,KAN,W 23-20,,0.0,1,0
+4,2010,2010-11-28,11,23.093,OAK,,MIA,L 17-33,,0.0,3,1

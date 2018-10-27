@@ -1,0 +1,8 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rush_att,rush_yds,rush_yds_per_att,rush_td,rec,rec_yds,rec_yds_per_rec,rec_td,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td,all_td,scoring
+1,1979,1979-09-30,5,23.077,OAK,,DEN,W 27-3,1,-2,-2.00,0,0,0,,0,0,0,,0,0,0
+2,1979,1979-10-08,6,23.085,OAK,,MIA,W 13-3,,,,,,,,,,,,,,
+3,1979,1979-10-14,7,23.091,OAK,,ATL,W 50-19,8,54,6.75,0,1,20,20.00,1,1,25,25.00,0,1,6
+4,1979,1979-10-21,8,23.098,OAK,@,NYJ,L 19-28,2,6,3.00,0,1,4,4.00,0,0,0,,0,0,0
+5,1979,1979-10-25,9,23.102,OAK,,SDG,W 45-22,6,18,3.00,0,0,0,,0,0,0,,0,0,0
+6,1979,1979-11-04,10,23.112,OAK,,SFO,W 23-10,4,-4,-1.00,0,0,0,,0,0,0,,0,0,0
+7,1979,1979-12-16,16,23.154,OAK,,SEA,L 24-29,,,,,,,,,,,,,,

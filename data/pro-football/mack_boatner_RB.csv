@@ -1,0 +1,8 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,kick_ret,kick_ret_yds,kick_ret_yds_per_ret,kick_ret_td
+1,1986,1986-09-07,1,27.338,TAM,,SFO,L 7-31,0,0,,0
+2,1986,1986-09-14,2,27.345,TAM,,MIN,L 10-23,0,0,,0
+3,1986,1986-09-21,3,27.352,TAM,@,DET,W 24-20,0,0,,0
+4,1986,1986-09-28,4,27.359,TAM,,ATL,L 20-23,0,0,,0
+5,1986,1986-10-05,5,28.001,TAM,@,RAM,L 20-26,0,0,,0
+6,1986,1986-10-12,6,28.008,TAM,,STL,L 19-30,0,0,,0
+7,1986,1986-10-19,7,28.015,TAM,@,NOR,L 7-38,1,2,2.00,0

@@ -1,0 +1,4 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,sacks,tackles_solo,tackles_assists
+1,2018,2018-09-10,1,21.356,NYJ,@,DET,W 48-17,,0.0,3,0
+2,2018,2018-09-16,2,21.362,NYJ,,MIA,L 12-20,,0.0,1,0
+3,2018,2018-09-20,3,22.001,NYJ,@,CLE,L 17-21,,0.0,2,0

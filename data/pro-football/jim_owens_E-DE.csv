@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1950,1950-09-24,2,23.202,BAL,,CLE,L 0-31,4,69,17.25,0
+2,1950,1950-10-15,4,23.223,BAL,,PHI,L 14-24,1,4,4.00,0
+3,1950,1950-10-22,5,23.230,BAL,@,RAM,L 27-70,1,6,6.00,0
+4,1950,1950-10-29,6,23.237,BAL,@,SFO,L 14-17,7,28,4.00,0

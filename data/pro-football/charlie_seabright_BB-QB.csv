@@ -1,0 +1,5 @@
+ranker,year_id,game_date,game_num,age,team,game_location,opp,game_result,gs,pass_cmp,pass_att,pass_cmp_perc,pass_yds,pass_td,pass_int,pass_rating,pass_sacked,pass_sacked_yds,pass_yds_per_att,pass_adj_yds_per_att,rec,rec_yds,rec_yds_per_rec,rec_td
+1,1950,1950-09-17,1,32.216,PIT,,NYG,L 7-18,,0,1,0.00,0,0,0,39.6,0,0,0.00,0.00,0,0,,0
+2,1950,1950-09-24,2,32.223,PIT,@,DET,L 7-10,,0,1,0.00,0,0,0,39.6,0,0,0.00,0.00,0,0,,0
+3,1950,1950-10-07,4,32.236,PIT,,CLE,L 17-30,,0,0,,0,0,,,,,,,1,13,13.00,1
+4,1950,1950-12-03,11,32.293,PIT,,WAS,L 7-24,,1,1,100.00,3,0,0,79.2,0,0,3.00,3.00,0,0,,0
