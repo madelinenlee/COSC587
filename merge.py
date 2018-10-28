@@ -144,6 +144,12 @@ if __name__ == "__main__":
 									 'q4_cloud_cover_x',
 									 'q4_precipitation_prob_x'], axis=1)
 
-	merged_data = merged_data[pd.notnull(merged_data["kickoff_dome_x"])]	
+	merged_data = merged_data[pd.notnull(merged_data["kickoff_dome_x"])]
+
+	merged_data["position"] = merged_data["position"].replace("HB", "RB")
+	merged_data["position"] = merged_data["position"].replace("FB", "RB")
+	merged_data["position"] = merged_data["position"].replace("['LS', 'TE']", "TE")
+	merged_data["position"] = merged_data["position"].replace("['WR', 'PR']", "WR")
+	merged_data["position"] = merged_data["position"].replace("['FB', 'LB']", "RB")
 	
 	merged_data.to_csv(".\\cleaned_data\\merged_data.csv")
