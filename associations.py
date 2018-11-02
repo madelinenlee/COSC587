@@ -1,17 +1,38 @@
-from pprint import pprint
-
+from statistics import stdev
 import pandas as pd
 import math
 from apyori import apriori
 
-GIVEN_COLUMNS = ['age', 'game_date', 'game_num', 'position', 'away']
+# Some attribute in our dataset are completely independent. These attribute are inputs and rules
+# where these attributes are making the antecedents are useless. This list holds those independent variables
+# which will be pruned later in the code.
+GIVEN_COLUMNS = ['age', 'game_date', 'game_num', 'position', 'away', 'dome', 'weather_summary', 'humidity',
+                 'visibility', 'barometer', 'dew_point', 'cloud_cover']
 
 
+# Read the merged dataset and load in pandas data frame.
 def load_data_to_be_processed():
-    data_set = pd.read_csv('cleaned_data/clean_historical_data.csv')
+    data_set = pd.read_csv('cleaned_data/merged_data.csv')
     return data_set
 
 
+# Bins a specific variable in an equi width manner. The length of the bin is specified via {bin_width} parameter.
+def bin_equiwidth_value(value, bin_width):
+    result = ''
+
+    value = str(value)
+    if value != 'nan':
+        value = float(value.replace('%', ''))
+        lower_bound = int(int(value) / bin_width) * bin_width
+        upper_bound = int(int(value + bin_width) / bin_width) * bin_width
+
+        result = str(lower_bound) + '_' + str(upper_bound)
+
+    return result
+
+
+# Bin the values for catch_pct attribute.
+# This attribute binning is a little different, it needs to remove the %
 def bin_catch_pct_value(value):
     bin_width = 20
     result = ''
@@ -27,20 +48,7 @@ def bin_catch_pct_value(value):
     return result
 
 
-def bin_equiwidth_value(value, bin_width):
-    result = ''
-
-    value = str(value)
-    if value != 'nan':
-        value = float(value.replace('%', ''))
-        lower_bound = int(int(value) / bin_width) * bin_width
-        upper_bound = int(int(value + bin_width) / bin_width) * bin_width
-
-        result = str(lower_bound) + '_' + str(upper_bound)
-
-    return result
-
-
+# Bin the values for game_num (the week/season) attribute.
 def bin_game_num_value(x):
     x = int(x)
     result = ''
@@ -55,6 +63,7 @@ def bin_game_num_value(x):
     return result
 
 
+# Special binning method for {kick_ret_yds}.
 def bin_kick_ret_yds_value(x):
     result = ''
 
@@ -70,6 +79,7 @@ def bin_kick_ret_yds_value(x):
     return result
 
 
+# Special binning method for binning according to attribute's value sign.
 def bin_pos_neg_value(x):
     result = ''
 
@@ -83,8 +93,16 @@ def bin_pos_neg_value(x):
     return result
 
 
+# This method prepare the loaded dataset for associate rule mining.
+# The operations of this function includes dropping columns, bin values and etc.
 def prepare_data_for_association_rule(data):
-    # drop the first column of index
+    # I was forced to use large bins to reduce the number of parameters for apriori algorithm.
+    # In the first pass, with ~2000 different possible items, the apriori worked for 5 hours. Watching
+    # it working without leading to any result, I had to cancel and make the binning width greater.
+    # I used the SD of each attribute as an intuition for binning size.
+
+    # drop the first & second column of index
+    data = data.drop(data.columns[1], axis=1)
     data = data.drop(data.columns[0], axis=1)
 
     # remove the rows were the player didn't played.
@@ -109,6 +127,7 @@ def prepare_data_for_association_rule(data):
     # bin game_num (3 bins: begin_season, middle_season, emd_season)
     data['game_num'] = data['game_num'].map(lambda x: 'game_num:' + bin_game_num_value(x))
 
+    # use common functions to bin a large number of the attributes in the dataset.
     data['kick_ret'] = data['kick_ret'].map(lambda x: 'kick_ret:' + str(x))
     data['kick_ret_td'] = data['kick_ret_td'].map(lambda x: 'kick_ret_td:' + str(x))
     data['kick_ret_yds'] = data['kick_ret_yds'].map(lambda x: 'kick_ret_yds:' + bin_kick_ret_yds_value(x))
@@ -156,54 +175,32 @@ def prepare_data_for_association_rule(data):
     data['xpm'] = data['xpm'].map(lambda x: 'xpm' + ':' + str(x))
     data['away'] = data['away'].map(lambda x: 'away' + ':' + str(x))
 
-    # data = data.drop(labels=['kick_ret_td'], axis=1)
-    # data = data.drop(labels=['kick_ret_yds'], axis=1)
-    # data = data.drop(labels=['kick_ret_yds_per_ret'], axis=1)
-    # data = data.drop(labels=['pass_adj_yds_per_att'], axis=1)
-    # data = data.drop(labels=['pass_cmp_perc'], axis=1)
-    # data = data.drop(labels=['pass_int'], axis=1)
-    # data = data.drop(labels=['pass_sacked'], axis=1)
-    # data = data.drop(labels=['pass_sacked_yds'], axis=1)
-    # data = data.drop(labels=['pass_td'], axis=1)
-    # data = data.drop(labels=['pass_yds'], axis=1)
-    # data = data.drop(labels=['pass_yds_per_att'], axis=1)
-    # data = data.drop(labels=['position'], axis=1)
-    # data = data.drop(labels=['punt_ret'], axis=1)
-    # data = data.drop(labels=['punt_ret_yds'], axis=1)
-    # data = data.drop(labels=['punt_ret_yds_per_ret'], axis=1)
-    # data = data.drop(labels=['punt_yds_per_punt'], axis=1)
+    # this field is useless
     data = data.drop(labels=['ranker'], axis=1)
-    # data = data.drop(labels=['rec_td'], axis=1)
-    # data = data.drop(labels=['rec_yds'], axis=1)
-    # data = data.drop(labels=['rec_yds_per_rec'], axis=1)
-    # data = data.drop(labels=['rec_yds_per_tgt'], axis=1)
-    # data = data.drop(labels=['rush_att'], axis=1)
-    # data = data.drop(labels=['rush_yds'], axis=1)
-    # data = data.drop(labels=['rush_yds_per_att'], axis=1)
-    # data = data.drop(labels=['targets'], axis=1)
-    # data = data.drop(labels=['two_pt_md'], axis=1)
-    # data = data.drop(labels=['xpa'], axis=1)
-    # data = data.drop(labels=['xpm'], axis=1)
 
-    # data = data.drop(labels=['age'], axis=1)
-    # data = data.drop(labels=['game_num'], axis=1)
-    # data = data.drop(labels=['scoring'], axis=1)
-    # data = data.drop(labels=['away'], axis=1)
+    # drop the duplicate after merging data and other unused column
+    data = data.drop(labels=['home_team', 'away_team', 'game_pl_1', 'kickoff_feels_like_x', 'kickoff_temperature_x',
+                             'kickoff_wind_x'], axis=1)
 
-    # data = data.drop(labels=['kick_ret'], axis=1)
-    # data = data.drop(labels=['all_td'], axis=1)
-    # data = data.drop(labels=['pass_att'], axis=1)
-    # data = data.drop(labels=['catch_pct'], axis=1)
-    # data = data.drop(labels=['pass_cmp'], axis=1)
-    # data = data.drop(labels=['pass_rating'], axis=1)
-    # data = data.drop(labels=['punt_ret_td'], axis=1)
-    # data = data.drop(labels=['rec'], axis=1)
-    # data = data.drop(labels=['rush_td'], axis=1)
-    # data = data.drop(labels=['xp_perc'], axis=1)
+    # binning and preparing the weather attributes using those same functions.
+    data['kickoff_dome_x'] = data['kickoff_dome_x'].map(lambda x: 'dome' + ':' + str(x))
+    data['kickoff_weather_summary_x'] = data['kickoff_weather_summary_x'].map(
+        lambda x: 'weather_summary' + ':' + str(x))
+    data['kickoff_humidity_x'] = data['kickoff_humidity_x'].map(lambda x: 'humidity' + ':' + bin_equiwidth_value(x, 20))
+    data['kickoff_visibility_x'] = data['kickoff_visibility_x'].map(
+        lambda x: 'visibility' + ':' + bin_equiwidth_value(x, 15))
+    data['kickoff_barometer_x'] = data['kickoff_barometer_x'].map(
+        lambda x: 'barometer' + ':' + bin_equiwidth_value(x, 1))
+    data['kickoff_dew_point_x'] = data['kickoff_dew_point_x'].map(
+        lambda x: 'dew_point' + ':' + bin_equiwidth_value(x, 20))
+    data['kickoff_cloud_cover_x'] = data['kickoff_cloud_cover_x'].map(
+        lambda x: 'cloud_cover' + ':' + bin_equiwidth_value(x, 20))
 
     return data
 
 
+# Util function: If the value is NaN or empty, null will be returned, otherwise the value is returned
+# unchanged
 def nullify_if_zero(x):
     if x == 0:
         return math.nan
@@ -211,6 +208,10 @@ def nullify_if_zero(x):
     return x
 
 
+# Removes all the 0/empty/NaN values form the dataset and replace with null.
+# Although missing values are not suitable for data analysis task, but in this case, By removing the
+# zeros and empty values from the dataset, I considerably reduced the number of possible items.
+# As mentioned before, with large number of possible items, the apriory becomes extremely SLOW.
 def remove_all_zero_values(data):
     for column in data.columns:
         data[column] = data[column].map(lambda x: nullify_if_zero(x))
@@ -218,12 +219,16 @@ def remove_all_zero_values(data):
     return data
 
 
+# Prior to running apriori algorithm, the dataset should be converted to item lists.
+# This function transform a pandas data frame into transaction sets.
 def convert_records_to_item_set():
     _records = []
     for i in range(0, data.shape[0]):
         record = []
         for j in range(0, data.shape[1]):
             value = str(data.values[i, j])
+            # values with empty, 0 or NaN with ends with eighter : or :nan
+            # I ignore these values to reduce the variable domain size.
             if not (value.endswith(':') or value.endswith(':nan')):
                 record.append(value)
 
@@ -233,20 +238,29 @@ def convert_records_to_item_set():
     return _records
 
 
+# Util method: get the name of a feature from an item in a transaction set.
+def get_feature(item):
+    ret = item[0:item.index(':')]
+    return ret
+
+
+# Assess if a rule is useful or not.
+# This method consider the independent (input) variables
 def is_useful_rule(_rule):
     _items = [x for x in _rule[0]]
     if len(_items) == 1:
-        return _items[0] in GIVEN_COLUMNS
+        return get_feature(_items[0]) in GIVEN_COLUMNS
     else:
         result = False
         for i in range(1, len(_items)):
-            if not _items[i] in GIVEN_COLUMNS:
+            if not get_feature(_items[i]) in GIVEN_COLUMNS:
                 result = True
                 break
 
         return result
 
 
+# Print the list of the rules extracted.
 def print_extracted_rules():
     global pruned_rule_count
     pruned_rule_count = 0
@@ -255,51 +269,48 @@ def print_extracted_rules():
             pruned_rule_count += 1
             continue
 
-        # first index of the inner list
-        # Contains base item and add item
-        pair = rule[0]
-        items = [x for x in pair]
-        if len(items) == 1:
-            print("Rule: " + items[0])
-        else:
-            r = ''
-            for i in range(1, len(items)):
-                r = r + ', ' + items[i]
+        support = rule.support
+        ordered_statistics = rule.ordered_statistics
+        confidences = []
+        # Prints all the possible permutation of the rules with their respective confidence
+        for order in ordered_statistics:
+            base = str(order.items_base).replace('frozenset({', '').replace('})', '').replace("'", '')
+            add = str(order.items_add).replace('frozenset({', '').replace('})', '').replace("'", '')
+            print('{} -> {}'.format(base, add))
+            print('Support: ' + str(support))
+            print('Confidence: ' + str(order.confidence))
+            confidences.append(order.confidence)
+            print('-----------------------------------------')
 
-            print("Rule: " + items[0] + ' -> ' + r[2:])
-        # second index of the inner list
-        print("Support: " + str(rule[1]))
-
-        # third index of the list located at 0th
-        # of the third index of the inner list
-
-        print("Confidence: " + str(rule[2][0][2]))
-        print("Lift: " + str(rule[2][0][3]))
-        print("=====================================")
+        if len(confidences) >= 2:
+            print('Confidence SD: ' + str(stdev(confidences)))
+        print()
+        print()
+        print()
 
 
-if __name__ == '__main__':
+# put every thing together to extract rules from the dataset.
+def main():
+    global data, association_results
     # configs for better print describe function
     pd.set_option('display.max_columns', 500)
     pd.set_option('display.width', 1000)
-
     #
     data = load_data_to_be_processed()
     data = remove_all_zero_values(data)
     data = prepare_data_for_association_rule(data)
     # data.to_csv('/Users/yektaie/Desktop/temp.csv', index=False)
-
+    #
     # print(data.describe())
-
     records = convert_records_to_item_set()
-
-    support = 0.5
-    confidence = 0.7
-
-    association_rules = apriori(records, min_support=support, min_confidence=confidence, min_length=2)
+    min_support = 0.7
+    min_confidence = 0.7
+    association_rules = apriori(records, min_support=min_support, min_confidence=min_confidence, min_length=2)
     association_results = list(association_rules)
-
     print_extracted_rules()
-
     print('Total rule extracted: ' + str(len(association_results)))
     print('Pruned rule: ' + str(pruned_rule_count))
+
+
+if __name__ == '__main__':
+    main()
