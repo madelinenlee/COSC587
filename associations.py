@@ -7,7 +7,10 @@ from apyori import apriori
 # where these attributes are making the antecedents are useless. This list holds those independent variables
 # which will be pruned later in the code.
 GIVEN_COLUMNS = ['age', 'game_date', 'game_num', 'position', 'away', 'dome', 'weather_summary', 'humidity',
-                 'visibility', 'barometer', 'dew_point', 'cloud_cover']
+                 'visibility', 'barometer', 'dew_point', 'cloud_cover', 'position']
+
+POSITIONS = ['TE', 'WR', 'QB', 'RB']
+SUPPORTS = [0.9, 0.7, 0.5, 0.3]
 
 
 # Read the merged dataset and load in pandas data frame.
@@ -172,6 +175,7 @@ def prepare_data_for_association_rule(data):
     data['xp_perc'] = data['xp_perc'].map(lambda x: 'xp_perc' + ':' + bin_equiwidth_value(x, 20))
     data['rec_td'] = data['rec_td'].map(lambda x: 'rec_td' + ':' + str(x))
     data['xpa'] = data['xpa'].map(lambda x: 'xpa' + ':' + str(x))
+    data['position'] = data['position'].map(lambda x: 'position' + ':' + str(x))
     data['xpm'] = data['xpm'].map(lambda x: 'xpm' + ':' + str(x))
     data['away'] = data['away'].map(lambda x: 'away' + ':' + str(x))
 
@@ -240,24 +244,10 @@ def convert_records_to_item_set():
 
 # Util method: get the name of a feature from an item in a transaction set.
 def get_feature(item):
-    ret = item[0:item.index(':')]
-    return ret
-
-
-# Assess if a rule is useful or not.
-# This method consider the independent (input) variables
-def is_useful_rule(_rule):
-    _items = [x for x in _rule[0]]
-    if len(_items) == 1:
-        return get_feature(_items[0]) in GIVEN_COLUMNS
-    else:
-        result = False
-        for i in range(1, len(_items)):
-            if not get_feature(_items[i]) in GIVEN_COLUMNS:
-                result = True
-                break
-
-        return result
+    if ':' in item:
+        ret = item[0:item.index(':')]
+        return ret
+    return item
 
 
 # Print the list of the rules extracted.
@@ -265,10 +255,6 @@ def print_extracted_rules():
     global pruned_rule_count
     pruned_rule_count = 0
     for rule in association_results:
-        if not is_useful_rule(rule):
-            pruned_rule_count += 1
-            continue
-
         support = rule.support
         ordered_statistics = rule.ordered_statistics
         confidences = []
@@ -289,27 +275,101 @@ def print_extracted_rules():
         print()
 
 
+# filter all rows not specific a given position
+def filter_data_on_position(data, position):
+    data = data[data['position'].map(lambda x: x) == position]
+    return data
+
+
+def get_rule_side_variable_count(base):
+    inp = 0
+    output = 0
+
+    parts = base.split(', ')
+    for part in parts:
+        if ':' in part:
+            p = part[0:part.index(":")]
+            if p in GIVEN_COLUMNS:
+                inp += 1
+            else:
+                output += 1
+        else:
+            output += 1
+
+    return inp, output
+
+
+def is_valid_rule(base, add):
+    base_i, base_o = get_rule_side_variable_count(base)
+    add_i, add_o = get_rule_side_variable_count(add)
+
+    if base_o == 0 and add_o == 0:
+        return False
+
+    if add_o == 0:
+        return False
+
+    return True
+
+
+def get_valid_rule_count(rules):
+    result = 0
+
+    for rule in rules:
+        ordered_statistics = rule.ordered_statistics
+        for order in ordered_statistics:
+            base = str(order.items_base).replace('frozenset({', '').replace('})', '').replace("'", '')
+            add = str(order.items_add).replace('frozenset({', '').replace('})', '').replace("'", '')
+            if is_valid_rule(base, add):
+                result += 1
+
+    return result
+
+
+def get_rule_count(rules):
+    result = 0
+
+    for rule in rules:
+        ordered_statistics = rule.ordered_statistics
+        for order in ordered_statistics:
+            result += 1
+
+    return result
+
+
 # put every thing together to extract rules from the dataset.
 def main():
     global data, association_results
     # configs for better print describe function
     pd.set_option('display.max_columns', 500)
     pd.set_option('display.width', 1000)
-    #
-    data = load_data_to_be_processed()
-    data = remove_all_zero_values(data)
-    data = prepare_data_for_association_rule(data)
-    # data.to_csv('/Users/yektaie/Desktop/temp.csv', index=False)
-    #
-    # print(data.describe())
-    records = convert_records_to_item_set()
-    min_support = 0.7
-    min_confidence = 0.7
-    association_rules = apriori(records, min_support=min_support, min_confidence=min_confidence, min_length=2)
-    association_results = list(association_rules)
-    print_extracted_rules()
-    print('Total rule extracted: ' + str(len(association_results)))
-    print('Pruned rule: ' + str(pruned_rule_count))
+
+    for min_support in SUPPORTS:
+        print('=============================================================')
+        for position in POSITIONS:
+            data = load_data_to_be_processed()
+            data = filter_data_on_position(data, position)
+            data = remove_all_zero_values(data)
+            data = prepare_data_for_association_rule(data)
+            data.to_csv('/Users/yektaie/Desktop/temp.csv', index=False)
+            #
+            records = convert_records_to_item_set()
+            min_support = min_support
+            min_confidence = 0.7
+            association_rules = apriori(records, min_support=min_support, min_confidence=min_confidence, min_length=2)
+            association_results = list(association_rules)
+
+            print('Support: ' + str(min_support))
+            print('Position: ' + position)
+            valid_rule = get_valid_rule_count(association_results)
+            total_rule = get_rule_count(association_results)
+            pruned_p = (total_rule - valid_rule) * 100.0 / total_rule
+            print('Valid Rules:' + str(valid_rule))
+            print('Total Rules:' + str(total_rule) + " " + str(pruned_p) + '%')
+            print_extracted_rules()
+            # print('Total rule extracted: ' + str(len(association_results)))
+            # print('Pruned rule: ' + str(pruned_rule_count))
+            print('-------------------------------------------------------')
 
 
 if __name__ == '__main__':
