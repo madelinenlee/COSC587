@@ -351,7 +351,7 @@ def main():
             data = filter_data_on_position(data, position)
             data = remove_all_zero_values(data)
             data = prepare_data_for_association_rule(data)
-            data.to_csv('/Users/yektaie/Desktop/temp.csv', index=False)
+            # data.to_csv('/Users/yektaie/Desktop/temp.csv', index=False)
             #
             records = convert_records_to_item_set()
             min_support = min_support
