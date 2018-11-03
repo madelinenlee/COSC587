@@ -158,3 +158,16 @@ weather_score_clean.py
 
 	Required Folder Structure:
 		This code requires your weather data to be saved in the 'data/' folder at the same level as this file with the name 'weather.csv'
+
+Hp_test.py
+	This script defines functions to run hypothesis testing on merged_data
+
+	Required Packages:
+		numpy
+		pandas
+		sklearn
+		scikitplot
+		matplotlib
+		statsmodels.formula.api
+		
+		
