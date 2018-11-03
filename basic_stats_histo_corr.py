@@ -18,6 +18,8 @@ weather_data = pd.read_csv('weather_cleaned.csv', sep=',')
 predicted_data = pd.read_csv('clean_fantasy_data.csv', sep=',')
 merged_data = pd.read_csv('merged_data.csv', sep=',')
 
+attributes = merged_data.columns.tolist()
+position_list = merged_data['position'].unique().tolist()
 
 # -----------------------------Basic Attributes ------------------------
 
