@@ -5,6 +5,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
+from sklearn.metrics import confusion_matrix
 from statsmodels.formula.api import ols
 from sklearn.model_selection import KFold
 from sklearn import svm
@@ -80,11 +81,11 @@ def string_to_int(df, col_name):
     return m
 
 
-def create_bins_width(df, col_name, bin_num):
+def create_bins_width(df, col_name, bin_width):
     """This function cuts bins using equal width method"""
     max = df[col_name].max()
     min = df[col_name].min()
-    bins = np.arange(min, max, bin_num)
+    bins = np.arange(min, max, bin_width)
     new_col_name = col_name + " group"
     df[new_col_name] = np.digitize(df[col_name], bins)
     df.drop(col_name, axis=1, inplace=True)
@@ -104,9 +105,31 @@ def draw_roc_curve(name, model, X_validate, Y_validate):
     """This functions draws ROC graphs."""
     predicted_probas = model.predict_proba(X_validate)
     skplt.metrics.plot_roc(Y_validate, predicted_probas)
-    # uncomment here to see the plots(Included in the write-up)
-    # plt.show()
+    plt.show()
+    # uncomment here to save the plots(Included in the write-up)
     # plt.savefig(name)
+
+
+def plot_confusion_matrix(Y_pred, Y_test, name):
+    """This function plots the confusion matrix.
+        I don't know how to plot the confusion matrix nicely,
+        and got the code idea from https://stackoverflow.com/questions/19233771/sklearn-plot-confusion-matrix-with-labels/48018785
+    """
+    labels = [1, 2, 3, 4]
+    cnf_matrix = confusion_matrix(Y_test, Y_pred, labels)
+    print(cnf_matrix)
+    fig = plt.figure()
+    ax = fig.add_subplot(111)
+    cax = ax.matshow(cnf_matrix)
+    plt.title('Confusion matrix of ' + name)
+    fig.colorbar(cax)
+    ax.set_xticklabels([''] + labels)
+    ax.set_yticklabels([''] + labels)
+    plt.xlabel('Predicted')
+    plt.ylabel('True')
+    plt.show()
+    # uncomment here to save the plots(Included in the write-up)
+    # plt.savefig("cnf_matrix " + name)
 
 
 def separate_training_testing(myData):
@@ -127,7 +150,8 @@ def model_evaluate(X_train, X_validate, Y_train, Y_validate, num_folds, num_inst
     for name, model in models:
         kfold = KFold(n_splits=num_folds, random_state=seed, shuffle=False)
         cv_results = cross_val_score(model, X_train, Y_train, cv=kfold, scoring=scoring)
-        model.fit(X_train, Y_train)
+        Y_pred = model.fit(X_train, Y_train).predict(X_validate)
+        plot_confusion_matrix(Y_pred, Y_validate, name)
         draw_roc_curve(name, model, X_validate, Y_validate)
         results.append(cv_results)
         names.append(name)
@@ -160,7 +184,7 @@ def hypothesis(position, models, bin_width):
 def main():
     print(t_test_positions())
     models_hype1 = [('KNN', KNeighborsClassifier()), ('CART', DecisionTreeClassifier()),
-                    ('RFC', RandomForestClassifier()),('NB', GaussianNB()),
+                    ('RFC', RandomForestClassifier()), ('NB', GaussianNB()),
                     ('SVM', svm.SVC(gamma=0.001, decision_function_shape='ovo', probability=True))]
     linear_regression()
     hypothesis("QB", models_hype1, 25)
@@ -173,5 +197,5 @@ if __name__ == "__main__":
     # merged_df = pandas.read_csv("merged_data.csv")
     merged_url = "https://raw.githubusercontent.com/madelinenlee/COSC587/master/cleaned_data/merged_data.csv"
     merged_df = pandas.read_csv(merged_url,
-        index_col=0, parse_dates=[0])
+                                index_col=0, parse_dates=[0])
     main()
