@@ -1,5 +1,7 @@
 # COSC587
 Semester Long Project
+Website:
+http://bigredskidoo.georgetown.domains/
 
 cleaned_data/
 	clean_fantasy_data.csv
