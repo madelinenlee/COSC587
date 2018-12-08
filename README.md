@@ -10,7 +10,9 @@ cleaned_data/
 	
 	weather_cleaned.csv
 		Cleaned version of 'data/weather.csv'
-
+	
+	 merged_data.csv
+	 	Merged version of foot_ball and weather data. 
 
 data/
 	fantasy_data/
@@ -160,7 +162,7 @@ weather_score_clean.py
 		This code requires your weather data to be saved in the 'data/' folder at the same level as this file with the name 'weather.csv'
 
 Hp_test.py
-	This script defines functions to run hypothesis testing on merged_data
+	This script defines functions to run hypothesis testing on merged_data(Project 2)
 
 	Required Packages:
 		numpy
@@ -169,5 +171,51 @@ Hp_test.py
 		scikitplot
 		matplotlib
 		statsmodels.formula.api
+ 
+ associations.py
+ 	This script defines association rules. (Project 2)
+
+basic_stats_histo_corr.py
+	This script shows basic stats and histograms of our dataset. (Project 2)
+	
+merge.py
+	This script merges our weather and player data.(Project 2)
+
+outlier_detection.py
+	This script detects our outliers.(Project 2)
+--------------------------------------------------------------------------------------------------------------------------------------
+Project 3 Files
+
+prediction
+	This folder contains a script for our predictions making models. 
+
+predictions
+	This folder contains all the predition files. 
+
+test_data
+	
+training_data
+
+d3_map/
+	/* This folder is for our d3 plots*/
+	bubble_chart_fantasy.html 
+		Bubble chart for fantasy sports industry
+	 
+	 graph_weather.py
+	 	Prepare the merge dataset for our d3 map plot. Calculates all the means for the weather. 
+	
+	index.html
+		Map plot with location of the NFL teams and their weather overiew. 
 		
+	 map_graph.csv
+	 	Data used in our map plot
+		
+	team_latlong.csv
+		Data set of exact location of the NFL teams 
+	
+	us-states.json
+		US states
+
+mnl48_p3_d2.py
+	This script creates plotly plots for our visualiztion. 
 		
