@@ -22,6 +22,8 @@ DATA_SETS = ["all_td", "def_int_td", "fga", "fgm", "kick_ret", "kick_ret_td", "k
              "punt_ret_td", "punt_ret_yds", "punt_ret_yds_per_ret", "punt_yds_per_punt", "rec", "rec_td", "rec_yds",
              "rush_att", "rush_td", "rush_yds", "scoring", "targets", "two_pt_md", "xpa", "xpm"]
 POSITIONS = ["K", "QB", "RB", "TE", "WR"]
+
+# random seed to be able to re produce results.
 SEED = 12
 FEATURE_COUNT = 25
 TRAIN_RATIO = 0.6
@@ -29,14 +31,16 @@ ITERATION_COUNT = 100
 
 MODELS = [
     'linear_regression',
-    # 'keras',
-    # 'svr',
-    # 'knn',
-    # 'dt'
+    'keras',
+    'svr',
+    'knn',
+    'dt'
 ]
 
+USE_TEST_FILE_FOR_FINAL_PRESENTATION = False
 
-# create model
+
+# create a keras model
 def baseline_model():
     model = Sequential()
     model.add(Dense(FEATURE_COUNT, input_dim=FEATURE_COUNT, kernel_initializer='normal', activation='tanh'))
@@ -50,6 +54,7 @@ def baseline_model():
     return model
 
 
+# split the dataset into test and train set.
 def split_to_train_test(X, Y):
     l = len(X)
     train_count = int(l * TRAIN_RATIO)
@@ -60,23 +65,29 @@ def split_to_train_test(X, Y):
     y_train = Y[0:train_count, ]
     y_test = Y[train_count:, ]
 
-    # load test data
-    dataset = numpy.loadtxt("../test_data/" + DATASET_FILE_NAME + ".csv", delimiter=",", skiprows=1)
-    dataset = scale_data_set(dataset)
+    if USE_TEST_FILE_FOR_FINAL_PRESENTATION:
+        # load test data
+        dataset = numpy.loadtxt("../test_data/" + DATASET_FILE_NAME + ".csv", delimiter=",", skiprows=1)
+        dataset = scale_data_set(dataset)
 
-    # split into input (X) and output (Y) variables
-    x_test = dataset[:, 0:FEATURE_COUNT]
-    y_test = dataset[:, FEATURE_COUNT]
+        # split into input (X) and output (Y) variables
+        x_test = dataset[:, 0:FEATURE_COUNT]
+        y_test = dataset[:, FEATURE_COUNT]
 
     return x_train, y_train, x_test, y_test
 
 
+# scale the whole dataset so that values are between 0 and 1
+# The output is also scaled since it is a regression task.
+# The regression error before scaling output was ~70%, but it dropped to 5% after scaling
 def scale_data_set(X):
     scaler = MinMaxScaler(feature_range=(0, 1))
     scaler = scaler.fit(X)
     return scaler.transform(X)
 
 
+# load a training file and train a model on the file.
+# The model is specified by global variables.
 def load_and_train_model():
     numpy.random.seed(SEED)
     # load dataset
@@ -90,6 +101,7 @@ def load_and_train_model():
     x_train, y_train, x_test, y_test = split_to_train_test(X, Y)
 
     params = ''
+    # create estimator based on global variables.
     if CURRENT_MODEL == 'keras':
         estimator = train_neural_net_with_keras(x_train, y_train)
     elif CURRENT_MODEL == 'knn':
@@ -101,18 +113,23 @@ def load_and_train_model():
     elif CURRENT_MODEL == 'linear_regression':
         estimator = train_linear_regression(x_train, y_train)
 
+    # return all values to caller method
     return estimator, x_test, y_test, x_train, y_train, params
 
 
+# train a keras model
 def train_neural_net_with_keras(x_train, y_train):
-    # evaluate model with standardized dataset
+    # used mini batches to speed up training time
+    # verbose tune how much log is printed in output.
+    # With verbose=2, iteration and loss is printed
+    # With verbose=0, nothing is printed
     estimator = KerasRegressor(build_fn=baseline_model, epochs=ITERATION_COUNT, batch_size=5, verbose=2)
     estimator.fit(x_train, y_train)
     return estimator
 
 
+# train a decision regressor on an input data set
 def train_decision_tree_for_regression(x_train, y_train, x_test, y_test):
-    # evaluate model with standardized dataset
     result = None
     params = ''
     min_error = 100
@@ -135,12 +152,12 @@ def train_decision_tree_for_regression(x_train, y_train, x_test, y_test):
     return result, params
 
 
+# train an SVR on the input data. This function calculate a range of possible hyperparameters and return the
+# best combination
 def train_decision_svm_regression(x_train, y_train, x_test, y_test):
     result = None
     params = ''
     min_error = 100
-
-    # 2,6,9,2
 
     for deg in range(5, 16):
         _c = 0.0005
@@ -160,9 +177,11 @@ def train_decision_svm_regression(x_train, y_train, x_test, y_test):
             # evaluate model with standardized dataset
             # estimator = SVR(kernel='linear', C=1e3)
             # estimator.fit(x_train, y_train)
+
     return result, params
 
 
+# train a KNN on the input data. This function calculate the best K and use that for returned estimator
 def train_decision_knn_regression(x_train, y_train, x_test, y_test):
     result = None
     params = ''
@@ -188,12 +207,14 @@ def train_decision_knn_regression(x_train, y_train, x_test, y_test):
     return result, params
 
 
+# create a linear regression estimator and train on input data.
 def train_linear_regression(x_train, y_train):
     estimator = LinearRegression()
     estimator.fit(x_train, y_train)
     return estimator
 
 
+# calculate te absolute error value between the predicted value and true value
 def calculate_error_abs(truth, prediction):
     result = []
 
@@ -203,6 +224,7 @@ def calculate_error_abs(truth, prediction):
     return result
 
 
+# main entry to train models on all training sets.
 def main_model_training():
     results = []
     global DATASET_FILE_NAME
@@ -256,6 +278,7 @@ def main_model_training():
                 # print(results)
 
 
+# optimize knn hyperparameter and generate data to plot chart for write-up/website.
 def knn_hyperpram_optimization():
     results = []
     global KNN_N
@@ -301,6 +324,7 @@ def knn_hyperpram_optimization():
     print(results)
 
 
+# optimize decision tree hyperparameter and generate data to plot chart for write-up/website.
 def dt_hyperpram_optimization():
     results = []
     global DT_DEPTH
@@ -346,6 +370,7 @@ def dt_hyperpram_optimization():
     print(results)
 
 
+# optimize SVR hyperparameters and generate data to plot chart for write-up/website.
 def svr_hyperpram_optimization():
     results = []
     global DT_DEPTH
@@ -390,6 +415,8 @@ def svr_hyperpram_optimization():
         result = ''
 
 
+# Test feature selection for an estimator. without the return in line 435, an exception is thrown since
+# this code is only for classifiers, not for regressors.
 def test_feature_selection():
     global CURRENT_MODEL
     global DATASET_FILE_NAME
@@ -427,4 +454,5 @@ def main():
     test_feature_selection()
 
 
+# main entry
 main()
