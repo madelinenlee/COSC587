@@ -198,8 +198,8 @@ test_data
 	
 training_data
 
-d3_map/
-	/* This folder is for our d3 plots*/
+d3_map
+	This folder is for our d3 plots
 	bubble_chart_fantasy.html 
 		Bubble chart for fantasy sports industry
 	 
